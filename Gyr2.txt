@@ -1,0 +1,329 @@
+45-43:
+
+Tall Echoid
+tXTV nnn nnn nnn n	41	
+nnnnnnnnnnnnnW	45
+
+Mega Alloid
+BLlMS ddd ddd ddd	43	
+ddddddddddddDD	44
+
+Mini Dingloid	
+QWED PPP PPP PPP P	48	
+PPPPPPPPPPPPP6	43
+
+Mini Oombloid	
+bAbEm ddd ddd ddd	46	
+ddddddddddddDD	44
+
+Mega Sputnoid
+wwbEm ddd ddd ddd	48	
+ddddddddddddDD	44
+
+42:
+
+Gargloid	
+AAeeeE SSS SSS SS	43	
+SSSSSSSSSSSSSS	42
+
+Tall Gargloid	
+akwLlbb BBB BBB B	41	
+BBBBBBBBBBBBBB	42
+
+Mega Freakoid	
+AWEGH PPP PPP PPP	49	
+PPPPPPPPPPPPPP	42
+
+Mini Echoid
+bSlDDE SSS SSS SS	42	
+SSSSSSSSSSSSSS	42
+
+Mega Echoid
+TTAt uuu uuu uuu u	42	
+uuuuuuuuuuuuuc	42
+
+Mega Gongoid	
+2WQt uuu uuu uuu u	46	
+uuuuuuuuuuuuuc	42
+
+Gongoid	
+335e GGG GGG GGG G	54	
+gggggggggggggg	42
+
+Tall Gongoid	
+QatxC LLL LLL LLL	42	
+LLLLLLLLLLLLLL	42
+
+Tall Poltergoid
+BDEFU PPP PPP PPP	44	
+PPPPPPPPPPPPPP	42
+
+Lamentoid
+2WwL BBB BBB BBB B	48	
+BBBBBBBBBBBBBB	42
+
+Metatoid
+22blmll LLL LLL L	40	
+LLLLLLLLLLLLLL	42
+
+Mini Squelchoid
+kaAKK XXX XXX XXX	43	
+XXXXXXXXXXXXXX	42
+
+Squelchoid	
+Q&wws ttt ttt ttt	30	
+uuuuuuuuuuuuuu	42
+
+Mini Fizzoid
+TTLUU UU uuu uuu u	46	
+uuuuuuuuuuuuuu	42
+
+Mini Croakoid	
+BcCCWe SSS SSS SS	46	
+SSSSSSSSSSSSSS	42
+
+Mini Strumboid	
+aBB@c LLL LLL LLL	45	
+LLLLLLLLLLLLLL	42
+
+Strumboid	
+bAWCY ppp ppp ppp	48	
+pppppppppppppp	42
+
+Tall Strumboid
+eeDMl SSS SSS SSS	42	
+SSSSSSSSSSSSSS	42
+
+Mini Buzzoid	
+AWEFp PPP PPP PPP	47	
+PPPPPPPPPPPPPP	42
+
+Buzzoid	
+aW33Bbb BBB BBB B	47	
+BBBBBBBBBBBBBB	42
+
+Tall Buzzoid	
+KllKKll LLL LLL L	34	
+LLLLLLLLLLLLLL	42
+
+Drilloid
+AWwwA ttt ttt ttt	35	
+uuuuuuuuuuuuuu	42
+
+Mega Oboid	
+BeMMcAA aaa aaa a	51	
+aaaaaaaaaaaaaa	42
+
+Tall Oboid	
+WeDLK SSS SSS SSS	45	
+SSSSSSSSSSSSSS	42
+
+Mega Clankoid
+RfwBN PPP PPP PPP	43
+PPPPPPPPPPPPPP	42
+
+Clankoid	
+wWeeW SSS SSS SSS	48	
+SSSSSSSSSSSSSS	42
+
+Mini Alloid	
+2ce3 BBB BBB BBB B	43	
+BBBBBBBBBBBBBB	42
+
+Tall Alloid
+CrFGH ppp ppp ppp	44	
+pppppppppppppp	42
+
+Mini Harmonoid	
+QkqA TTT TTT TTT T	46	
+TTTTTTTTTTTTTK	42
+
+Mega Harmonoid	
+qcccRNN nnn nnn n	45	
+nnnnnnnnnnnnnn	42
+
+Mini Tootoid	
+Bceeed SSS SSS SS	39	
+SSSSSSSSSSSSSS	42
+
+Howloid	
+aatAZ XXX XXX XXX	41	
+XXXXXXXXXXXXXX	42
+
+Mini Nebuloid
+WmCCT PPP PPP PPP	49	
+PPPPPPPPPPPPPP	42
+
+Mega Nebuloid
+WCd TTT TTT TTT TT	46	
+TTTTTTTTTTTTTo	42
+
+Squat Nebuloid	
+TTTV FFF FFF FFF F	43	
+FFFFFFFFFFFFFF	42
+
+Tall Nebuloid	
+qatUZ XXX XXX XXX	41	
+XXXXXXXXXXXXXX	42
+
+Wee Dingloid	
+ADEEo PPP PPP PPP	45	
+PPPPPPPPPPPPPP	42
+
+Mega Dingloid
+KLDEr bbb bbb bbb	42	
+bbbbbbbbbbbbbb	42
+
+Squat Dingloid
+aWQZ kkk kkk kkk k	36	
+KKKKKKKKKKKKKK	42
+
+Dingloid	
+qSDl kkk kkk kkk k	32	
+KKKKKKKKKKKKKK	42
+
+Mini Puffoid	
+KkXB5H nnn nnn nn	43	
+nnnnnnnnnnnnnn	42
+
+Tall Puffoid	
+2BBB LLL LLL LLL L	43	
+LLLLLLLLLLLLLL	42
+
+Lullaboid	
+2eDsKK SSS SSS SS	42	
+SSSSSSSSSSSSSS	42
+
+Tall Percoloid	
+QSS22N nnn nnn nn	47	
+nnnnnnnnnnnnnn	42
+
+Tall Sproid
+bEwLlbb BBB BBB B	42	
+BBBBBBBBBBBBBB	42
+
+Rhythmoid	
+AawQA ttt ttt ttt	32
+uuuuuuuuuuuuuu	42
+
+Oombloid
+BAAKKUU uuu uuu u	48	
+uuuuuuuuuuuuuu	42
+
+Mega Bovoid
+aZttKll LLL LLL L	33	
+LLLLLLLLLLLLLL	42
+
+Tall Bovoid	
+3RRC bbb bbb bbb b	44	
+bbbbbbbbbbbbbE	42
+
+Sputnoid
+WA@cc BBB BBB BBB	50	
+BBBBBBBBBBBBBB	42
+
+Mini Quazoid
+SWe3 BBB BBB BBB B	45	
+BBBBBBBBBBBBBB	42
+
+Quazoid	
+24DCr bbb bbb bbb	45	
+bbbbbbbbbbbbbb	42
+
+Tall Quazoid
+SkwWl BBB BBB BBB	44	
+BBBBBBBBBBBBBB	42
+
+
+40:
+
+Mega Dinkoid	
+2CCC TTT TTT TTT T	46	
+TTTTTTTTTTTTTf	40
+
+Mega Percoloid	
+eeBE TTT TTT TTT T	40	
+TTTTTTTTTTTTTf	40
+
+Mini Rythmoid	
+AXXX FFF FFF FFF F	44	
+FFFFFFFFFFFFFf	40
+
+Tall Sputnoid	
+2eeC TTT TTT TTT T	42	
+TTTTTTTTTTTTTf	40
+
+
+28:
+
+Tall Warbloid	
+bbMMlXX xxx xxx x	39	
+xxxxxxxxxxxxxx	28
+
+Mini Poltergoid	
+KsMMlXX xxx xxx x	38	
+xxxxxxxxxxxxxx	28
+
+Mini Lamentoid	
+2wecC% kkk kkk kk	41	
+kkkkkkkkkkkkkk	28
+
+Mega Lamentoid	
+FFFNGT yyy yyy yy	36	
+yyyyyyyyyyyyyy	28
+
+Mega Croakoid	
+A##AKT kkk kkk kk	42	
+kkkkkkkkkkkkkk	28
+
+Tall Croakoid	
+aaeEWXX xxx xxx x	37	
+xxxxxxxxxxxxxx	28
+
+Dekkoid	
+QbSNOE yyy yyy yy	38	
+yyyyyyyyyyyyyy	28
+
+Tall Droploid	
+2eec@@ kkk kkk kk	39	
+kkkkkkkkkkkkkk	28
+
+Mini Sputnoid	
+KldvWN qqq qqq qq	51	
+rrrrrrrrrrrrrr	28
+
+19-15:
+
+Mini Dinkoid	
+2BuCM fff fff fff	29	
+ffffffffffffFF	18
+
+Tall Harmonoid	
+QBLK ttt ttt ttt t	24	
+tttttttttttttK	16
+
+Mega Puffoid	
+BlLX lll lll lll l	20	
+lllllllllllllW	19
+
+Mini Lullaboid	
+CTYY iii iii iii i	23	
+iiiiiiiiiiiiII	16
+
+Tall Oombloid	
+QBuss fff fff fff	24	
+ffffffffffffFF	18
+
+Slim Quazoid	
+klLX lll lll lll l	19	
+lllllllllllllW	19
+
+14:
+
+Mini Drilloid
+KLMMo fff fff fff	30	
+ffffffffffffff	14
+
+Mega Drilloid	
+LeebBLL lll lll l	26	
+llllllllllllll	14
