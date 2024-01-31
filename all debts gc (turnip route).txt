@@ -1,0 +1,36 @@
+All Debts (Turnips w/ Guaranteed Spike)
+
+Latest verison of the tool: https://cdn.discordapp.com/attachments/854821696791642112/1085704636037607566/Animal_Crossing_All_Debts_Tool_v1.05.zip?ex=65a8613c&is=6595ec3c&hm=8aef884234a02d24d3aab90188c263018f83463a6b54117d7b95eadcec28b5e3& (note you will need a decent gpu to actually use this effectively)
+
+Any Sunday @ 9am (as long as there are no events during the week)
+
+- Pick train station went you arrive in town (Stage 2)
+- Capture map > fill out Stage 4 while doing intros
+(LOOK FOR GOLDEN SPOT DURING ALL OF CHORES!)
+- During first nook visit, try and fill out Stage 3 (Furniture and Umbrella)
+
+- During letter writing, capture the names and order
+- Fill out Stage 1 whenever you can (during help chores or while sending letters), then hit Find Possible Seeds
+
+- When it's finished, hit Refine Possible Seeds in Stage 2, then Get Results in Stage 3
+- At this point if the results do not yield a spike or if the spike is below 101 bells, reset.
+- If you can potentially get a good spike, select a result and hit Search for Town in Stage 4, do this until you find your map (if it can't find a map on the spike result(s), does that mean you can reset?)
+
+- Finish Chores (make sure to drop all chores items before re-entering)
+- Enter 3 Codes
+
+30,000 Bells [7F]:
+G H y D e V v v f f w m C @
+o t E t t B y f r d D I I k
+
+30,000 Bells:
+s D @ @ & r q q w w w w w w
+w w w w w w w w w w w w w w
+
+100 Turnips:
+q Q Q b c B a a a A A A A A
+A A A A A A A A A A A A A A
+
+- Buy Shovel and Pay First Debt (might be faster to re-enter nooks now for second debt confirmation)
+- Find Money Rock and Golden Spot before talking to Joan (use program to find rock and spot) and follow specific money route depending on the turnip price
+
