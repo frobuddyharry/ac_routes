@@ -1,0 +1,48 @@
+WW items with null characters needed for 100%
+- for the shirts, double music note DOES fill in some of the shirts, but i need to see what the shirts are
+- stationary comes in sizes of 1-4, need to check if they work with all sizes!
+
+Exotic Wall - \0 (Tom Nook)
+Spade Shirt - \s (Ables)
+No. 2 Shirt - \0 (Ables)
+Blue Check Shirt - \s (Ables)
+Red Check Shirt - \n (Ables - Spring)
+Vegetarian Shirt - \s (Ables)
+Racer Shirt - \0 (Ables)
+Candy Gingham - \0 (Ables - Spring)
+Amethyst Shirt - \s (Ables - Autumn)
+Jagged Shirt - \0 (Ables)
+Military Uniform - \s (Ables)
+Explorer Shirt - \0 (Ables)
+Straw Hat - \s (Ables)
+Puffy Hat - \0 (Ables)
+Bandana - \s (Ables)
+Swimming Cap - \n (Ables)
+Yellow Feather - \0 (500,000 donated)
+Pigtail - \s (Ables)
+Space Helmet - \0 (Ables)
+Opulent Painting - \s (Crazy Redd) (this one isn't a huge issue, just means it will need to be ordered from the catalog to donate)
+Clankoid - \s
+Tall Dingloid - \0
+Mini Fizzoid - \s
+Squat Nebuloid - \0
+
+- this is the list w/o villager pictures (which arent technically considered), here are the villager pictures with null characters incase its decided to include them for hundo
+
+Pango's Pic - \s
+Anchovy's Pic - \0
+Frobert's Pic - \s
+Cesar's Pic - \0
+Filbert's Pic - \s
+Rolf's Pic - \0
+
+
+- imo, if we can find a way to type these null characters, i think villager pictures should maybe be added to the run
+
+- looking at the list, i think there is a slight possibilty of this being rta viable with very good luck, considering how many accessories and shirts there are available. don't think i will attempt rta until null stuff is figured out honestly
+
+
+
+
+
+

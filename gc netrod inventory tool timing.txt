@@ -1,0 +1,93 @@
+time is timestamps in pb runs
+
+PUT AWAY FOR NET
+
+cold (putting net away)
+40:11.55
+40:14.62 
+
+3.07
+
+fro 
+animation 1
+41:48.92
+41:49.55
+
+.63
+
+tortimer animations
+42:31.87
+42.33.49
+
+1.62
+
+total 2.25 for animations
+
+putting net away
+3.07
+not putting net away
+2.25
+
+~ .82 faster to not put away net
+
+PUT AWAY FOR ROD
+
+brian
+(drop 2 items)
+52:39.69
+52.41.30
+
+1.61
+
+(put away rod)
+52:41.43
+52:43.82
+
+2.39
+
+4.00 total
+
+cold
+(drop item)
+1:06:25.45
+1:06.25.40
+
+0.95
+
+(rod put away and drop)
+1:06:26.62
+1:06.29.41
+
+2.79
+
+total 3.74
+
+drew
+(drop 1 item)
+59:38.36
+59.39.33
+
+0.97
+
+first animation
+1:00:00.63
+1:00:01.25
+
+.62
+
+tortimer
+1:00:45.02
+1:00:46.61
+
+1.63
+
+2.25 total
+
+3.22 total
+
+putting away rod
+4.00 ~ 3.74
+not putting away rod
+3.22
+
+~ .78-.52 faster to not put away rod

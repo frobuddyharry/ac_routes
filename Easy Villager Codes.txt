@@ -1,0 +1,361 @@
+Jingle Bed:
+F e r c u r y u h e w h i t
+m o r c n r y t n e w h i t
+
+Jingle Clock:
+C h L E U h E s r e r s e Y
+l r o n w h i s r e r s e Y
+
+Jingle Dresser:
+D J i s a f a n o f J a c K
+D J i s a f a n o f J a c 3
+
+Jingle Lamp:
+C h L E w h i s r e r s e Y
+l r o n w h i s r e r s e Y
+
+Snowman Dresser:
+D e n n i s M f l l e r I s
+S o k D a m n A w e s o m e
+
+Snowman Lamp:
+v p t m i l k g o D m i l k
+g o t m i l k g o t m i % k
+
+Spooky Bookcase:
+a I b I c I d I e I f I P y
+a I b I c I d I e I f I G y
+
+Spooky Clock:
+s G t p e p p e r x w I l l
+l e a d u s t o h e a v e n
+
+Station Model 6:
+f l i p s i d e i s a r e a
+l e y b a d u c h u n t e r
+
+Station Model 5:
+K u r d t K o b a i n I o Y
+B i g S a c k O f S h I o Y
+
+Tailor Model:
+K G a b B x(9)
+S 6 n Y 2 J I F 0 G E @ i z
+
+Shop Model:
+h i c K o r y d 2 c k o r y
+d o c k t h e m o u s e h e
+
+Well Model:
+U G a x(11)
+S 6 n Y 2 J I F O G E @ i z
+
+Snowy Tree Model:
+R h a t H a v e Y o u G o t
+F o r M e T o d a y N o o k
+
+Tree Model:
+R s E e n B L c B t I s e e
+D s e e n e j c k t I s e e
+
+Moon:
+B s e I m O u Z n D C s e e
+I J e e m P u I n a C s e e
+
+Dolly:
+h i c K o r y d i c k o r y
+d o c k t h e m o u s e h e
+
+Stone Coin:
+h e c K o r y d i c k o r y
+d o c k t h e m o u s e h e
+
+Mermaid Statue:
+k u k e l e i s r o h i p y
+k k r e l e i s r o h i p y
+
+Manekin Pis:
+D e n n i s M i l l e r I s
+S o k D a m n A w e s q m e
+
+Lady Liberty:
+K u r d t b o b a i n I o Y
+B i g F a t k O f S h I o Y
+
+Chinese Lion:
+T h e D r a g o n C o m e s
+T o K i l l a l l o f y o u
+
+Surfboard:
+A d v e n t u r e s O f R o
+c k y & B u l l w i N k l e
+
+Life Ring:
+n o h o p q f o r t h e F 5
+a b s o l u t e l y n o n e
+
+Sleeping Bag:
+h i c K o r l d 5 c k o r y
+d o c k t h e m o u s e h e
+
+Cooler:
+l i K D K x y d i c k o r y
+d o c k t h e m o u s e h e
+
+Brick Block:
+A r i s S r i s 2 & 5 e U P
+A r i s A r i s 2 & 5 e U P
+
+Baseball:
+T h e r e i s n o u c f o r
+p u n c h o u t d a m n i t
+
+Blue Bed:
+U x(13)
+S 6 n Y 2 J I F O G E @ i z
+
+Blue Dresser: 
+U e t s b e e x t r a c d Y
+Y e t s b e e x t r a c y G
+
+Cabin Dresser:
+I D k t B T B e N e w W a y
+O f P o s t i n g C o d e z
+
+Classic Vanity:
+I D k t e T B e N e w W a y
+O f P o g t i n g C o d e z
+
+Green Dresser:
+I D k t B T G e N e w W a y
+O f P o s t i n g C o d e z
+
+Green Wardrobe: 
+I H k t e T h e N e w W a y
+O f P o s t i n g C o d e z
+
+Kiddie Bed: 
+A B o y q n d H i s g l o b
+A B o y A n d H i s B l o b
+
+Kiddie Stereo: 
+B s e e m G u s s a I s e e
+C H e e m G u s s a I s e e
+
+Modern Wardrobe: 
+I D k t e T G e N e w W a y
+O C P o g t i n g C o d e z
+
+Regal Chair: 
+F r o m d a y t o d a y d Y
+1 e o m d a y t o d a y d Y
+
+Regal Cupboard: 
+G r a b 5 a g g r s b b a g
+G r a b b a g G r a b b a g
+
+Backyard Pool: 
+J u s r e x a c t l y w f Y
+L x O r e x a c t l y w f Y
+
+Black King: 
+B w a i n e m o l e s t e d
+y i c h a e l j a c k s o n
+
+White Bishop: 
+A B o y q n d H e s B l o b
+A B o y A n d H i s B l o b
+
+Cement Mixer: 
+L t w J e r s e y n e w e Y
+M o s F m r s e y n e w y G
+
+Garden Pond: 
+W o u l d l i k e s a v c Y
+1 a u l d l i k e s a v c Y
+
+Hamster Cage:
+F r o m s c r a t c h s o Y
+F r o m s c r a t c h s y G
+
+Arwing: 
+I 7 r 4 5 6 7 8 9 1 2 3 4 5
+E 2 3 4 5 6 7 8 9 1 2 3 4 Y
+
+Ivory Piano: 
+G r H b 5 a g g r a b b a g
+G r a b b a g G r a b b a g
+
+Dracaena: 
+x(14)
+S 6 n Y 2 J I F O G E @ i z
+
+High-end Stereo: 
+T a n n a K a p p n e s i Y
+T a n n a j a p o n e s i Y
+
+Amazing Painting: 
+B A e e r U s m h r I s e e
+G Q e e r D s e h r I s e e
+
+Basic Painting: 
+B A e e r U s m h r I s e e
+G B e e r D s e h r I s E e
+
+Dainty Painting:
+e k r i % m a 9 i o m 5 r o
+F l r i o m a r i o m a r o
+
+Quaint Painting: 
+B D e e r U s m h r I s e e
+G B e e r D s e h r I s e e
+
+Scary Painting: 
+B s e e D m u m A r I s e e
+G s e e r m u m h r 6 s e e
+
+Folding Chair: 
+O A 5 O B 5 A D W D U 3 % z
+J L S x q t I h R x y F r T
+
+OPTIONAL MUSEUM STUFF CODES
+
+Tricera Skull:
+C C m n F n u f j Z z m B F
+v V h R a & s N t s P r e i
+ 
+Tricera Torso:
+F w m 2 W k u f a 5 b t R h
+9 e o K p U Q N m X u r 4 X
+ 
+Tricera Tail:
+x C m n F n u f a Z z m B S
+v V a # p w s N t s P r e X
+ 
+T-Rex Skull:
+x C m n F n u a j Z Y m B b
+V V h # p U s N t U P r e X
+ 
+T-Rex Torso:
+& W U F W W 4 E H D b % 6 p
+X 3 @ H H a J l R o X S p a
+ 
+T-Rex Tail:
+x C m n F c u a j Z Y m B K
+V V a # p w s N t s P r e X
+ 
+Apato Skull: 
+& W E F W W 4 r t m O l 6 p
+y E v P H a J l A o X f p a
+ 
+Apato Torso: 
+V w l n T R F E 7 W v B c 4
+z X B t g V l 8 m v D w f y
+ 
+Apato Tail: 
+T w l n Z s u E w W l h c z
+z p O t g V % 8 m v D # f y
+ 
+Stego Skull:
+& W E F W W 4 r t P O % 6 S
+5 E v P H a J l A o X S p a
+ 
+Stego Torso: 
+V w l n T & F f w W v B c 4
+z X B t g V l d 7 v & w f y
+ 
+Stego Tail: 
+T w l n Z R u f 7 W l h c z
+z p O t g V % d 7 v & # f y
+ 
+Ptera Skull: 
+& W U F W W 4 E H D b % 6 S
+W 3 @ H H a J l R o X S p a
+ 
+Ptera Right Wing: 
+J w l n A R u f w J v B c 4
+z p B t g V l d k v & w f y
+ 
+Ptera Left Wing: 
+8 W E F W W P r e m O a 6 p
+y E v P H K J l A o J a p a
+ 
+Plesio Skull: 
+T w l n T R u E w W v B c 4
+z p B t g V l 8 m v D w f y
+ 
+Plesio Neck: 
+& W U F W W 4 r t P O % 6 p
+W 3 @ P H a J l A o X S p a
+ 
+Plesio Torso:
+G w l n M R F E 7 J l h c z
+z X Y t g V % 8 o v D # f y
+ 
+Mammoth Skull: 
+V w l n T R F E w W v B c 4
+z X o t g V l 8 m v D w f y
+ 
+Mammoth Torso:
+& W E F W W 4 E H I b l 6 p
+b E v H H a J l R o X f p a
+ 
+Amber:
+& W U F W W 4 r t m O l 6 p
+h 3 @ P H a J l A o X f p a
+ 
+Dinosaur Track: 
+8 W E F W W P E P m b a 6 S
+b E v H H K J l R o J a p a
+ 
+Ammonite: 
+J w l n A R u E w J v B c 4
+z p B t g V l 8 o v D w f y
+ 
+Dinosaur Egg: 
+& W E F W W 4 E H D b % 6 S
+c E v H H a J l R o X S p a
+ 
+Trilobite:
+J w l n M R u E w J l h c z
+z p O t g V % 8 o v D # f y
+
+Common Painting:
+T h L B z e w % x z z a d a
+V g 5 R 4 w H c L H q v 8 D
+ 
+Famous Painting:
+n l 2 K y 2 S e V # n d F c
+h s @ p O K 9 K 3 l W # 6 S
+ 
+Flowery Painting: 
+T h L V z e w % x z z a d a
+V g 5 s i w H c L H a g 8 D
+ 
+Moving Painting:
+a u Y 5 o a 7 O 4 G K b 9 C
+M D D d e d E i L x Q a 5 P
+
+Classic Painting:
+c B 2 K Q 2 S t V # l d m q
+h s 9 p O z I K 3 v u # a F
+ 
+Fine Painting: 
+n l 2 K l 2 S e V # n d C c
+h s @ p O K X K 3 l W # 5 S
+ 
+Perfect Painting: 
+j h L V z e w % x V K Z D a
+V g K & i w T 3 L H a g 8 N
+ 
+Rare Painting: 
+j Z k O Y o & & M & o f l l
+2 i g k s % @ c r F W w o Y
+ 
+Strange Painting: 
+n B 2 K y 2 S e V # 6 d F c
+h s 9 p O z 9 K 3 v W # l S
+ 
+Worthy Painting: 
+l N Y 6 u g 7 O k V K K 9 C
+M D D @ e d E i I x Q a 5 P

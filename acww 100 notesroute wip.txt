@@ -1,0 +1,237 @@
+note: ww 100% is seeming unlikely due to items having null characters used for their ids, making lhg impossible for those items. until a way is found to type out these null characters, putting the project on hold :(
+
+Full Catalog (LHG Allowed)
+Full Museum (LHG Allowed for Paintings/Fossils)
+All Golden Tools (LHG Allowed to get items for tools, not the tools themselves)
+All Bugs (No LHG)
+All Fish (No LHG)
+All Nook Upgrades (No LHG)
+All K.K. Songs (LHG Allowed (run must end on two days ago so dont lhg it!)
+All Debts (LHG for money allowed)
+
+THINGS WE KNOW
+- max lhg (spamming until u cant anymore) of the music note fills out the entire furniture section of the catalog and some of the shirts, it seems completely impossible to fill out the rest of the catalog.
+
+- you can get both the golden net and golden rod from tortimer by talking to him twice
+
+- even though k.k. songs are in the catalog, they are still needed for 100% imo, cold does it in his 100% us playthrough and it makes sense
+
+- lhg nook upgrades work, but the capacity of items stay the same as nooks cranny, need to test if shop upgrades go in order or go straight to nookingtons!!!!
+
+- for hats/accessories, it seems like you need the lhg the furniture version of them, drop them and pick them up for it to be added to the catalog
+
+- strat might be to have regular nooks by post and then lhg nookingtons by house in a specific spot so its as close as possible
+
+- you can make house clones, whichever clone has the highest upgrade becomes the newest house entry (though the actual house itself inside isnt changed) (cant replicate this right now, there is clearly more to this than i thought)
+
+- if you have two or more of the same house upgrade clone, it takes priority for the first upgrade made
+
+- when doing single lhg for seeds/clones, the only item that matters is the first one, the second one is a stump and third one is a blank item.
+
+- you can still get nook upgrades for the original nooks, meaning u can lhg nookingtons, and still get it originally! not sure if nookingtons is really the way to go for this run, ideally you will get almost everything with lhg to avoid confusion
+
+- おととい (two days ago, song request is both top options in this game)
+
+ROUTE:
+(route prone to changes)
+
+Golden Net & Rod/AGT w/All Debts/All Nook Upgrades
+LHG Segment (full catalog, full museum, all k.k songs)
+
+January 2nd 2030 @ 7pm
+- post office near beach where ur coconut trees will go, with full ocean space and bridge near lake ideally
+- do chores, lhg すっ なっ ｡と x15, store 16,777,888, nook in left post office corner, house up left of post office board, facing down
+
+- pay first debt, talk to nook, lhg throne and sell, paper from nooks (from now on, all debts is really easy, just deposit as needed, and withdraw as needed)
+
+- lhg gold roses using やと, place 11 in every acre (there are 16), then go forward one day, then forward 15 days
+(THIS NEEDS TO BE RE-ROUTED, but i don't know how... you need to get forward for pascal to get axe so im not sure what to do about this, i think lhg golden axe and getting it for real later shouldn't be allowed but idk)
+
+- lhg scallop, rod, two axes and thrones to sell
+- go down a day until you find pascal, get the golden axe, get fish (should get nook upgrade from this, if not then go forward more)
+- donations at museum, save
+
+Dace
+Bitterling
+Pond Smelt
+Koi
+Sea Butterfly
+Red Snapper
+Sea Bass
+Tuna
+Horse Mackerl
+Barbel Steed
+Dab
+Olive Flounder
+Squid
+Football Fish
+Crucian Carp
+Freshwater Goby
+Yellow Perch
+Stringfish
+
+September 1st 2029 @ 12:04pm
+- check for balloons every :X4, debts as needed, lhg and sell a throne, then go forward x days for upgrade
+- catch fish, catch bugs that might show up aswell then donate
+
+Grasshopper
+
+Pale Chub
+Bass
+King Salmon
+Salmon
+Seahorse
+Barred Knifejaw
+Pufferfish
+Carp
+Crawfish
+Popeyed Goldfish
+
+August 1st 2029 @ 12:04pm
+- balloon check, debts as needed, lhg multiple thrones? look into this, catch bugs and fish
+- prep trees and coconut trees, net lhg for hybrids/coconuts, will need to donate multiple times
+
+Emperor Butterfly
+Agrias Butterfly
+Birdwing
+Brown Cicada
+Robust Cicada
+Walker Cicada
+Darner Dragonfly
+Banded Dragonfly
+Walking Stick
+Jewel Beetle
+Longhorn Beetle
+Ant
+Fly
+Bee
+
+Frog
+Goldfish
+Giant Snakehead
+Dorado
+Bluegill
+Zebra Turkeyfish
+Clownfish
+Guppy
+Sweetfish
+Piranha
+Ocean Sunfish
+
+August 16th 2029 @ 12:04pm
+- grab fish, final nook upgrade too! potentially all debts too? balloon check
+- flowers are bound to be destroyed, go around map finding rest of flowers (make sure u picked up hybrid if needed)
+
+Jellyfish
+
+July 1st 2029 @ 11pm
+- if you get rain, get coelacanth (snail too?) and then go up a day up a day until no rain (good time for all debts if needed)
+- if you get no rain, go for rain later
+- donations when needed
+
+Mosquito
+Moth
+Oak Silk Moth
+Lantern Fly 
+Fruit Bug
+Scarab Beetle
+Saw Stag Beetle
+Stag Beetle
+Giant Beetle
+Rainbow Stag
+Dynastid Beetle
+Goliath Beetle
+Atlas Beetle
+Elephant Beetle
+Hercules Beetle
+Cockroach
+Tarantula
+Scorpion
+Flea
+Spider
+
+Eel
+Arapaima
+Angelfish
+Hammerhead Shark
+Catfish
+Octopus
+Gar
+Killifish
+Arowana
+Swordfish
+Coelacanth
+Shark
+
+October 1st 2028 @ 5pm
+
+Cricket
+Bell Cricket
+
+October 1st 2028 @ 11:04am
+
+Long Locust
+Migratory Locust
+Mantis
+Orchid Mantis
+Red Dragonfly
+Monarch Butterfly
+Ladybug
+
+Rainbow Trout
+Large Char
+Cherry Salmon
+
+August 1st 2028 @ 7am
+- good place to get missing fish that u can get here
+
+Evening Cicada
+
+June 29th 2028 @ 7pm
+- if you still need coelacanth, go to early july first to look for rain at 11pm
+
+Firefly
+
+June 29th 2028 @ 9:04am
+- if you need snail, now is the time to get rain
+- if no rain, get bugs then go down a year as needed (or 1 attempt forward for all debts if needed)
+
+Pondskater
+Peacock
+Common Butterfly
+Yellow Butterfly
+Tiger Butterfly
+Honeybee
+
+March 2nd 2028 @ 12:04pm
+
+Loach
+
+January 2nd 2028 @ 11pm
+- golden rod
+
+Mole Cricket
+Dung Beetle
+Pill Bug
+
+April 3rd 2027 @ 9:04am
+- golden net
+- you will most likely be on a different year, so here are the saturdays for the other years
+
+2026 - 4th
+2025 - 5th
+2024 - 6th
+2023 - 1st
+2022 - 2nd
+2021 - 3rd
+2020 - 4th
+2019 - 5th
+2018 - 6th
+
+- start by doing the double music note LHG to fill the entire furniture catalog
+- continue going down a year at 9:04 for balloons, and lhg fossils/paintings and donate them after shooting down the balloons
+- after getting the golden slingshot, lhg everything (not sure about the ids or anything heavy testing needs to be done, the shirts and hats like dont get added and arent dropable and wearable so..)
+
+April 3rd 2027 @ 8pm
+- enter the roost, talk to k.k (both top options)
+- two days ago, gg

@@ -1,0 +1,83 @@
+Golden Rod (rta version of tas)
+February 28th 2028 @ 4pm
+- left to up corner river acre + good lake or bridge near lake
+- Chores > move item 1 down before re-entry > rod code
+ 
+u V V e E e @ s j J x J p r
+B F r b 2 H O x x q z a b M
+
+Loach
+Pond Smelt
+Bitterling
+Freshwater Goby*
+Dace*
+Koi
+Stringfish
+
+*can get later at worse shadow odds
+
+Loach: If you are unlucky (1/3 chance), you will be completely unable to get a Loach right now, and will need to make an extra trip to March 9am. In order to single out Loach, throw further from the fish, as Loach vision is much better than the other tinies. If you get Stringfish really quickly, you can go forward 2 days to grab it quickly along with Koi. If you do this, try for other spring fish aswell.
+Stringfish: Odds very well could be lower because of the month switch, but my experience with it has not been too bad :)
+Koi: Needs to be forced now, should help not kill runs later honestly.
+Dace: If you get an insane Arowana in June, finding Dace is just a dumb timeloss you want to avoid. Get Dace here so it's not a potential issue later!
+
+June 1st 2027 @ 3:45-50pm
+
+The goal here is to catch all required fish and then flip into 4pm to catch fish needed there. This is very precise, and probably won't work but it's worth an attempt if you are trying to be optimal. It might cost a couple seconds but in my opinion I think it's worth it.
+You can set time to whatever you want, but I think 3:50-3:45 is the best, if you are going for WR times, 3:50 is optimal.
+
+- If you get all the fish too early, save and quit and go forward to 4pm. 
+- If you get all the fish too late, get the 4pm fish first then go back. 
+- If you are close and need to kill some time, then catch pond fish or other fish
+
+Guppy
+Popeyed Goldfish
+Small Bass
+Pale Chub
+Bluegill
+Barbel Steed
+Brook Trout
+Giant Snakehead
+
+Fish for Killing Time and where to get them later:
+
+Killifish (june)
+Frog (june)
+Crawfish (june)
+Crucian Carp (september)
+Bass (june)
+Large Bass (june)
+Carp (june)
+Sea Bass (june)
+
+June 1st 2027 @ 4pm
+
+Angelfish
+Arowana
+Cherry Salmon
+Rainbow Trout
+Large Char
+
+Angelfish and Arowana both have bad shadow based odds here, but this route does have serious potential to be fast. That being said, if you get very fast Arowana and fast spring fish, and you did get the June date skip, I feel like it's worth it to go to 3am and grab both Piranha, Angelfish, and Giant Catfish to do August 23:59
+
+August 31st 2026 @ 23:57
+Giant Catfish
+Jellyfish
+
+Quickly go to the Ocean to get the Jellyfish, and wait for time to change
+
+September 1st 2026 @ 00:00
+Red Snapper
+Barred Knifejaw
+Coelacanth
+Goldfish
+Piranha
+Sweetfish
+Eel
+Catfish
+Arapaima
+Salmon
+
+If you do not get rain, save and go up a day until you get rain honestly.
+Any remaining fish need to be caught now, as this is the final split.
+After getting the final fish, reload and get the Golden Rod.

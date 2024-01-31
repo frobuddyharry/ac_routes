@@ -1,0 +1,627 @@
+Feng Shui
+
+Red:
+        Jingle Wardrobe
+        Jingle Dresser
+        Lovely Dresser
+        Red Sofa
+        Red Armchair
+        Lovely Lamp
+        Ranch Bed
+        Birdcage
+        Blue Dresser
+        Cabin Bed
+        Grapefruit Table
+        Plum Bonsai
+        Giant Dharma
+        Dharma
+        Mini-Dharma
+        Quince Bonsai
+        Traffic Cone
+        Orange Cone
+        Red Drum
+        Iron Frame
+        Watermelon Chair
+        Watermelon Table
+        Detour Arrow
+        Cabin Table
+        Goldfish (Furniture)
+        Crawfish (Furniture)
+        Red Snapper (Furniture)
+        Clu Clu Land
+        Donkey Kong
+        Donkey Kong 3
+        Red Boom Box
+        Jingle Lamp
+        Jingle Chair
+        Jingle Shelves
+        Jingle Sofa
+        Jingle Bed
+        Jingle Clock
+        Jingle Table
+        Jingle Piano
+        Post Box
+        Red Balloon
+        Tailor Model
+        Miniature Car
+        Fireplace
+        Haz-mat Barrel
+        Barbecue
+        Hamster Cage
+        Red Corner
+        Tulip Model 2
+        Lantern
+        Lawn Mower
+        Noisemaker
+        Fire Hydrant
+ 
+Yellow:
+        Classic Sofa
+        Gold Econo-chair
+        Lemon Table
+        Exotic Lamp
+        Blue Table
+        Striped Cone
+        Barricade
+        Fence
+        Plastic Fence
+        Fence and Sign
+        Melon Chair
+        Robotic Flagman
+        Warning Sign
+        Sunflower
+        Pinball
+        Yellow Balloon
+        Steam roller
+        Super Mushroom
+        Kayak
+        Sprinkler
+        Tent Model
+        Pansy Model 1
+        Cosmos Model 2
+        Tulip Model 1
+ 
+Orange:
+        Spooky Wardrobe
+        Spooky Dresser
+        Shogi Board
+        Screen
+        Ruby Econo-chair
+        Orange Chair
+        Maple Bonsai
+        Jack-o'-Lantern
+        Spooky Bed
+        Spooky Chair
+        Spooky Bookcase
+        Spooky Sofa
+        Spooky Table
+        Spooky Clock
+        Spooky Lamp
+        Spooky Vanity
+        Gerbera
+        Mario Bros
+        Super Mario Bros
+        Bunny O. Balloon
+        Merge Sign
+        Wet Roadway Sign
+        Detour Sign
+        Men at Work Sign
+        Flagman Sign
+        Cement Mixer
+        Oil Drum
+ 
+Green:
+        Green Wardrobe
+        Green Dresser
+        Froggy Chair
+        Lily-pad Table
+        Ranch Couch
+        Ranch Armchair
+        Jade Econo-chair
+        Tall Cactus
+        Round Cactus
+        Train Set
+        Caladium
+        Lady Palm
+        Green Bed
+        Green Bench
+        Green Chair
+        Green Pantry
+        Green Counter
+        Green Lamp
+        Green Table
+        Aloe
+        Bromeliaceae
+        Coconut Palm
+        Snake Plant
+        Rubber Tree
+        Pothos
+        Fan Palm
+        Lime Chair
+        Weeping Fig
+        Corn Plant
+        Croton
+        Pachira
+        Cactus
+        Deer Scare
+        Pine Bonsai
+        Mugho Bonsai
+        Ponderosa Bonsai
+        Azalea Bonsai
+        Jasmine Bonsai
+        Hawthorne Bonsai
+        Holly Bonsai
+        Green Drum
+        Green Desk
+        Frog (Furniture)
+        Chalk Board
+        Green Balloon
+        Market Model
+        Tree Model
+        Weed Model
+        Grass Model
+        Bird Bath
+        Green Pipe
+        Koopa Shell
+        Desert Cactus
+        Sleeping Bag
+ 
+Special:
+        Starman
+        Luigi Trophy
+        Mario Trophy
+        G Logo
+        Hinaningyo
+        Samurai Suit
+        Tanabata Palm
+        Big Festive Tree
+        Festive Tree
+        Dracaena
+        Treasure Chest
+        Tissue
+        Piggy Bank
+        Mailbox
+        Angler Trophy
+        Autumn Medal
+        Spring Medal
+        Fishing Trophy
+        Post Model
+        House Model
+        Manor Model
+
+Lucky:
+        Ice Climber
+        Legend of Zelda
+        Mario Bros
+        Super Mario Bros
+        Modern Desk
+        Jack-in-the-Box
+        Garden Gnome
+        Garden Pond
+        Arwing
+        G Logo
+        Master Sword
+        N Logo
+        Frog Woman Pole
+        Hinaningyo
+        Samurai Suit
+        Tanabata Palm
+        Big Festive Tree
+        Festive Tree
+        Ivory Piano
+        Plum Bonsai
+        Dracaena
+        Treasure Chest
+        Birthday Cake
+        Piggy Bank
+        Mailbox
+        Aerobics Radio
+        Lovely Phone
+        Balloon Fight
+        Baseball
+        Clu Clu Land
+        Clu Clu Land D
+        DK Jr Math
+        Donkey Kong
+        Donkey Kong 3
+        Donkey Kong Jr
+        Excitebike
+        Golf
+        Pinball
+        Soccer
+        Tennis
+        Wario's Woods
+        NES
+        Well Model
+        Post Model
+        House Model
+        Manor Model
+
+	
+Bug Displays:
+
+Bottom-Left:
+
+Bagworm
+Bee
+Mole cricket
+Common dragonfly
+Red dragonfly
+Darner dragonfly
+Banded dragonfly
+
+Bottom-Right:
+
+Cricket
+Grasshopper
+Pine cricket
+Bell cricket
+Long locust
+Migratory locust
+Pill bug
+
+Middle-Left:
+
+Common butterfly
+Spotted ladybug
+Mantis
+Yellow butterfly
+Firefly
+Tiger butterfly
+
+Middle-Right:
+
+Snail
+Pond skater
+Spider
+Purple butterfly
+Ladybug
+Mosquito
+
+Top-Left:
+
+Jewel beetle
+Robust cicada
+Flat stag beetle
+Saw stag beetle
+Ant
+Dynastid beetle
+Brown cicada
+
+Top-Right:
+
+Giant beetle
+Mountain beetle
+Drone beetle
+Walker cicada
+Longhorn beetle
+Evening cicada
+
+Floor:
+Cockroach
+
+
+Fish Tanks:
+
+Bottom-Left:
+
+Dace
+Pale chub
+Pond smelt
+Sweetfish
+Cherry salmon
+Rainbow trout
+Large char
+Stringfish
+Crawfish
+
+Bottom-Right:
+
+Giant snakehead
+Guppy
+Angelfish
+Piranha
+Arowana
+Arapaima
+
+Top-Left:
+
+Crucian carp
+Brook trout
+Carp
+Koi
+Barbel steed
+Bitterling
+Eel
+Goldfish
+Popeyed goldfish
+Killifish
+
+Top-Right:
+
+Catfish
+Giant catfish
+Loach
+Bluegill
+Small bass
+Bass
+Large bass
+Freshwater goby
+Frog
+
+Back:
+
+Salmon
+Coelacanth
+Jellyfish
+Sea bass
+Red snapper
+Barred knifejaw
+
+
+Paintings:
+
+Bottom-Left:
+
+Basic painting
+Quaint painting
+Flowery painting
+
+Bottom-Right:
+
+Strange painting
+Perfect painting
+
+Top-Left:
+
+Dainty painting
+Amazing painting
+
+Top-Right:
+
+Fine painting
+Scary painting
+Classic painting
+
+Back:
+
+Common painting
+Worthy painting
+Famous painting
+Moving painting
+Rare painting
+
+
+Fossils:
+
+Bottom-Left:
+
+Apato tail
+Apato torso
+Apato skull
+
+Bottom-Right:
+
+Plesio skull
+Plesio neck
+Plesio torso
+
+Center:
+
+Amber
+Dinosaur track
+Ammonite
+Dinosaur egg
+Trilobite
+
+Middle-Left:
+
+Mammoth skull
+Mammoth torso
+
+Middle-Middle:
+
+Ptera left wing
+Ptera skull
+Ptera right wing
+
+Middle-Right
+
+Stego skull
+Stego torso
+Stego tail
+
+Top-Left:
+
+Tricera tail
+Tricera torso
+Tricera skull
+
+Top-Right:
+
+T-rex skull
+T-rex torso
+T-rex tail
+
+Models:
+Cosmos Model 1 -- 910 -- Groundhog Day (2/2)
+Cosmos Model 2 -- 910 -- yellow -- Groundhog Day (2/2)
+Cosmos Model 3 -- 910 -- Groundhog Day (2/2)
+Dirt Model -- 1,200 -- Tom Nook's shop
+Dump Model -- Spring Cleaning (5/1)
+Grass Model -- 1,200 -- green -- Tom Nook's shop
+House Model -- special -- Have 70,000 points from the HRA
+Igloo Model -- Igloo resident (wintertime)
+Katrina's Tent Model -- Halloween (10/31)
+Lighthouse Model -- Gift from Tortimer (first two months of the year)
+Locomotive Model -- Father's Day (6/third Sunday)
+Manor Model -- special -- Have 100,000 points from the HRA
+Market Model -- green -- Sale Day (11/fourth Friday)
+Museum Model -- Complete all Museum exhibits
+Pansy Model P. -- 930 -- Groundhog Day (2/2)
+Pansy Model W. -- 930 -- Groundhog Day (2/2)
+Pansy Model Y. -- 930 -- yellow -- Groundhog Day (2/2)
+Pink Tree Model -- Cherry Blossom Festival (4/5-7)
+Police Model -- Officer's Day (11/11)
+Post Office Model -- special -- Have 999,999,999 bells in Post Office savings
+Shop Model -- Labor Day (9/first Monday)
+Snowy Tree Model -- Igloo resident (wintertime)
+Station Model 1 -- "Your Hometown" Day (July)
+Station Model 10 -- "Your Hometown" Day (July)
+Station Model 11 -- "Your Hometown" Day (July)
+Station Model 12 -- "Your Hometown" Day (July)
+Station Model 13 -- "Your Hometown" Day (July)
+Station Model 14 -- "Your Hometown" Day (July)
+Station Model 15 -- "Your Hometown" Day (July)
+Station Model 2 -- "Your Hometown" Day (July)
+Station Model 3 -- "Your Hometown" Day (July)
+Station Model 4 -- "Your Hometown" Day (July)
+Station Model 5 -- "Your Hometown" Day (July)
+Station Model 6 -- "Your Hometown" Day (July)
+Station Model 7 -- "Your Hometown" Day (July)
+Station Model 8 -- "Your Hometown" Day (July)
+Station Model 9 -- "Your Hometown" Day (July)
+Tailor Model -- red -- Graduation Day (6/second Friday)
+Tent Model -- yellow -- Summer campers (summertime)
+Track Model -- 1,400 -- Tom Nook's shop
+Train Car Model -- 2,500 -- Tom Nook's shop
+Tree Model -- green -- Nature Day (4/22)
+Tulip Model R. -- 940 -- red -- Groundhog Day (2/2)
+Tulip Model W. -- 940 -- Groundhog Day (2/2)
+Tulip Model Y. -- 940 -- yellow -- Groundhog Day (2/2)
+Weed Model -- 820 -- green -- Founder's Day (8/21)
+Well Model -- Mayor's Day (11/first Tuesday)
+ 
+Momentos:
+Aerobics Radio -- Morning Aerobics (7/25-8/31)
+Angler Trophy -- special -- Summer Fishing Tourney (6/Sundays)
+Autumn Medal -- special -- Fall Sports Fair (9/23 or 24)
+Backpack -- Summer campers (summertime)
+Bonfire -- Summer campers (summertime)
+Bottled Ship -- Explorer's Day (10/second Monday)
+Campfire -- Summer campers (summertime)
+Chocolates -- Gift from Tortimer (first two months of the year)
+Chowder -- Igloo resident (wintertime)
+Cooler -- Summer campers (summertime)
+Crab Stew -- Igloo resident (wintertime)
+Dolly -- Toy Day (12/23)
+Fireplace -- Igloo resident (wintertime)
+Fishing Trophy -- special -- Fall Fishing Tourney (11/Sundays)
+Kayak -- yellow -- Summer campers (summertime)
+Lantern -- red -- Summer campers (summertime)
+Lovely Phone -- Mother's Day (5/second Sunday)
+Mailbox -- special -- Have 100,000,000 bells in Post Office savings
+Miniature Car -- red -- Toy Day (12/23)
+Moon -- Harvest Moon -- (September)
+Mountain Bike -- Summer campers (summertime)
+Noisemaker -- red -- New Year's Eve (12/31)
+Piggy Bank -- special -- Have 10,000,000 bells in Post Office savings
+Propane Stove -- Summer campers (summertime)
+Sleeping Bag -- green -- Summer campers (summertime)
+Sleigh -- Igloo resident (wintertime)
+Snow Bunny -- Igloo resident (wintertime)
+Snowboard -- Igloo resident (wintertime)
+Snowman -- Snow Day -- (12/1)
+Spring Medal -- special -- Spring Sports Fair (3/20 or 21)
+Super Tortimer -- April Fools' Day (4/1)
+Telescope -- Meteor Shower (8/12)
+Tissue -- special -- Have 1,000,000 bells in Post Office savings
+
+Mushroom Season: October 15th-25th, 8am
+
+Lighthouse: Jan. 15th-24th or Feb. 12th-21st, 10am-5:59pm
+
+Morning Aerobics: July 25th-August 31st, 6am-7am
+
+Festive Tree Items: Festive Tree & Big Festive Tree: Dec. 24th
+Festive Flag Items: Festive Flag & Festive Candle: Dec. 26th
+
+
+
+HRA Points
+
+3 Points	
+	Clothing
+	Umbrellas
+	Bugs
+	Fish
+51 Points	
+	Furniture from Tom Nook's store
+	Wallpapers from Tom Nook's store
+	Carpets from Tom Nook's store
+300	Points
+	Standalone fossils
+412	Points
+	Furniture from Crazy Redd's
+	Furniture from igloo campers
+	Furniture from tent campers
+	Furniture from Gulliver
+	Reorderable furniture from Tortimer
+	Wallpapers from Wendell
+	Carpets from Saharah
+700	Points
+	Seasonal furniture from Tom Nook's store
+828	Points
+	Gyroids
+888	Points
+	Items from the Snowman Series
+1,000 Points
+	Items from the Mario Theme
+	Nintendo bench
+	Birthday cake
+	Fossils from a group
+1,029 Points
+	Furniture from a raffle
+1,031 Points
+	Items from the Spooky Series
+	Jack-in-the-box
+	Jack-o'-lantern
+1,111 Points
+	Post office savings rewards
+	HRA rewards
+	Non-reorderable furniture from Tortimer
+	Museum model
+1,177 Points 
+	Items from the Harvest Series
+1,224 Points
+	Items from the Jingle Series
+1,300 Points
+	Non-NES furniture from Animal Island
+1,983 Points
+	NES games from Animal Island
+	NES games from secret codes
+	NES games from e-Reader card
+
+
+
+Bonuses:
+
+Lucky items: 777 × number of items
+
+Complete furniture series with neither matching wallpaper nor flooring (main floor only): 48,000
+
+Complete furniture series and either the matching wallpaper or flooring (main floor only): 52,800
+
+Complete furniture series and both the matching wallpaper and flooring (main floor only): 58,000
+
+Non-complete theme with the matching wallpaper and flooring (main floor only): 10,000
+
+Complete furniture theme with the matching wallpaper and flooring (main floor only): 15,000 + 7,000 × number of furniture items
+
+Complete furniture set: 3,000 × number of items
+
+A table, chair, bed, dresser, and wardrobe (from differing series; main floor only): 4,400
+
+A table, chair, bed, dresser, and wardrobe (all part of the same series; main floor only): 16,000
+
+
+
+Deductions:
+
+Non-furniture item dropped on the ground or a surface: -1 × number of items
+
+Diary dropped on the ground: -1 × number of items
+
+Directional items facing a wall: -800 × number of items
+
+Items from a different theme than the one completed (if one is completed; main floor only): -4,000 x number of items

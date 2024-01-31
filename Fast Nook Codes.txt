@@ -1,0 +1,1037 @@
+Net:
+U V K i A Q V j u A o 2 % n
+S T & L F Z X W p f X e v o
+
+Station Model 15 (DISABLES MUSIC):
+B U V L l w x Q 8 Q y i s o
+Z @ C T # i L P Z v p e E x
+
+Station Model 14:
+w @ & w B A A A A A A A A a  
+a a a a a a a a a a a a a a
+
+Harvest Table:
+a Q 1 % a Z Z Z Z Z Z Z Z Z  
+Z Z Z Z Z Z Z Z Z Z Z Z Z Z
+
+Autumn Medal:
+w c M n n n n n n n n n n n  
+n n n N N N N N N N N N N N
+
+Snowman Wardrobe:
+% % a l l F F F F F F F F F  
+F F F F F F F F F F F F F F
+
+Rod:
+u V V e E e @ s j J x J p r
+B F r b 2 H O x x q z a b M
+
+Station Model 13 (DISABLES MUSIC):
+M D R y i Z k y D e I u & w
+3 G I P y e z t h f 2 B o I
+
+Station Model 12 (DISABLES MUSIC):
+U N 4 Q A O x k 2 V 5 u I 3
+Z Z 4 t Y G 7 R R E 3 t t A
+
+Station Model 11 (DISABLES MUSIC):
+@ N 4 Q A O x k 7 G 5 u I 3
+Z Z 4 t Y 9 3 & j E 3 t e A
+
+Harvest Wall:
+a B S b R N N N n n n n n n  
+n n n n n n n n n n n n n n
+
+Harvest Rug:
+A B K t t t t t t t t t t t  
+t T T T T T T T T T T T T T
+
+Jingle Wall:
+2 @ r T e Y Y Y y y y y y y  
+y y y y y y y y y y y y y y
+
+Jingle Carpet:
+1 q B S u U U U U U U U U U  
+U U U U U U u u u u u u u u
+
+Snowman Wall:
+Q C C d e Y Y Y Y Y y y y y  
+y y y y y y y y y y y y y y
+ 
+Snowman Carpet:
+W s D v M E E E E E E E E E  
+E E E E E E E E E E e e e e
+
+Spooky Wall:
+2 2 s s s f f f f f f f f f  
+f f f f f F F F F F F F F F
+
+Spooky Carpet:
+q k k Z u l l l l l l l l l  
+l l l l l l L L L L L L L L
+
+Classroom Wall:
+3 4 D D r n n N N N N N N N  
+N N N N N N N N N N N N N N
+
+Mortar Wall:
+w l d V x u u u u u u u u u  
+u u u u u u u u u u u u u u
+
+Blue Tarp:
+% % A s B s r r r r r r r r  
+r r r r r r R R R R R R R R
+
+Lunar Horizon:
+Q C B k Z Z Z Z Z Z Z Z Z Z  
+Z Z Z Z z z z z z z z z z z
+
+Garden Wall:
+q & q q b R R R R R R R R R  
+R R R R R R R R R R r r r r
+
+Western Vista:
+S S m N G t r r r r r r r r  
+r r r r r r R R R R R R R R
+
+Music Room Wall:
+Z l 4 & b W W W W W W W W W  
+W W W W W w w w w w w w w w
+
+Office Wall:
+a S K Q Q # z z z z z z z z  
+z z z Z Z Z Z Z Z Z Z Z Z Z
+
+Ancient Wall:
+X u u s k Z Z Z Z z z z z z  
+z z z z z z z z z z z z z z
+
+Sandlot Wall:
+q B W K t Z Z Z Z Z Z z z z  
+z z z z z z z z z z z z z z
+
+Meadow Vista:
+& w E e e F F F F f f f f f  
+f f f f f f f f f f f f f f
+ 
+Tree-lined Wall:
+1 & w S B B B B B B B B B B  
+B B B B B B B B B B B B b b
+
+Basement Wall:
+# % % A l H H H H H H H H H  
+H H H H H H H h h h h h h h
+
+Backgammon Wall:
+2 4 C & v q q q q q q q q q  
+q q q q q q q Q Q Q Q Q Q Q
+ 
+Industrial Wall:
+b L u C W N N N n n n n n n  
+n n n n n n n n n n n n n n
+
+Desert Vista:
+2 2 & D D o n N N N N N N N  
+N N N N N N N N N N N N N N
+
+Tropical Vista:
+a K l l s l L L L L L L L L  
+L L L L L L L L L L L L L L
+ 
+Mushroom Mural:
+2 2 E t t g f f f f f f f f  
+f f f f f f f f f f f f f f
+
+Ringside Seating:
+a K b S m m L L L L L L L L  
+L L L L L L L L L L L L L L
+
+Classroom Floor:
+q r N r n n n n n n n N N N  
+N N N N N N N N N N N N N N
+ 
+Mossy Carpet:
+Q w L K K m l l l l l l l l  
+l l l L L L L L L L L L L L
+
+Closed Road:
+% q W W m L L L L L L L L L  
+L L L L L L L L L L L L L l
+
+Lunar Surface:
+w @ e M l W w w w w w w w w  
+w w w w w w w w w w w w w w
+ 
+Sand Garden:
+U s l U S S S S s s s s s s  
+s s s s s s s s s s s s s s
+
+Western Desert:
+% Q c d d d d d d d d d d d  
+d d d d d d d d d d d d d d
+
+Music Room Floor:
+s X X d d N N N N N n n n n  
+n n n n n n n n n n n n n n
+ 
+Office Flooring:
+Q B R d F F f f f f f f f f  
+f f f f f f f f f f f f f f
+
+Ancient Tile: 
+Q b W E d N N N N N n n n n  
+n n n n n n n n n n n n n n
+
+Sandlot:
+% W W V V T T t t t t t t t  
+t t t t t t t t t t t t t t
+
+Daisy Meadow:
+K K K d d d d d d d d d d d  
+d d d d d d d d d d d d d d
+
+Sidewalk:
+# % q % W S S S S S S S S S  
+S S S S S S S S S S S s s s
+
+Basement Floor:
+@ t r E E E E E E E E E E E  
+E E E E E E E E E E E E e e
+ 
+Chessboard Rug:
+L L f f O N N N N N n n n n  
+n n n n n n n n n n n n n n
+
+Concrete Floor:
+q e C C n R R R R R R R R r  
+r r r r r r r r r r r r r r
+
+Saharah's Desert:
+a Q Q B u U U U U U u u u u  
+u u u u u u u u u u u u u u
+ 
+Tropical Floor:
+# 2 b b & u s s s s s s s s  
+s s s s s s s s s s s s s s
+
+Block Flooring:
+Q & & F F F F f f f f f f f  
+f f f f f f f f f f f f f f
+
+Boxing Ring Mat (fast code crashes):
+m S E l a x 8 7 U u X u f x
+D S o U O 7 R U p u t d Z a
+
+Red Aloha Shirt:
+Q Q K D l k k k k k k k k k  
+k k k k k k k k k k k K K K
+
+Blue Aloha Shirt:
+% D D V V V V V V V V v v v  
+v v v v v v v v v v v v v v
+
+Citrus Shirt:
+a k Q W W w w w w w w w w w  
+w w w w w w w w w w w w w w
+
+Kiwi Shirt:
+a Y h h y R R R R R R R R R  
+R R R R R R r r r r r r r r
+ 
+Watermelon Shirt:
+a a w q B B B B B B B B B B  
+B B B B B b b b b b b b b b
+
+Strawberry Shirt:
+A s b l m m l l l l l l l l  
+l l l L L L L L L L L L L L
+
+Grape Shirt:
+s D V V V U U U U U U U U U  
+U U U U U U u u u u u u u u
+ 
+Melon Shirt:
+K K l n V V V V V V V V V V  
+V v v v v v v v v v v v v v
+
+Jingle Shirt:
+B S k t t t t t t t t t t t  
+t t t t t t T T T T T T T T
+
+Fiendish Shirt:
+S K W E D D D D D D D D D D  
+D D D D D D D D D D D D D D
+
+Ladybug Shirt:
+a e R f m l L L L L L L L L  
+L L L L L L L L L L L L L L
+ 
+Lavender Robe:
+K K V V V U U U U U U U U U  
+U U u u u u u u u u u u u u
+
+Butterfly Shirt:
+2 e e D s X X X X x x x x x  
+x x x x x x x x x x x x x x
+
+Gracie's Top:
+a @ @ V V U U U U U U U U U  
+U U U U u u u u u u u u u u
+ 
+Shirt Circuit:
+w Q K N A V T T T T T T T T  
+T T T T T T T T T T T T t t
+
+Pulse Shirt:
+W L X x k k k k k k k k k k  
+k k k k k k k k k k k K K K
+
+Groovy Shirt:
+& & S S b U U U U U U U U U  
+U U u u u u u u u u u u u u
+ 
+Orange Pinstripe:
+b D D f w V V V V V V v v v  
+v v v v v v v v v v v v v v
+
+Crossing Shirt:
+A # b C m m l l l l l l l l  
+l l l L L L L L L L L L L L
+
+Splendid Shirt:
+A S S u u T T T T T T T t t  
+t t t t t t t t t t t t t t
+
+Tiger Print:
+Q m f A B A A A A A A A A a  
+a a a a a a a a a a a a a a
+
+Tin Shirt:
+b @ N N d R R R R R R R R R  
+R R R R r r r r r r r r r r
+ 
+Coral Shirt:
+w S D 1 3 # z z z z Z Z Z Z  
+Z Z Z Z Z Z Z Z Z Z Z Z Z Z
+
+Zebra Print:
+% & X X s U U U U U U U U U  
+U U u u u u u u u u u u u u
+ 
+Cow Print:
+L D D f f v v v v v v v v v  
+v v v v v v v v v v v v v v
+
+Leopard Print:
+3 C C m m X X X X x x x x x  
+x x x x x x x x x x x x x x
+
+Cool Shirt:
+Z u z k k d d d d d d d d d  
+d d d d d d d d d d d d d d
+
+Caterpillar Tee:
+3 R f f f f f f f f f f F F  
+F F F F F F F F F F F F F F
+
+Giraffe Print:
+B b b w s r r r r r r r r r  
+r r r r r r r r r r r r R R
+
+Swell Shirt:
+g Y k i @ t C P 6 F k E u F
+b % p 6 g @ l L m V 7 8 c A
+
+Grass Shirt:
+w u u T z l l l l l l l l l  
+l l l l l l l l l l l l L L
+
+Snow Shirt:
+e m K s x T T T T T T T T T  
+T T T T T T T T T T T T t t
+
+Festive Paper:
+e b b @ m X X X X X X X X X  
+X X X x x x x x x x x x x x
+
+Fortune Paper:
+A K Z K a W W W W W W W W W  
+W W W W W W W W W W W W W W
+
+New Year's Card:
+@ @ e D m S S S S S S S S S  
+S s s s s s s s s s s s s s
+
+Green Pipe:
+Q W S S S X W W W W W W W W  
+W W W W W W W W W w w w w w
+ 
+Koopa Shell:
+q a a M n F F F F F F F F F  
+F F F F F F F F f f f f f f
+
+Starman:
+B d d 4 4 4 4 4 4 4 4 4 4 4  
+4 4 4 4 4 4 4 4 4 4 4 4 4 4
+
+K.K. Fusion:
+b L F F W N N N n n n n n n  
+n n n n n n n n n n n n n n
+
+K.K. Etude:
+A K S S d N N N n n n n n n  
+n n n n n n n n n n n n n n
+ 
+K.K. Lullaby:
+Q B W B e N N N N N N n n n  
+n n n n n n n n n n n n n n
+
+K.K. Aria:
+B Q Q K Z U U u u u u u u u  
+u u u u u u u u u u u u u u
+
+K.K. Calypso:
+k s s S w l l l l l l l l l  
+l l L L L L L L L L L L L L
+ 
+K.K. Salsa:
+Q B S n p N N N N N N N n n  
+n n n n n n n n n n n n n n
+
+K.K. Reggae:
+A C C C M V U U U u u u u u  
+u u u u u u u u u u u u u u
+ 
+K.K. Ska:
+e d V V x x x x x x x x x x  
+x x x x x x x x x x x x x x
+ 
+K.K. Tango:
+S B b w w w w w w w w w w w  
+w w w w w w w W W W W W W W
+
+K.K. Faire:
+a a Q W C t r r r r r r r r  
+r r r r r r R R R R R R R R
+
+Aloha K.K.:
+# A z u u s s s s s s s S S  
+S S S S S S S S S S S S S S
+ 
+Lucky K.K.:
+t z K K K K K K K K K K K K  
+K K K K K K K K K K K K K K
+
+K.K. Condor:
+2 B W l M F F F F F F F F F  
+F F F F F F F F F F F F F F
+
+K.K. Steppe:
+C B W C b W W W W W W W W W  
+W W W W W W W W W W W W W W
+ 
+Imperial K.K.:
+2 3 M s q q q q q q q q q q  
+q q q q q q q q q q q q q Q
+
+K.K. Safari:
+2 b R R e W W W W W W W W W  
+W W W W w w w w w w w w w w
+
+K.K. Folk:
+Q Q & R R E E E E E E E E E  
+E E E E E E e e e e e e e e
+ 
+K.K. Rock:
+# # 2 e e F F F F F F F F F  
+F F F f f f f f f f f f f f
+
+Rockin' K.K.:
+A A A W w l l l l l l l l l  
+l L L L L L L L L L L L L L
+
+K.K. Ragtime:
+e e F D G B B B B B B B b b  
+b b b b b b b b b b b b b b
+ 
+K.K. Gumbo:
+w C & & b W W W W W W W W W  
+W W W W W W w w w w w w w w
+
+The K. Funk:
+% w w R T E E E E E E E E E  
+E E E E E E E E E E E E E e
+
+K.K. Blues:
+J T 5 Z y k B B a 9 b S D 4
+m d j L y Y e 5 5 N b % v M
+ 
+Soulful K.K.:
+# # Q B s l l l l l l l l l  
+l l L L L L L L L L L L L L
+
+K.K. Love Song:
+Q k % L X W W W W W W W W W  
+W W W W W W W W W W W W W W
+
+K.K. D & B:
+Q e e E M v u u u u u u u u  
+u u u u u u u u u u u u u u       
+ 
+K.K. Technopop:
+E B L X X U U U U U U u u u  
+u u u u u u u u u u u u u u
+
+DJ K.K.:
+2 & S S f N N N n n n n n n 
+n n n n n n n n n n n n n n 
+
+Only Me:
+A q E b a a a A A A A A A A  
+A A A A A A A A A A A A A A
+ 
+K.K. Country:
+L @ D D y Y Y Y Y Y Y Y Y Y  
+Y Y Y Y Y Y Y Y Y Y Y Y y y
+
+Surfin' K.K.:
+Q t Z x Z X X X X X X X X X  
+X X X X X X X x x x x x x x
+
+K.K. Ballad:
+q W S b R E E E E E E E E E  
+E E E E E e e e e e e e e e
+ 
+Comrade K.K.:
+K & 3 6 q p p p p p p p p p  
+p p p p p p p p p p p p p p
+
+Go K.K. Rider!:
+a b b D F m L L L L L L L L  
+L L L L L L L L L L L L L L
+
+K.K. Dirge:
+% S x U x u u u u u u u u u  
+u u u u u u u u u u u u u u
+ 
+K.K. Western:
+b S s u u Z Z Z Z Z Z z z z  
+z z z z z z z z z z z z z z
+
+Mr. K.K.:
+2 W b @ b S R R R R R R R R  
+r r r r r r r r r r r r r r
+
+Cafe K.K.:
+q K S S l Z Z Z Z Z Z Z Z Z  
+Z Z Z Z Z Z Z z z z z z z z
+ 
+K.K. Parade:
+L L x C u T T T T T T T T T  
+T T T T T T T T T T T T T T
+
+Senor K.K.:
+x t t k k Z Z Z Z Z Z Z Z Z  
+Z Z Z Z Z Z z z z z z z z z
+
+I Love You:
+x A Q Z L 8 9 h V D k S 8 j
+Q O V g B z & y 3 b O G 9 M
+
+----SONGS USED ON BREAK----
+
+Play both K.K. Mambo and Soul from K.K. instead of doing codes for them
+
+K.K. Chorale:
+Q q w w w s s s s s s s s s  
+s s s s s s s s s s s s s s
+
+K.K. March:
+A c V V x x x x x x x x x x  
+x x x x x x x x x x x x x x
+
+K.K. Waltz:
+s D D v u Z Z Z Z Z Z z z z  
+z z z z z z z z z z z z z z
+
+K.K. Jazz:
+A & b l l l l l l l l l l l  
+l l l l L L L L L L L L L L
+
+Harvest Bed:
+# # q Q q w w w w w w w w w  
+w w w w w w w w w w w w w w
+
+Harvest Bureau:
+B A A t s s s s s s s S S S  
+S S S S S S S S S S S S S S
+
+Harvest Chair:
+a b B B r r r r r r r r r r  
+r r r r r r r r r r r r r r
+
+Harvest Clock:
+2 1 A W W W W W W W W W W W  
+w w w w w w w w w w w w w w
+
+Harvest Dresser:
+K B B L x x x x x x x x x x  
+x x x x x x x x x x x x x x
+ 
+Harvest Lamp:
+Q q K k a a a a a a a a a a  
+A A A A A A A A A A A A A A
+
+Harvest Mirror:
+# % % W b X X X X X X X X X  
+X X X X X X X X X X X X X X
+
+Harvest Sofa:
+1 1 S D f W W W W W W W W W  
+W W W W W W W W W W W W W W
+
+Harvest Table:
+a Q 1 % a Z Z Z Z Z Z Z Z Z  
+Z Z Z Z Z Z Z Z Z Z Z Z Z Z
+
+Harvest TV:
+a b B e r r r r r r r r r r  
+r r r r r r r r r r r r r r
+
+Jingle Chair:
+A A B c R N N N N N N N N N  
+N N N N n n n n n n n n n n
+
+Jingle Piano:
+a B B W s q q q q q q q q q  
+q q q q q Q Q Q Q Q Q Q Q Q
+
+Jingle Shelves:
+A L l M M F F F F F F F F F  
+F F F F F F F F F F F F f f
+
+Jingle Sofa:
+Q q T k k k k k k k K K K K  
+K K K K K K K K K K K K K K
+
+Jingle Table:
+a K t W W W W W W W W W W W  
+W W W W W W W W W W W W w w
+
+Jingle Wardrobe:
+q W M m f f f f f f f f f f  
+f f f f f f f f f F F F F F
+
+Snowman Bed:
+2 2 2 W S S S S S S S S S S  
+S S S S S S S S S S S S S s
+
+Snowman Chair:
+a W W W S S S S S S S S S S  
+S S S S S S S S S S S S s s
+
+Snowman Clock:
+Q Q % W a w w w w w w w w w  
+w w w w w w w w w w w w w w
+
+Snowman Fridge:
+q 2 2 w l l l l l l l l l L  
+L L L L L L L L L L L L L L
+
+Snowman Sofa:
+% % W B l F F F F F F F F F  
+F F F F F F F F F F F F F F
+
+Snowman Table:
+2 2 W w l l l l l l l l l L  
+L L L L L L L L L L L L L L
+ 
+Snowman TV:
+q S S W W S S S S S S S s s  
+s s s s s s s s s s s s s s
+
+Spooky Bed:
+2 B B L x w W W W W W W W W  
+W W W W W W W W W W W W W W
+
+Spooky Chair:
+Q W S p p p p p p p p p p p  
+p p p p p p p p p p p p p p
+
+Spooky Dresser:
+l M M M n f f f f f f f f f  
+f f f f f f f f f f f f f f
+
+Spooky Lamp:
+a k Q Q A A A A A A A A A A  
+A A A A A A A A A A A A A A
+
+Spooky Sofa:
+s W A A A A A A A A A A A A  
+A A A A A A A A A A A A A A
+
+Spooky Table:
+q q E D B A A A A A A A A A  
+A A A A A A A A A A A A A A
+
+Spooky Vanity:
+Z Z U U S S S S S S S S S S  
+S S S S S S S S s s s s s s
+
+Spooky Wardrobe:
+2 B D N N F F F F f f f f f 
+f f f f f f f f f f f f f f
+
+Station Model 10:
+A B L s s s s s s s s s s s  
+s s s S S S S S S S S S S S
+
+Station Model 9:
+Q w A B A A A A A a a a a a  
+a a a a a a a a a a a a a a
+
+Station Model 8:
+B B L s s s s s s s s s s s  
+s s s S S S S S S S S S S S
+
+Station Model 7:
+K l s s s s s s s s s s s s  
+s s s s s S S S S S S S S S
+
+Station Model 4:
+a a k Z u s s s s s s s s s  
+s s s S S S S S S S S S S S
+
+Station Model 3:
+b C d t o o o o o o o o o o  
+o o o o o o o o o o o o o o
+
+Station Model 2:
+& w w W S U T T T T T T T T  
+t t t t t t t t t t t t t t
+
+Station Model 1:
+S S K o o o o o o o o o o o  
+o o o o o o o o o o o o o o
+
+Manor Model:
+c c M M c S S S S S S S S S  
+S S S S S s s s s s s s s s
+
+House Model:
+Q q a m m m l l l l l l l l  
+l l l l l l l l l l l l l L
+
+Lighthouse Model:
+A A w 2 B A A A A A A a a a  
+a a a a a a a a a a a a a a
+
+Post Model:
+L L l M M F F F F F F F F F  
+F F F F F F F F F F F F F F
+
+Police Model:
+2 W 2 & w l l l l l l l l l  
+l l l l l l l l l l L L L L
+
+Market Model:
+a W W R T R R R R R R R R R  
+R R R R R R R R R R R R R R
+
+Dump Model:
+W W B E R N N N N N N N N N  
+N N N N n n n n n n n n n n
+ 
+Miniature Car:
+Q W C C e a a a a a a a a a  
+a a a a a a a A A A A A A A
+
+Locomotive Model:
+W B E R R R R R R R R R R r  
+r r r r r r r r r r r r r r
+
+Tent Model:
+b W l D c x x x x x x x x x  
+x x x x x x x x x x x x x x
+
+Snowman:
+w @ 5 t o o o o o o o o o o  
+o o o o o o o o o o o o o o
+ 
+Igloo Model:
+K K Z k a a a a a a a a a a  
+a a a a a a a a a A A A A A
+
+Pink Tree Model:
+q q % s s s s s s s s s s s  
+s s s S S S S S S S S S S S
+
+Weed Model:
+w E t t o o o o o o o o o o  
+o o o o o o o o o o o o o o
+
+Tulip Model 3:
+q q W s x w w w w w w w w w  
+w w w w w w w w w w w W W W
+
+Tulip Model 2:
+% W W c c R R R R R R R R R  
+R R R R R R R R R R R R R R
+
+Tulip Model 1:
+& W W w r r R R R R R R R R  
+R R R R R R R R R R R R R R
+
+Pansy Model 3:
+# 2 w a w W W w w w w w w w  
+w w w w w w w w w w w w w w
+
+Pansy Model 2:
+Q Q W q q q Q Q Q Q Q Q Q Q  
+Q Q Q Q Q Q Q Q Q Q Q Q Q Q
+
+Pansy Model 1:
+a a Q W W m l L L L L L L L  
+L L L L L L L L L L L L L L
+
+Cosmos Model 3:
+q W S a a Z Z Z Z Z Z Z Z Z  
+Z z z z z z z z z z z z z z
+
+Cosmos Model 2:
+A & @ m a a a a a a a a a a  
+a a a a a a a a a a a a a a
+
+Cosmos Model 1:
+w W l l X x x x x x x x x x  
+x x x x x x x x x x x x x x
+
+Super Tortimer:
+q q B B B x w w w w w w w w  
+w w w w w w w w w w w w w w
+
+Wario's Woods:
+E c E r E E E E E E E E E E  
+E E E E E E E E E E E E E E
+
+Soccer:
+E b a q q q q q q q q q q q  
+q q q Q Q Q Q Q Q Q Q Q Q Q
+
+Punchout:
+l u s M M L L L L L L L L L  
+L L L L L L L L L L L L L l
+
+Donkey Kong Jr.:
+# Q E E R E E E E E E E E E  
+E E E E E E E E E E E E E E
+
+Donkey Kong 3:
+D F v x x x x x x x x x x x  
+x x x x x x x x x x x x x x
+
+Clu Clu Land D:
+k w B W W W W W W w w w w w  
+w w w w w w w w w w w w w w
+
+Noisemaker:
+3 4 d N n f f f f f F F F F  
+F F F F F F F F F F F F F F
+
+Lovely Phone:
+# # # 2 B U T T T T T T T T  
+t t t t t t t t t t t t t t
+
+Fishing Trophy:
+A k d d e E E E E E E E E E  
+E E E E E E E E E E E E E E
+
+Cornucopia:
+S D V u s s s s s s s s s s  
+s s s s s s s S S S S S S S
+
+Bottled Ship:
+Q b u u S S S S S S S S S S  
+S S S S S S S S S S S S S s
+ 
+Bottle Rocket:
+# q B W b a a a a a a a a a  
+a a a a a a a a a a A A A A
+
+Spring Medal:
+A E 3 e C C c c c c c c c c  
+c c c c c c c c c c c c c c
+
+Angler Trophy:
+Q Q B u s s s s s s s s s s  
+s s s S S S S S S S S S S S
+
+Aerobics Radio:
+& e n V V V V V V V V V V V  
+V V V V V V V V V V V V V V
+
+Telescope:
+w S b e r r r r r r r r r r  
+r r r r r r r r r r r r r r
+ 
+Mailbox:
+Q S b b a a a a a a a a a a  
+A A A A A A A A A A A A A A
+
+Piggy Bank:
+q a a z l S S S S S S S S S  
+S S S S S S S S S S S S S S
+
+Chocolates:
+q k T T U s s s s s s s s s  
+s s s s s s s s s s s s s s
+
+Birthday Cake:
+2 K K l l l l l l L L L L L  
+L L L L L L L L L L L L L L
+ 
+Nintendo Bench:
+A A K K B B B B B B B B B B  
+B B B B B B B B B B B B B B
+
+Tribal Mask:
+2 W W W S S S S S S S S S S  
+S S S S S S S S S S S S s s
+
+Tower of Pisa:
+a a a # k S S S S S S S S S  
+S S S S S S S S S S S S S S
+
+Tokyo Tower:
+1 1 a t k k k k k k k k k k  
+k k K K K K K K K K K K K K
+
+Tiger Bobblehead:
+Q K T u S S S S S S S S S S  
+S S S S S S S S S S S S S s
+
+Shogi Piece:
+a K a W W S S S S S S S S S  
+S S S S S S S S S S S S S S
+
+Plate Armor:
+a & B W s q q q q q q q q q  
+q q q q q Q Q Q Q Q Q Q Q Q
+
+Pagoda:
+a a a S d S S S S S S S S S  
+S S S S S S S S S S S S S S
+
+Mouth of Truth:
+Q l x T T T T T T T T t t t  
+t t t t t t t t t t t t t t
+
+Moai Statue:
+A W W W c S S S S S S S S S  
+S S S S S S S S S S S S S S
+
+Merlion:
+# 2 & s v v v v v v v v v v  
+v v v v v v v v v v v v v v
+
+Matryoshka:
+% a Z u a a a a a a a a a a  
+a a a a a A A A A A A A A A
+
+Fishing Bear:
+A z u u l l l l l l l l l l  
+l l l l l l l l l l l l L L
+
+Compass:
+% q w C c a a a a a a a a A  
+A A A A A A A A A A A A A A
+
+Chinese Lioness:
+a k T U U s s s s s s s s s  
+s s s s s s s s s s s s s s
+
+Arc de Triomphe:
+A q q & s f F F F F F F F F  
+F F F F F F F F F F F F F F
+
+Wave Breaker:
+% q c m l l l l l l l l l l  
+l l l l l l L L L L L L L L
+
+Ukulele:
+K l l s U T T T T T T T T t  
+t t t t t t t t t t t t t t
+
+Treasure Chest:
+a w w m N N N N N N N N N N  
+N N N N N N n n n n n n n n
+
+Snowcone Machine:
+% % 1 q a a a a a a a a a a  
+a a a a a a a a a a A A A A
+
+Diver Dan:
+K k t k a a a a a a a a a a  
+a a a a a a a a a A A A A A
+
+Beach Table:
+q % W B C B B B B B b b b b  
+b b b b b b b b b b b b b b
+
+Beach Chair:
+Q & E m N N N N N N N N N N  
+N N N N N n n n n n n n n n
+
+Propane Stove:
+K K K k k S S S S S S S S s  
+s s s s s s s s s s s s s s
+
+Mountain Bike:
+K L m d c x x x x x x x x x  
+x x x x x x x x x x x x x x
+
+Lantern:
+a k z z Z Z Z Z Z Z Z Z Z Z  
+Z Z z z z z z z z z z z z z
+
+Kayak:
+Q q C b a a a a a a a a a a  
+a a a a a a a a a a a a a a
+
+Campfire:
+A & M L a a a a a a a a a a  
+a a a a a a a a a a a a a a
+
+Bonfire:
+Z X X l b S s s s s s s s s  
+s s s s s s s s s s s s s s
+
+Backpack:
+m S L X X X X X X X X X X X  
+X X X X X X X X X X X X X X
+
+Snowboard:
+l U t t a a a a a a a a a a  
+a a a a A A A A A A A A A A
+
+Snow Bunny:
+A z x x s s s s s s s s s s  
+s s s s s s s s s s S S S S
+
+Sleigh:
+Q Q 1 a a a a a a a a a a a  
+a a a a a a a a a A A A A A
+
+Fireplace:
+Q q & & w l l L L L L L L L  
+L L L L L L L L L L L L L L
+
+Crab Stew:
+% w c W c a a a a a a a a a  
+a a a a a a a A A A A A A A
+
+Chowder:
+# q & & w t t t t t t t t t  
+t t t t t t t t T T T T T T
+
+Route Revision: #6

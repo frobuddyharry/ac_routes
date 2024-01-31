@@ -1,0 +1,78 @@
+1-1 - 1up grind til 75ish > die
+1-2 - forward into goomba 
+1-3 - forward into goomba 
+1-Tower - crush 
+
+1-4 - forward into goomba
+1-6 - forward to koopa
+1-Castle - lava
+
+2-1 - koopa death
+2-3 - fire death from checkpoitn grind after 7 deaths (98)
+2-Tower - dry bones (90)
+
+2-4 - koopa (82)
+2-6 - fall off (74)
+2-Castle - (66)
+
+3-1 - pengu (58)
+3-2 - die 7 > checkpoint and grind (98)
+3-T - omfg (90)
+
+3-4 - crush (82)
+3-5 - gp (74)
+3-4 S - crush (74)
+3-C - dry bones (66)
+
+4-1 - gp into fish (58)
+4-2 - gp into water (50)
+4-T - dry bones (42)
+
+4-4 - fish in water (34)
+4-GH - boo (26)
+4-5 - piranha (18)
+4-C - skewer (10)
+4-A - jump off back (2)
+
+2-3 - lives (98)
+
+5-1 - beginning (90)
+5-2 - wiggler (82)
+5-T - go forward into spikes (74)
+
+5-4 - right goomba (66)
+5-5 - fall (58)
+5-C - lava (50)
+
+6-1 - jump into ball (42)
+6-3 - piranha before first pipe (34)
+6-T - skewer (26)
+
+2-3 - lives (98)
+
+6-5 - fish (90)
+6-6 - drown (82)
+6-C - lava (74)
+6-A - enemy idk (66)
+
+7-1 - after pipe die (58)
+7-2 - chain chomp (50)
+7-3 - run off (42)
+7-T - left side bulletbill (34)
+
+7-GH - barrel (26)
+7-4 - 2 full jumps for koopa (18)
+7-5 - avoid mini goomba and die to cloud (10)
+7-C - skewer (2)
+
+2-3 - final lives
+8-1 - meteor
+8-2 - meteor
+8-3 - lava
+8-T - lava
+
+8-4 - slow
+8-5 - lava
+8-6 - lava 
+8-A - thing or crush
+8-C - lava
