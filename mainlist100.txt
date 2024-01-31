@@ -1,0 +1,1263 @@
+Main Codes List
+
+98:
+
+Moai Statue
+aaa2Bs%%%%%%%%	74
+%%%%%%%%%%%%%%	98
+ 
+Snowman TV
+A&LWW@%%%%%%%%	86
+%%%%%%%%%%%%%%	98
+ 
+Leopard Print	
+wa22W%%%%%%%%%	85
+%%%%%%%%%%%%%%	98
+ 
+Treasure Chest	
+CC%&%%%%%%%%%%	89
+%%%%%%%%%%%%%K	94
+
+84:
+
+Super Mushroom	
+uumC&@@@@@@@@@	73	
+@@@@@@@@@@@@@@	84
+
+K.K. Swing	
+w2334TMMMMMMMM	72	
+MMMMMMMMMMMMMM	84
+
+Harvest Bed	
+SSXXWWWWWWWWWW	72	
+WWWWWWWWWWWWWE	81
+
+Lantern	
+bsuLWWWWWWWWWW	71	
+WWWWWWWWWWWWWc	81
+
+Cabin Dresser	
+2BBdCWWWWWWWWW	71	
+WWWWWWWWWWWWWW	84
+
+Lovely Stereo	
+23ddd@WWWWWWWW	71	
+WWWWWWWWWWWWWW	84
+
+Chowder	
+BbDCR@@@@@@@@@	71	
+@@@@@@@@@@@@@@	84
+
+Basement Floor	
+AZTUcWWWWWWWWW	71	
+WWWWWWWWWWWWWW	84
+
+Ranch Dresser	
+qKKAlMMMMMMMMM	70	
+MMMMMMMMMMMMMM	84
+
+Classic Wardrobe	
+qbBcEMMMMMMMMM	70	
+MMMMMMMMMMMMMM	84
+
+Lovely Armoire	
+qSdmfMMMMMMMMM	70	
+MMMMMMMMMMMMMM	84
+
+Green Wardrobe	
+BLddBWWWWWWWWW	69	
+WWWWWWWWWWWWWW	84
+
+White Queen	
+LDllA%WWWWWWWW	69	
+WWWWWWWWWWWWWW	84
+
+Kiddie Clock	
+wLBB4nWWWWWWWW	69	
+WWWWWWWWWWWWWW	84
+
+K.K. Lullaby
+SbbDDnWWWWWWWW	68	
+WWWWWWWWWWWWWW	84
+
+Mr. K.K.	
+CbbDEnWWWWWWWW	68	
+WWWWWWWWWWWWWW	84
+
+Fortune Paper (4)	
+KKKLSdWWWWWWWW	66	
+WWWWWWWWWWWWWW	84
+
+K.K. Waltz	
+SbbeDdWWWWWWWW	66	
+WWWWWWWWWWWWWW	84
+
+Ranch Chair	
+lmdBBsMMMMMMMM	65	
+MMMMMMMMMMMMMM	84
+
+K.K. Western	
+SbbeLdWWWWWWWW	65	
+WWWWWWWWWWWWWW	84
+
+Cement Mixer	
+CwaKmmmmmmmmmm	65	
+MMMMMMMMMMMMMM	84
+
+K.K. Rock	
+WrttEYWWWWWWWW	64	
+WWWWWWWWWWWWWW	84
+
+K.K. Love Song	
+QAsdnnssssssss	37	
+WWWWWWWWWWWWWW	84
+
+Snow Shirt	
+KUXXSKssssssss	35	
+WWWWWWWWWWWWWW	84
+
+Giraffe Print	
+tUXXSsssssssss	32	
+WWWWWWWWWWWWWW	84
+
+70:
+
+Black Knight	
+QsA%%%wwwwwwww	73	
+wwwwwwwwwwwwww	70
+
+Aerobics Radio	
+QSWw@@wwwwwwww	71	
+wwwwwwwwwwwwww	70
+
+Harvest Wall	
+QdVD%%AAAAAAAA	70	
+AAAAAAAAAAAAAA	70
+
+Fishing Bear
+abWWWEwwwwwwww	67	
+wwwwwwwwwwwwww	70
+
+Lovely Phone	
+qQQQ&Ewwwwwwww	66	
+wwwwwwwwwwwwww	70
+
+Snowman Lamp	
+QSWCCEwwwwwwww	65	
+wwwwwwwwwwwwww	70
+
+Citrus Shirt	
+2SXc@@wwwwwwww	65	
+wwwwwwwwwwwwww	70
+
+Swell Shirt	
+sDNF@@wwwwwwww	65	
+wwwwwwwwwwwwww	70
+
+Black King	
+2bbLwwwwwwwwww	63	
+wwwwwwwwwwwwwW	71
+
+Tokyo Tower	
+Abaw2Ewwwwwwww	63	
+wwwwwwwwwwwwww	70
+
+Harvest Bureau	
+XLaweMMmmmmmmm	63	
+mmmmmmmmmmmmmm	70
+
+Shogi Piece	
+qwSVDEwwwwwwww	63	
+wwwwwwwwwwwwww	70
+
+Snowboard	
+QwEBeAAAAAAAAA	63	
+AAAAAAAAAAAAAA	70
+
+Flagpole	
+AOXOLEmmmmmmmm	62	
+mmmmmmmmmmmmmm	70
+
+Snowman Clock	
+QKXCCEwwwwwwww	62	
+wwwwwwwwwwwwww	70
+
+Chessboard Rug	
+2LdDnAAAAAAAAA	62	
+AAAAAAAAAAAAAA	70
+
+NES	
+ccRewwwwwwwwww	61	
+wwwwwwwwwwwwwW	71
+
+Ladybug Shirt	
+aSWBEEwwwwwwww	61	
+wwwwwwwwwwwwww	70
+
+Cooler	
+aLaLeMMmmmmmmm	61	
+mmmmmmmmmmmmmm	70
+
+K.K. Mambo	
+qBcMXsmmmmmmmm	61	
+mmmmmmmmmmmmmm	70
+
+K.K. Casbah	
+qEnOGTmmmmmmmm	61	
+mmmmmmmmmmmmmm	70
+
+The K. Funk	
+BCdEGTmmmmmmmm	60	
+mmmmmmmmmmmmmm	70
+
+K.K. Soul	
+nnOOGsmmmmmmmm	60	
+mmmmmmmmmmmmmm	70
+
+Concrete Floor	
+24tooAAAAAAAAA	60	
+AAAAAAAAAAAAAA	70
+
+Blue Tarp	
+Q@rmlaaAAAAAAA	60	
+AAAAAAAAAAAAAA	70
+
+Blue Aloha Shirt	
+bSSLDEwwwwwwww	59	
+wwwwwwwwwwwwww	70
+
+Backpack	
+bLVVEiwwwwwwww	58	
+wwwwwwwwwwwwww	70
+
+Harvest Dresser	
+sOffDEmmmmmmmm	55	
+mmmmmmmmmmmmmm	70
+
+Exotic Bed	
+QAAKaaaaaaaaaa	48	
+AAAAAAAAAAAAAA	70
+
+Snow Bunny	
+cAAAKvvvvvvvvv	39	
+wwwwwwwwwwwwww	70
+
+68-66:
+
+Jukebox
+qAQQwwwwwwwwww	69	
+wwwwwwwwwwwwwl	66
+
+Spooky Clock	
+WWccwwwwwwwwww	68	
+wwwwwwwwwwwwwE	68
+
+K.K. Dirge	
+SMMLAAAAAAAAAA	68	
+AAAAAAAAAAAAAi	66
+
+White Bishop	
+ewAAwwwwwwwwww	67	
+wwwwwwwwwwwwwl	66
+
+K.K. Condor	
+bmmGQQQQQQQQQQ	67	
+QQQQQQQQQQQQQf	66
+
+Green Pantry	
+aaWcwwwwwwwwww	65	
+wwwwwwwwwwwwwl	66
+
+Spooky Vanity	
+BsUSmmmmmmmmmm	62	
+mmmmmmmmmmmmmK	68
+
+Space Station	
+kkUSmmmmmmmmmm	61	
+mmmmmmmmmmmmmK	68
+
+58:
+
+Modern Wardrobe	
+BQeWUUUUUUUUUU	56	
+UUUUUUUUUUUUUW	58
+
+Hinaningyo	
+BAeWUUUUUUUUUU	56	
+UUUUUUUUUUUUUW	58
+
+Spooky Wardrobe	
+BWeVUUUUUUUUUU	55	
+UUUUUUUUUUUUUW	58
+
+Grass Shirt	
+ABSB4111111111	54	
+1111111111111@	58
+
+56:
+
+Regal Chair
+%AMmaqqqqqqqqq	62	
+qqqqqqqqqqqqqq	56
+
+K.K. Lament	
+m%MHUUUUUUUUUU	62	
+UUUUUUUUUUUUU9	56
+
+Only Me	
+m%#FUUUUUUUUUU	60	
+UUUUUUUUUUUUU9	56
+
+Snowman Bed	
+222AADDDDDDDDD	58	
+DDDDDDDDDDDDDD	56
+
+Rockin' K.K.	
+u%MJUUUUUUUUUU	58	
+UUUUUUUUUUUUU9	56
+
+Regal Cupboard	
+QQKQAs22222222	57	
+22222222222222	56
+
+Manor Model	
+AAc44544444444	57	
+44444444444444	56
+
+Police Model	
+QWWWli99999999	57	
+99999999999999	56
+
+Saharah's Desert	
+Q&wwLnVVVVVVVV	57	
+VVVVVVVVVVVVVV	56
+
+Garden Pond	
+2WERR@qqqqqqqq	57	
+qqqqqqqqqqqqqq	56
+
+Tower of Pisa	
+2bWemDDDDDDDDD	56	
+DDDDDDDDDDDDDD	56
+
+Fiendish Shirt
+Q22EDDDDDDDDDD	56	
+DDDDDDDDDDDDDD	56
+
+Harvest TV	
+aLwAC333333333	56	
+33333333333333	56
+
+Orange Pinstripe	
+A22EDDDDDDDDDD	56	
+DDDDDDDDDDDDDD	56
+
+Tanabata Palm	
+AAcT5544444444	56	
+44444444444444	56
+
+Senor K.K.	
+CCO55555555555	56	
+5555555555555o	55
+
+White Knight	
+qaUUVCCCCCCCCC	55	
+CCCCCCCCCCCCCC	56
+
+Classroom Floor	
+q&wwLsVVVVVVVV	55	
+VVVVVVVVVVVVVV	56
+
+Plate Armor	
+qaw2BCCCCCCCCC	55	
+CCCCCCCCCCCCCC	56
+
+Comrade K.K.	
+%wlubDDDDDDDDD	55	
+DDDDDDDDDDDDDD	56
+
+Chocolates	
+2bWeCDDDDDDDDD	55	
+DDDDDDDDDDDDDD	56
+
+K.K. Ragtime	
+WUcucDDDDDDDDD	55	
+DDDDDDDDDDDDDD	56
+
+Lunar Horizon	
+QBGPqqqqqqqqqq	55	
+qqqqqqqqqqqqqN	56
+
+Starman	
+Abd44444444444	55	
+4444444444444T	55
+
+Propane Stove	
+Qbd33444444444	55	
+44444444444444	56
+
+Blue Corner	
+wSB23444444444	55	
+44444444444444	56
+
+Matryoshka	
+2wXvmDDDDDDDDD	55	
+DDDDDDDDDDDDDD	56
+
+K.K. Jazz	
+bb225555555555	54	
+55555555555556	56
+
+Beach Chair	
+BSWccCCCCCCCCC	54	
+CCCCCCCCCCCCCC	56
+
+K.K. Reggae	
+WsnGbDDDDDDDDD	54	
+DDDDDDDDDDDDDD	56
+
+Classic Vanity	
+eDFNNOOOOOOOOO	53	
+OOOOOOOOOOOOOO	56
+
+Coin	
+Qbdcc444444444	53	
+44444444444444	56
+
+Pulse Shirt	
+QaaSSDDDDDDDDD	53	
+DDDDDDDDDDDDDD	56
+
+Locomotive Model	
+2laAATqqqqqqqq	53	
+qqqqqqqqqqqqqq	56
+
+Life Ring	
+2B2Baqqqqqqqqq	53	
+qqqqqqqqqqqqqq	56
+
+Mermaid Statue	
+Abl24444444444	53	
+44444444444443	56
+
+Jingle Piano	
+aawBBCCCCCCCCC	53	
+CCCCCCCCCCCCCC	56
+
+Black Queen	
+efwwVCCCCCCCCC	53	
+CCCCCCCCCCCCCC	56
+
+Jingle Carpet	
+qwCBBccCCCCCCC	53	
+CCCCCCCCCCCCCC	56
+
+Lady Liberty	
+UxVVdVVVVVVVV	53	
+VVVVVVVVVVVVVV	56
+
+Jingle Wardrobe	
+aaqqBEHHHHHHHH	52	
+HHHHHHHHHHHHHH	56
+
+Tennis	
+WWlUXvvVVVVVVV	52	
+VVVVVVVVVVVVVV	56
+
+Jingle Table	
+aaECRCCCCCCCCC	52	
+CCCCCCCCCCCCCC	56
+
+Classic Hutch	
+BBBDT666666666	52	
+66666666666666	56
+
+Sandlot	
+brc46888888888	52	
+88888888888888	56
+
+Snowman Fridge	
+qaaAlDDDDDDDDD	52	
+DDDDDDDDDDDDDD	56
+
+Lovely Kitchen	
+AAKsss22222222	51	
+22222222222222	56
+
+Computer	
+3BB2BccCCCCCCC	51	
+CCCCCCCCCCCCCC	56
+
+Black Bishop	
+aaEbLCCCCCCCCC	51	
+CCCCCCCCCCCCCC	56
+
+Tropical Floor	
+E4dTTB77777777	51	
+77777777777777	56
+
+Hi-fi Stereo	
+KdEEEdVVVVVVVV	50	
+VVVVVVVVVVVVVV	56
+
+White Rook	
+aaEerCCCCCCCCC	49	
+CCCCCCCCCCCCCC	56
+
+Frog Woman Pole	
+ceBBBccCCCCCCC	48	
+CCCCCCCCCCCCCC	56
+
+Excitebike	
+AJJIji00000000	45	
+00000000000000	56
+
+Starman	
+Abd44444444444	55	
+4444444444444T	55
+
+Jingle Lamp	
+WWdNNNNNNNNNNN	59	
+NNNNNNNNNNNNNf	53
+
+Robo-Stereo	
+WWddNNNNNNNNNN	58	
+NNNNNNNNNNNNNf	53
+
+Black Rook	
+eWQqqqqqqqqqqq	57	
+qqqqqqqqqqqqql	53
+
+Jingle Shelves	
+2WlDNNNNNNNNNN	55	
+NNNNNNNNNNNNNf	53
+
+46-43:
+
+Golf	
+WMMcEEEEEEEEEE	51	
+EEEEEEEEEEEEEW	45
+
+Spooky Sofa	
+QEEMMddddddddd	50	
+ddddddddddddDD	44
+
+Harvest Chair	
+qWWbuuuuuuuuuu	49	
+uuuuuuuuuuuuuW	45
+
+Office Flooring	
+wAAERRRRRRRRRR	48	
+RRRRRRRRRRRRR3	43
+
+Bottled Shop	
+AwSLcccccccccc	46	
+ccccccccccccc%	46
+
+Campfire	
+aWdNnnnnnnnnnn	46	
+nnnnnnnnnnnnnH	43
+
+Koopa Shell	
+aWdNnnnnnnnnnn	46	
+nnnnnnnnnnnnnW	45
+
+Lunar Rover	
+cwBCCddddddddd	46	
+ddddddddddddDD	44
+
+Harvest Lamp	
+QKAbBBBBBBBBBB	46	
+BBBBBBBBBBBBBQ	44
+
+Brick Block	
+bBDDEddddddddd	44	
+ddddddddddddDD	44
+
+Harvest Mirror	
+BB32bbbbbbbbbb	44	
+bbbbbbbbbbbbbH	43
+
+Super Toilet	
+2aBeEddddddddd	42	
+ddddddddddddDD	44
+
+Cabin Chair	
+bbdFFddddddddd	42	
+ddddddddddddDD	44
+
+
+Jingle Chair	
+kddOTTTTTTTTTT	42	
+TTTTTTTTTTTTTH	43
+
+Spooky Bed	
+CrceEddddddddd	41	
+ddddddddddddDD	44
+
+Sand Garden	
+kZLLLLLLLLLLLL	40	
+LLLLLLLLLLLLLW	45
+
+42:
+
+Covered Wagon	
+bbkKAAAAAAAAAA	61	
+aaaaaaaaaaaaaa	42
+
+Cabana Chair	
+2CbmGGGGGGGGGG	56	
+gggggggggggggg	42
+
+Spooky Lamp	
+33cRGGGGGGGGGG	54	
+gggggggggggggg	42
+
+Snowcone Machine	
+%WWQbbbbbbbbbb	54	
+bbbbbbbbbbbbbc	42
+
+Modern Cabinet	
+QW2#QKBBBBBBBB	52	
+BBBBBBBBBBBBBB	42
+
+Luigi Trophy	
+qWWSWuuuuuuuuu	52	
+uuuuuuuuuuuuuu	42
+
+Mountain Bike	
+%%ALKXXXXXXXXX	52	
+XXXXXXXXXXXXXX	42
+
+Snowy Tree Model	
+%WWabbbbbbbbbb	52	
+bbbbbbbbbbbbbb	42
+
+Plum Bonsai	
+QSSB%%BBBBBBBB	52	
+BBBBBBBBBBBBBB	42
+
+Tin Shirt	
+22WWLDDddddddd	52	
+dddddddddddddd	42
+
+Bass	
+a2mmmNNnnnnnnn	51	
+nnnnnnnnnnnnnn	42
+
+Wario's Woods	
+AAw233dddddddd	51	
+dddddddddddddd	42
+
+Judge's Bell	
+BCCEWAAaaaaaaa	51	
+aaaaaaaaaaaaaa	42
+
+Regal Bed	
+K%&Mduuuuuuuuu	50	
+uuuuuuuuuuuuuu	42
+
+Crab Stew	
+QQW2bbbbbbbbbb	50	
+bbbbbbbbbbbbbc	42
+
+K.K. Ska	
+BbB%%KKKKKKKKK	50	
+KKKKKKKKKKKKKK	42
+
+Nintendo Bench	
+QQW2bbbbbbbbbb	50	
+bbbbbbbbbbbbbb	42
+
+Dump Model	
+AxxB%%nnnnnnnn	50	
+nnnnnnnnnnnnnn	42
+
+Ebony Piano	
+wSNNOOOooooooo	49	
+oooooooooooooo	42
+
+Grape Shirt	
+WCWcTppppppppp	49	
+pppppppppppppp	42
+
+Lighthouse Model	
+2qAAFnTTTTTTTT	48	
+TTTTTTTTTTTTTT	42
+
+K.K. Chorale	
+QwwEnnBBBBBBBB	48	
+BBBBBBBBBBBBBB	42
+
+Green Pipe	
+mCDC2dTTTTTTTT	48	
+TTTTTTTTTTTTTT	42
+
+Red Aloha Shirt	
+aaWaAKdddddddd	47	
+dddddddddddddd	42
+
+Shirt Circuit	
+2BAAbdRRRRRRRR	47	
+RRRRRRRRRRRRRR	42
+
+K.K. D & B	
+bsmmmoYYYYYYYY	47	
+YYYYYYYYYYYYYY	42
+
+Crossing Shirt	
+ACmnPPPPPPPPPP	47	
+pppppppppppppp	42
+
+Noisemaker	
+#224FFFFFFFFFF	47	
+FFFFFFFFFFFFFF	42
+
+Ringside Seating	
+#qwcdddddddddd	47	
+dddddddddddddT	42
+
+Red Corner	
+wWBbcdRRRRRRRR	47	
+RRRRRRRRRRRRRR	42
+
+Beach Table	
+wWaabbbbbbbbbb	47	
+bbbbbbbbbbbbbb	42
+
+Snowman	
+Qc333Ennnnnnnn	47	
+nnnnnnnnnnnnnn	42
+
+Cabana Bed	
+awCCCsSSSSSSSS	46	
+SSSSSSSSSSSSSS	42
+
+Tiger Print	
+KLLMNooooooooo	46	
+oooooooooooooo	42
+
+K.K. Faire	
+QEe455RRRRRRRR	46	
+RRRRRRRRRRRRRR	42
+
+DK Jr MATH	
+2XkQQLLLLLLLLL	46	
+LLLLLLLLLLLLLL	42
+
+Snowman Table	
+TuuMNppppppppp	46	
+pppppppppppppp	42
+
+Tropical Vista	
+bvUCWppppppppp	46	
+pppppppppppppp	42
+
+Sleeping Bag	
+3VNNFFFFFFFFFF	46	
+FFFFFFFFFFFFFo	42
+
+Harvest Sofa	
+bKwKKASSSSSSSS	46	
+SSSSSSSSSSSSSS	42
+
+Basement Wall	
+GGGGTppppppppp	46	
+pppppppppppppp	42
+
+Wide-screen TV	
+QBcMfFFFFFFFFF	45	
+FFFFFFFFFFFFFF	42
+
+Caterpillar Tee	
+QbEEBNdddddddd	45	
+dddddddddddddd	42
+
+Mario Trophy	
+aKKQCLLLLLLLLL	45	
+LLLLLLLLLLLLLL	42
+
+Compass	
+23cDFFFFFFFFFF	45	
+FFFFFFFFFFFFFF	42
+
+Cool Shirt	
+QKEERNdddddddd	45	
+dddddddddddddd	42
+
+House Model	
+weddmFFFFFFFFF	45	
+FFFFFFFFFFFFFF	42
+
+Kiddie Bed	
+5GOEFFFFFFFFFF	45	
+FFFFFFFFFFFFFE	42
+
+Kiddie Stereo	
+qqEE3Ennnnnnnn	45	
+nnnnnnnnnnnnnn	42
+
+Ukulele	
+WBLLXEEEEEEEEE	45	
+EEEEEEEEEEEEEE	42
+
+I Love You	
+WLwsasBBBBBBBB	45	
+BBBBBBBBBBBBBB	42
+
+Letter Cubby	
+AccMfFFFFFFFFF	45	
+FFFFFFFFFFFFFF	42
+
+Cannon	
+sWBBCdRRRRRRRR	45	
+RRRRRRRRRRRRRR	42
+
+Saddle Fence	
+qqKDccdddddddd	45	
+dddddddddddddd	42
+
+Blue Table	
+SSSkA&BBBBBBBB	44	
+BBBBBBBBBBBBBB	42
+
+Fireplace	
+%aalbbbbbbbbbb	44	
+bbbbbbbbbbbbbb	42
+
+Nook's Portrait	
+zzAUUUUuuuuuuu	44	
+uuuuuuuuuuuuuu	42
+
+Classroom Wall	
+lXVVwbYYYYYYYY	44	
+YYYYYYYYYYYYYY	42
+
+Balloon Fight	
+QWeeeTdddddddd	44	
+dddddddddddddd	42
+
+Pagoda	
+QKSSXLLLLLLLLL	44	
+LLLLLLLLLLLLLL	42
+
+K.K. Folk	
+emSswaaaaaaaaa	44	
+bbbbbbbbbbbbbb	42
+
+Well	
+GoTOpppppppppp	44	
+pppppppppppppo	42
+
+Music Room Wall	
+GNMebssSSSSSSS	44	
+SSSSSSSSSSSSSS	42
+
+Backyard Pool	
+AKZVdLLLLLLLLL	44	
+LLLLLLLLLLLLLL	42
+
+Garden Gnome	
+aKAbBBBBBBBBBB	44	
+BBBBBBBBBBBBBc	42
+
+Cabana Armchair	
+23cCtooooooooo	43	
+oooooooooooooo	42
+
+Watermelon Shirt	
+TXuVpppppppppp	43	
+pppppppppppppp	42
+
+Surfboard	
+kTTAbbbbbbbbbb	43	
+bbbbbbbbbbbbbb	42
+
+Lucky K.K.	
+bRRRGEYYYYYYYY	43	
+YYYYYYYYYYYYYY	42
+
+Western Vista	
+AcrRDeYYYYYYYY	43	
+YYYYYYYYYYYYYY	42
+
+Manekin Pis	
+kAabcccccccccc	43	
+cccccccccccccB	42
+
+Mailbox	
+3TTFFuuuuuuuuu	43	
+uuuuuuuuuuuuuu	42
+
+K.K. March	
+2RRFooYYYYYYYY	43	
+YYYYYYYYYYYYYY	42
+
+Mossy Carpet	
+AZAtKuuuuuuuuu	43	
+uuuuuuuuuuuuuu	42
+
+Dice Stereo	
+AeBBEooooooooo	43	
+oooooooooooooo	42
+
+Lovely End Table	
+BLSBBRRRRRRRRR	42	
+RRRRRRRRRRRRRR	42
+
+Jingle Dresser	
+AbbdTyyYYYYYYY	42	
+YYYYYYYYYYYYYY	42
+
+Donkey Kong	
+cLDDlLLLLLLLLL	42	
+LLLLLLLLLLLLLL	42
+
+Exotic Lamp	
+KTTuvdBBBBBBBB	41	
+BBBBBBBBBBBBBB	42
+
+Igloo Model	
+kaaabbbbbbbbbb	41	
+bbbbbbbbbbbbbc	42
+
+Modern End Table	
+qAttLKSSSSSSSS	41	
+SSSSSSSSSSSSSS	42
+
+Arc De Triomphe	
+qqsssTSSSSSSSS	41	
+SSSSSSSSSSSSSS	42
+
+Industrial Wall	
+Bsa22lnnnnnnnn	41	
+nnnnnnnnnnnnnn	42
+
+Fishing Trophy	
+qBlSccdddddddd	41	
+dddddddddddddd	42
+
+K.K. Parade	
+lbbCcKKKKKKKKK	41	
+KKKKKKKKKKKKKK	42
+
+Sleigh	
+ssWlbbbbbbbbbb	41	
+bbbbbbbbbbbbbb	42
+
+Tribal Mask	
+KLLLfooooooooo	40	
+oooooooooooooo	42
+
+DJ K.K.	
+zSSBaaaaaaaaaa	40	
+bbbbbbbbbbbbbb	42
+
+Bonfire	
+EoOOffFFFFFFFF	40	
+FFFFFFFFFFFFFF	42
+
+Deer Scare	
+KKtZKXXXXXXXXX	39	
+XXXXXXXXXXXXXX	42
+
+Clu Clu Land	
+ErdEfPPppppppp	39	
+pppppppppppppp	42
+
+Merlion	
+KkLLfooooooooo	39	
+oooooooooooooo	42
+
+Backgammon Wall	
+GoeOfssSSSSSSS	39	
+SSSSSSSSSSSSSS	42
+
+Imperial K.K.	
+B2SllFFFFFFFFF	39	
+FFFFFFFFFFFFFF	42
+
+Closed Road	
+klecRdRRRRRRRR	38	
+RRRRRRRRRRRRRR	42
+
+Wave Breaker	
+eeddEssSSSSSSS	38	
+SSSSSSSSSSSSSS	42
+
+Hamster Cage	
+KabbullLLLLLLL	38	
+LLLLLLLLLLLLLL	42
+
+Fire Flower	
+EtOOffFFFFFFFF	38	
+FFFFFFFFFFFFFF	42
+
+Ranch Hutch	
+ACBllllLLLLLLL	37	
+LLLLLLLLLLLLLL	42
+
+Lunar Surface	
+qeeRdttTTTTTTT	37	
+TTTTTTTTTTTTTT	42
+
+Diver Dan	
+KUlsKllLLLLLLL	36	
+LLLLLLLLLLLLLL	42
+
+Telescope	
+ZatZullLLLLLLL	34	
+LLLLLLLLLLLLLL	42
+
+Angler Trophy	
+AWwwkttttttttt	32	
+uuuuuuuuuuuuuu	42
+
+Lawn Mower	
+Q2wwkttttttttt	30	
+uuuuuuuuuuuuuu	42
+
+? Block	
+AawQkttttttttt	29	
+uuuuuuuuuuuuuu	42
+
+Kayak	
+AawAkttttttttt	29	
+uuuuuuuuuuuuuu	42
+
+Jingle Sofa	
+AbCCffffffffff	26	
+FFFFFFFFFFFFFF	42
+
+40/41:
+
+Bottle Rocket	
+%%WAbbbbbbbbbb	55	
+bbbbbbbbbbbbbl	40
+
+Cabin Bookcase	
+Aw22XXXXXXXXXX	48	
+XXXXXXXXXXXXXZ	41
+
+Pop Machine	
+WWTEoooooooooo	48	
+ooooooooooooof	40
+
+K.K. Samba	
+aB22XXXXXXXXXX	44	
+XXXXXXXXXXXXXZ	41
+
+Steam roller	
+3TTFuuuuuuuuuu	43	
+uuuuuuuuuuuuui	40
+
+32-29:
+
+Tiger Bobblehead	
+#%%%eeeeeeeeee	46	
+eeeeeeeeeeeeeE	29
+
+Pinball	
+qCWBssssssssss	37	
+sssssssssssssB	29
+
+Snowman Sofa	
+Q&&&eeeeeeeeee	37	
+eeeeeeeeeeeeeE	29
+
+Jingle Shirt	(?)
+QC2bssssssssss	36	
+sssssssssssssB	29
+
+Snowman Dresser	
+Luuussssssssss	32	
+sssssssssssssW	32
+
+Mouth of Truth	
+LLubssssssssss	32	
+sssssssssssssT	29
+
+28:
+
+Tailor Model	
+4DooHHqqqqqqqq	54	
+rrrrrrrrrrrrrr	28
+
+Splendid Shirt	
+wxSSLbqqqqqqqq	51	
+rrrrrrrrrrrrrr	28
+
+K.K. Etude	
+AbCWsddddddddd	47	
+eeeeeeeeeeeeee	28
+
+Ivory Piano	
+QQw@QXXxxxxxxx	46	
+xxxxxxxxxxxxxx	28
+
+Exotic Table	
+AwmfEEEEEEEEEE	46	
+eeeeeeeeeeeeee	28
+
+Blue Bed	
+awmgEEEEEEEEEE	46	
+eeeeeeeeeeeeee	28
+
+Groovy Shirt	
+qtAAKKKKKKKKKK	45	
+kkkkkkkkkkkkkk	28
+
+K.K. Bossa	
+wwcD@@kkkkkkkk	45	
+kkkkkkkkkkkkkk	28
+
+Snowman Chair	
+QW33cVVvvvvvvv	44	
+vvvvvvvvvvvvvv	28
+
+Snowman Wall	
+aEqWWXXxxxxxxx	42	
+xxxxxxxxxxxxxx	28
+
+Ancient Wall	
+AtUSsddddddddd	42	
+eeeeeeeeeeeeee	28
+
+Green Dresser	
+AQwLDdkkkkkkkk	41	
+kkkkkkkkkkkkkk	28
+
+Timpano Drum	
+CwwDcXXxxxxxxx	41	
+xxxxxxxxxxxxxx	28
+
+Robo-clock	
+qQ223Errrrrrrr	40	
+rrrrrrrrrrrrrr	28
+
+Zebra Print	
+ZtLKKKKKKKKKKK	39	
+kkkkkkkkkkkkkk	28
+
+K.K. Aria	
+wDnDEEkkkkkkkk	38	
+kkkkkkkkkkkkkk	28
+
+Lavender Robe	
+qBSBWsssssssss	37	
+ssssssssssssss	28
+
+K.K. Country	
+AwBsBErrrrrrrr	37	
+rrrrrrrrrrrrrr	28
+
+K.K. Fusion	
+QwBsBErrrrrrrr	37	
+rrrrrrrrrrrrrr	28
+
+Stone Coin	
+BLM3Yivvvvvvvv	36	
+vvvvvvvvvvvvvv	28
+
+Harvest Clock	
+qwEEBsssssssss	36	
+ssssssssssssss	28
+
+Cafe K.K.	
+CbbDEJrrrrrrrr	35	
+rrrrrrrrrrrrrr	28
+
+White King	
+qASecrrrrrrrrr	35	
+rrrrrrrrrrrrrr	28
+
+K.K. Safari	
+bbbd5Errrrrrrr	35	
+rrrrrrrrrrrrrr	28
+
+Chinese Lioness	
+WcRRfvvvvvvvvv	34	
+vvvvvvvvvvvvvv	28
+
+Sidewalk	
+bbCccIIIIIIIII	34	
+IIIIIIIIIIIIII	28
+
+Blue Dresser	
+bblsWrrrrrrrrr	33	
+rrrrrrrrrrrrrr	28
+
+Jingle Bed	
+sDDpJJJJJJJJJJ	33	
+JJJJJJJJJJJJJf	27
+
+Dracaena	
+bEEBBxxxxxxxxx	33	
+xxxxxxxxxxxxxx	28
+
+Western Desert	
+2b9IlIIIIIIIII	32	
+IIIIIIIIIIIIII	28
+
+Spooky Wall	
+rtFH6IIIIIIIII	32	
+IIIIIIIIIIIIII	28
+
+Cow Print	
+kksmfvvvvvvvvv	30	
+vvvvvvvvvvvvvv	28
+
+14:
+
+Soulful K.K.	
+WWeRdTTttttttt	33	
+tttttttttttttt	14
+
+K.K. Salsa	
+llWW%Ttttttttt	32	
+tttttttttttttt	14
+
+Surfin' K.K.	
+LXXB%Ttttttttt	30	
+tttttttttttttt	14
+
+Mushroom Mural	
+BBwLLnffffffff	28	
+ffffffffffffff	14
+
+Birthday Cake	
+4y678iffffffff	27	
+ffffffffffffff	14
+
+K.K. Song	
+lxXB%Ttttttttt	27	
+tttttttttttttt	14
+
+Spooky Dresser	
+klMEEdffffffff	26	
+ffffffffffffff	14
+
+Arwing	
+2Brr4nffffffff	26	
+ffffffffffffff	14
+
+Kiwi Shirt	
+4566jjjjjjjjjj	26	
+jjjjjjjjjjjjji	14
+
+High-end Stereo
+reeewsllllllll	23	
+llllllllllllll	14
+
+Samurai Suit	
+LeeBBsllllllll	23	
+llllllllllllll	14
+
+Jingle Clock	
+BCrtFillllllll	22	
+llllllllllllll	14
+
+(idk where else to put this but do this at some point)
+Turntable	
+QQbDjjjjjjjjjj	27	
+jjjjjjjjjjjjjQ	18
