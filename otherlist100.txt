@@ -1,0 +1,2776 @@
+Format: 2nd Row Sort > Furniture, Wallpaper, Carpet, Clothing, Items
+
+Do these if didn't use extra music codes!
+
+Weed Model	
+qaA%%% www www ww	73	
+wwwwwwwwwwwwww	70
+
+Tree Model	
+weddd FFF FFF FFF	43	
+FFFFFFFFFFFFFF	42	
+
+98:
+
+Writing Desk	
+llmmDs %%% %%% %%	74	
+%%%%%%%%%%%%%%	98
+
+Scroll	
+aaTkT %%% %%% %%%	77	
+%%%%%%%%%%%%%%	98
+
+Kaffe's Shirt	
+WaWwW %%% %%% %%%	89	
+%%%%%%%%%%%%%%	98
+
+Six-Ball Shirt	
+BsLmm@ %%% %%% %%	80	
+%%%%%%%%%%%%%%	98
+
+Frog Shirt	
+aKSwW %%% %%% %%%	83	
+%%%%%%%%%%%%%%	98
+
+Winter Sweater	
+BsLWW@ %%% %%% %%	82	
+%%%%%%%%%%%%%%	98
+
+Lemon Gingham	
+aa22W %%% %%% %%%	83	
+%%%%%%%%%%%%%%	98
+
+Jester Shirt	
+BsLLB@ %%% %%% %%	76	
+%%%%%%%%%%%%%%	98
+
+Windsock Shirt	
+ABLLnn %%% %%% %%	76	
+%%%%%%%%%%%%%%	98
+
+84:
+
+Blue Chair	
+AwweB @@@ @@@ @@@	74	
+@@@@@@@@@@@@@@	84
+
+Cabana Bookcase	
+3eDDCd MMM MMM MM	69	
+MMMMMMMMMMMMMM	84
+
+Cabana Wardrobe	
+Bss mmm mmm mmm mm	62	
+MMMMMMMMMMMMMM	84
+
+Classic Desk	
+2eddl WWW WWW WWW	67	
+WWWWWWWWWWWWWW	84
+
+Exotic Bureau	
+23cd3 WWW WWW WWW	72	
+WWWWWWWWWWWWWW	84
+
+Kiddie Bureau	
+lSdml MMM MMM MMM	67	
+MMMMMMMMMMMMMM	84
+
+Kiddie Wardrobe	
+tKKAE MMM MMM MMM	69	
+MMMMMMMMMMMMMM	84
+
+Regal Dresser	
+qSlml MMM MMM MMM	68	
+MMMMMMMMMMMMMM	84
+
+Weight Bench
+uumcB @@@ @@@ @@@	71	
+@@@@@@@@@@@@@@	84
+
+School Desk (Nook)	
+wSXv WWWWWWWWWW	73	
+WWWWWWWWWWWWWW	84
+
+Righty Desk	
+2LaK mmm mmm mmm m	63	
+MMMMMMMMMMMMMM	84
+
+Cow Skull	
+wSTLL WWW WWW WWW	71	
+WWWWWWWWWWWWWW	84
+
+Western Fence	
+WLaK mmm mmm mmm m	65	
+MMMMMMMMMMMMMM	84
+
+Baby Bear	
+qwBWEE MMM MMM MM	72	
+MMMMMMMMMMMMMM	84
+
+Daffodil Chair	
+qLLDlmm MMM MMM M	67	
+MMMMMMMMMMMMMM	84
+
+Folk Guitar	
+qbBWl MMM MMM MMM	71	
+MMMMMMMMMMMMMM	84
+
+Country Guitar	
+Bbs mmm mmm mmm mm	63	
+MMMMMMMMMMMMMM	84
+
+Pineapple Bed	
+qqkslmm MMM MMM M	65	
+MMMMMMMMMMMMMM	84
+
+Stove	
+2bs mmm mmm mmm mm	64	
+MMMMMMMMMMMMMM	84
+
+Billiard Table	
+qLLDfmm MMM MMM M	67	
+MMMMMMMMMMMMMM	84
+
+Sunflower	
+SbbWc WWW WWW WWW	72	
+WWWWWWWWWWWWWW	84
+
+Big Festive Tree	
+qbbBAs WWW WWW WW	68	
+WWWWWWWWWWWWWW	84
+
+Red Armchair	
+Bcdd4 WWW WWW WWW	70	
+WWWWWWWWWWWWWW	84
+
+Kitschy Clock	
+LLBBBn WWW WWW WW	66	
+WWWWWWWWWWWWWW	84
+
+Hawthorne Bonsai	
+q@DDDdMMMMMMMM	73	
+MMMMMMMMMMMMMM	84
+
+Citrus Carpet	
+3eNDC WWW WWW WWW	72	
+WWWWWWWWWWWWWW	84
+
+Regal Carpet	
+kZTUU WWW WWW WWW	69	
+WWWWWWWWWWWWWW	84
+
+Backyard Lawn (Nook)	
+AWxxx www www www	62	
+WWWWWWWWWWWWWW	84
+
+Flame Shirt	
+tUXWSK sss sss ss	36	
+WWWWWWWWWWWWWW	84
+
+Jungle Camo	
+KUXuSK sss sss ss	35	
+WWWWWWWWWWWWWW	84
+
+Hot Spring Shirt	
+DNNFOO WWW WWW WW	71	
+WWWWWWWWWWWWWW	84
+
+Polar Fleece	
+3DLaAA sss sss ss	40	
+WWWWWWWWWWWWWW	84
+
+Laced Shirt	
+QwXkkK sss sss ss	36	
+WWWWWWWWWWWWWW	84
+
+Flowery Shirt	
+wwXkLK sss sss ss	37	
+WWWWWWWWWWWWWW	84
+
+Shortcake Shirt	
+CNNNOO WWW WWW WW	72	
+WWWWWWWWWWWWWW	84
+
+Melon Gingham	
+3DLAAA sss sss ss	42	
+WWWWWWWWWWWWWW	84
+
+Orange Umbrella (Nook)	
+tuCwwww WWWWWWW	 70	
+WWWWWWWWWWWWWW	84
+
+70:
+
+Blue Clock	
+QKKKLn www www ww	60	
+wwwwwwwwwwwwww	70
+
+Blue Wardrobe	
+BawwCn www www ww	63	
+wwwwwwwwwwwwww	70
+
+Classic Cabinet	
+awuuCMM mmm mmm m	65	
+mmmmmmmmmmmmmm	70
+
+Kiddie Bookcase	
+LLLA WWW www www w	67	
+wwwwwwwwwwwwww	70
+
+Kiddie Chair	
+ZXsAAd www www ww	60	
+wwwwwwwwwwwwww	70
+
+Black Pawn	
+BbbSWs www www ww	60	
+wwwwwwwwwwwwww	70
+
+Apple Clock	
+eemmEE www www ww	60	
+wwwwwwwwwwwwww	70
+
+Djimbe Drum	
+AbQB QQQ QQQ QQQ Q	66	
+QQQQQQQQQQQQQQ	70
+
+Rock Guitar	
+QQbLST mmm mmm mm	62	
+mmmmmmmmmmmmmm	70
+
+G Logo	
+QwwWR AAA AAA AAA	69	
+AAAAAAAAAAAAAA	70
+
+Pear Dresser	
+Bc&baqq QQQ QQQ Q	59	
+QQQQQQQQQQQQQQ	70
+
+Extinguisher	
+aeED%% AAA AAA AA	66	
+AAAAAAAAAAAAAA	70
+
+Sewing Machine	
+2BBRfMM mmm mmm m	61	
+mmmmmmmmmmmmmm	70
+
+Metronome	
+aa&Bc QQQ QQQ QQQ	61	
+QQQQQQQQQQQQQQ	70
+
+Ruby Econo-chair	
+bmFDDJ mmm mmm mm	61	
+mmmmmmmmmmmmmm	70
+
+Snake Plant	
+aKTL www www www w	62	
+wwwwwwwwwwwwwQ	70
+
+CD Player	
+KZvdf lll lll lll	20	
+mmmmmmmmmmmmmm	70
+
+Reel-to-reel	
+BQQQQ@ www www ww   69	
+wwwwwwwwwwwwww	70
+
+Tulip Model 2	
+2@@eT5wwwwwwww	65	
+wwwwwwwwwwwwww	70
+
+Train Car Model	
+2bBS www www www w	63	
+wwwwwwwwwwwwwQ	70
+
+Station Model 1	
+23BL www www www w	64	
+wwwwwwwwwwwwwW	71
+
+Station Model 3	
+bbQQWE www www ww	65	
+wwwwwwwwwwwwww	70
+
+Station Model 4	
+aEdL www www www w	62	
+wwwwwwwwwwwwwW	71
+
+Station Model 12	
+dMA%%% www www ww	75	
+wwwwwwwwwwwwww	70
+
+Station Model 13	
+KkkAWWW www www w	65	
+wwwwwwwwwwwwww	70
+
+Station Model 15	
+KAAACE www www ww	65	
+wwwwwwwwwwwwww	70
+
+Journal	
+QalBbqq QQQ QQQ Q	58	
+QQQQQQQQQQQQQQ	70
+
+Classic Wall (Nook)	
+&edgx wwwwwwwww	 59	
+wwwwwww WWWWWWW	 77
+
+Tea Room Wall	
+QeEmmaa AAAAAAA	61	
+AAAAAAAAAAAAAA	70
+
+Plush Carpet (Nook)	
+KQwwe www www www	65	
+wwwwwwwwwwwwww	70
+
+Folk Shirt	
+Qbab2E www www ww	61	
+wwwwwwwwwwwwww	70
+
+Wavy Tan Shirt	
+WbW2@E www www ww	68	
+wwwwwwwwwwwwww	70
+
+Sherbet Gingham	
+QbXFF@ www www ww	63	
+wwwwwwwwwwwwww	70
+
+One-Ball Shirt	
+2bW22@ www www ww	67	
+wwwwwwwwwwwwww	70
+
+Zipper Shirt	
+aKSLEE www www ww	58	
+wwwwwwwwwwwwww	70
+
+Sunset Top	
+bbSBEE www www ww	58	
+wwwwwwwwwwwwww	70
+
+Bear Shirt	
+QbXbCE www www ww	61	
+wwwwwwwwwwwwww	70
+
+Silk Bloom Shirt	
+aKaBEE www www ww	58	
+wwwwwwwwwwwwww	70
+
+Spade Shirt	
+QbSFF@ www www ww	63	
+wwwwwwwwwwwwww	70
+
+Dazed Shirt	
+AbSbCE www www ww	61	
+wwwwwwwwwwwwww	70
+
+Earthy Knit	
+aSTA%E www www ww	64	
+wwwwwwwwwwwwww	70
+
+Heart Shirt	
+qbSBEE www www ww	59	
+wwwwwwwwwwwwww	70
+
+No. 2 Shirt	
+AwSbW@ www www ww	68	
+wwwwwwwwwwwwww	70
+
+No. 4 Shirt	
+qKW22@ www www ww	67	
+wwwwwwwwwwwwww	70
+
+Snappy Print	
+abW22Ewwwwwwww	63	
+wwwwwwwwwwwwww	70
+
+Puzzling Shirt	
+qKW2@@ www www ww	69	
+wwwwwwwwwwwwww	70
+
+Gaudy Sweater	
+QbXbW@ www www ww	66	
+wwwwwwwwwwwwww	70
+
+Comfy Sweater	
+bSTA&@ www www ww	64	
+wwwwwwwwwwwwww	70
+
+Natty Shirt (Nook)	
+%AAAs qqqqq QQQQ	64	
+QQQQQQQQQQQQQQ	70
+
+Thunder Shirt	
+zzXbCE www www ww	55	
+wwwwwwwwwwwwww	70
+
+Swell Shirt	
+sDNF@@ www www ww	65	
+wwwwwwwwwwwwww	70
+
+Elegant Umbrella	
+lMSSDn mmm mmm mm	60	
+mmmmmmmmmmmmmm	70
+
+Classic Umbrella	
+kLSdd vvv vvv vvv	32	
+wwwwwwwwwwwwww	70
+
+68-66:
+
+Space Station	
+kkUS mmm mmm mmm m	61	
+mmmmmmmmmmmmmK	68
+
+Red Clock	
+qTAA www www www w	67	
+wwwwwwwwwwwwwl	66
+
+Croton	
+22W2 www www www w	68	
+wwwwwwwwwwwwwl	66
+
+Jukebox	
+qAQQ www www www w	69	
+wwwwwwwwwwwwwl	66
+
+Ribbon Shirt	
+qASAQQQQQQQQQQ	67	
+QQQQQQQQQQQQQl	66
+
+Blue Tartan	
+BcWa QQQ QQQ QQQ Q	65	
+QQQQQQQQQQQQQK	68
+
+Chain-Gang Shirt	
+eeW QQQ QQQ QQQ QQ	65	
+QQQQQQQQQQQQQK	68
+
+Yellow Bar Shirt	
+AsXX mmm mmm mmm m	63	
+mmmmmmmmmmmmmc	68
+
+Monkey Shirt	
+lkSA QQQ QQQ QQQ Q	61	
+QQQQQQQQQQQQQK	68
+
+Berry Gingham	
+AWWA QQQ QQQ QQQ Q	72	
+QQQQQQQQQQQQQo	68
+
+Danger Shirt	
+qqSA QQQ QQQ QQQ Q	66	
+QQQQQQQQQQQQQK	68
+
+62/58:
+
+Parlor Wall (Nook)	
+Qmd aaaaaaaaaaa	46	
+aaaa AAAAAAAAAA	62
+
+Playroom Wall (Nook)	
+Qed aaaaaaaaaaa	43	
+aaaa AAAAAAAAAA	62
+
+Cabana Dresser	
+AWML UUU UUU UUU U	60	
+UUUUUUUUUUUUUW	58
+
+Exotic Wardrobe	
+aACV UUU UUU UUU U	56	
+UUUUUUUUUUUUUW	58
+
+Mama Bear	
+qQCX UUU UUU UUU U	56	
+UUUUUUUUUUUUUW	58
+
+Papa Bear	
+AAeL UUU UUU UUU U	55	
+UUUUUUUUUUUUUW	58
+
+Scale	
+aa&& 333 333 333 3	54	
+3333333333333W	58
+
+Blue Scale Shirt	
+ec23 999 999 999 9	53	
+9999999999999W	58
+
+56:
+
+Exotic Bench	
+WLc4r DDD DDD DDD	54	
+DDDDDDDDDDDDDD	56
+
+Kiddie Couch	
+aawsR CCC CCC CCC	52	
+CCCCCCCCCCCCCC	56
+
+Kiddie Dresser	
+KXXLBQQ qqq qqq q	53	
+qqqqqqqqqqqqqq	56
+
+Lovely Armchair	
+qccEBcc CCC CCC C	50	
+CCCCCCCCCCCCCC	56
+
+Modern Bed	
+beqzL DDD DDD DDD	49	
+DDDDDDDDDDDDDD	56
+
+Modern Lamp	
+Qb2eE DDD DDD DDD	53	
+DDDDDDDDDDDDDD	56
+
+Modern Sofa	
+qkSSXT VVV VVV VV	50	
+VVVVVVVVVVVVVV	56
+
+Ranch Bookcase	
+CCBBBcc CCC CCC C	51	
+CCCCCCCCCCCCCC	56
+
+Regal Bookcase	
+qccRRcc CCC CCC C	50	
+CCCCCCCCCCCCCC	56
+
+Barbecue	
+KKSBB 444 444 444	51	
+44444444444444	56
+
+Bird Bath	
+QWSLB 444 444 444	56	
+44444444444444	56
+
+Hammock	
+SwwwBE 888 888 88	56	
+88888888888888	56
+
+Picnic Table	
+2CVD@ 333 333 333	58	
+33333333333333	56
+
+Tiki Torch	
+ew2B uuu uuu uuu u	44	
+UUUUUUUUUUUUUU	56
+
+Blue Corner	
+wSB23 444 444 444	55	
+44444444444444	56
+
+Boxing Barricade	
+E333 888 888 888 8	55	
+88888888888889	56
+
+Boxing Mat	
+BBlBBe 222 222 22	47	
+22222222222222	56
+
+Yuki Figurine	
+qxllBcc CCC CCC C	45	
+CCCCCCCCCCCCCC	56
+
+Detour Arrow	
+dFdddnn NNN NNN N	49	
+NNNNNNNNNNNNNN	56
+
+Handcart	
+33DG OOO OOO OOO O	56	
+OOOOOOOOOOOOO6	56
+
+Jersey Barrier	
+qKSBBd 444 444 44	51	
+44444444444444	56
+
+Lefty Desk	
+KSSBBd 444 444 44	50	
+44444444444444	56
+
+Mop	
+QWSa% qqq qqq qqq	60	
+qqqqqqqqqqqqqq	56
+
+Master Sword	
+qCdRRcc CCC CCC C	51	
+CCCCCCCCCCCCCC	56
+
+N Logo	
+qeBBRcc CCC CCC C	49	
+CCCCCCCCCCCCCC	56
+
+Office Desk	
+qttTTcc CCC CCC C	46	
+CCCCCCCCCCCCCC	56
+
+Office Locker	
+QQKaB HHH HHH HHH	55	
+HHHHHHHHHHHHHH	56
+
+Raven Pole	
+3eBBBcc CCC CCC C	49	
+CCCCCCCCCCCCCC	56
+
+Space Heater	
+3cBBBcc CCC CCC C	50	
+CCCCCCCCCCCCCC	56
+
+Chess Table	
+QASBB 444 444 444	55	
+44444444444444	56
+
+Festive Tree	
+QWSD@@ qqq qqq qq	62	
+qqqqqqqqqqqqqq	56
+
+Barrel	
+LLmEB 555 555 555	53	
+55555555555555	56
+
+Green Golf Bag	
+qBcBBcc CCC CCC C	50	
+CCCCCCCCCCCCCC	56
+
+Jade Econo-chair	
+QqWW35 888 888 88	61	
+88888888888888	56
+
+Cube Clock	
+2awLX CCC CCC CCC	54	
+CCCCCCCCCCCCCC	56
+
+Glow Clock	
+aKxUs CCC CCC CCC	50	
+CCCCCCCCCCCCCC	56
+
+Aloe	
+QQSSXT VVV VVV VV	54	
+VVVVVVVVVVVVVV	56
+
+Pothos	
+22SBE VVV VVV VVV	53	
+VVVVVVVVVVVVVV	56
+
+Grass Model	
+QWSaa qqq qqq qqq	56	
+qqqqqqqqqqqqqq	56
+
+Station Model 2	
+aawCV CCC CCC CCC	55	
+CCCCCCCCCCCCCC	56
+
+Station Model 6	
+QWSKKT qqqq qqq q	55	
+qqqqqqqqqqqqqq	56
+
+School Pad	
+3tfugH 999 999 99	48	
+99999999999999	56
+
+Yellow Plaid Pad
+QBbRT 777 777 777	53	
+77777777777777	56
+
+Modern Wall	
+Q2eAQ qqq qqq qqq	57	
+qqqqqqqqqqqqqq	56
+
+Lattice Wall	
+Q2eBQ qqq qqq qqq	55	
+qqqqqqqqqqqqqq	56
+
+Kitchen Wall	
+WWaABE qqq qqq qq	58	
+qqqqqqqqqqqqqq	56
+
+Arched Window	
+QBMLB qqq qqq qqq	56	
+qqqqqqqqqqqqqq	56
+
+Library Wall	
+WW2BB qqq qqq qqq	58	
+qqqqqqqqqqqqqq	56
+
+
+Checkered Tile	
+%%W33 666 666 666	64	
+66666666666666	56
+
+Old Flooring	
+2DHOJT VVV VVV VV	53	
+VVVVVVVVVVVVVV	56
+
+Lovely Carpet	
+2b@&&cc CCC CCC C	55	
+CCCCCCCCCCCCCC	56
+
+Green Rug	
+QkTxST VVV VVV VV	50	
+VVVVVVVVVVVVVV	56
+
+Ornate Rug	
+QqSC VVV VVV VVV V	56	
+VVVVVVVVVVVVVN	56
+
+Kitchen Flooring (Nook)	
+%%WWr nnnnnnnn N	56	
+NNNNNNNNNNNNNN	56
+
+Stone Tile	
+2rN44% UUU UUU UU	57	
+UUUUUUUUUUUUUU	56
+
+Imperial Tile	
+aAWxST VVV VVV VV	54	
+VVVVVVVVVVVVVV	56
+
+Slate Flooring	
+AATxST VVV VVV VV	53	
+VVVVVVVVVVVVVV	56
+
+Mosaic Tile	
+QASxST VVV VVV VV	53	
+VVVVVVVVVVVVVV	56
+
+Parquet Floor	
+4FFWWvv VVV VVV V	54	
+VVVVVVVVVVVVVV	56
+
+Shanty Mat (Nook)	
+ALLFo HHHHHHHHH	53	
+HHH hhhhhhhhhhh	56
+
+Palace Tile (Nook)	
+qbcR&w vvvvvv VV	42	
+VVVVVVVVVVVVVV	56
+
+Wavy Pink Shirt	
+bbss2n 444 444 44	49	
+44444444444444	56
+
+Future Shirt	
+&ew2%s EEE EEE EE	48	
+DDDDDDDDDDDDDD	56
+
+Fall Plaid Shirt	
+CnH7 999 999 999 9	55	
+9999999999999H	56
+
+Eight-Ball Shirt	
+SLuUZuu UUU UUU U	49	
+UUUUUUUUUUUUUU	56
+
+Nebula Shirt	
+AaaEe DDD DDD DDD	52	
+DDDDDDDDDDDDDD	56
+
+Prism Shirt	
+b22SS DDD DDD DDD	53	
+DDDDDDDDDDDDDD	56
+
+Go-Go Shirt	
+33J7 999 999 999 9	54	
+9999999999999H	56
+
+Red Grid Shirt	
+bWWS DDD DDD DDD D	58	
+DDDDDDDDDDDDDD	56
+
+MVP Shirt	
+Q2WSS DDD DDD DDD	57	
+DDDDDDDDDDDDDD	56
+
+Blossoming Shirt	
+wwSZC DDD DDD DDD	55	
+DDDDDDDDDDDDDD	56
+
+Lime Line Shirt	
+sWWEe DDD DDD DDD	55	
+DDDDDDDDDDDDDD	56
+
+Red Scale Shirt
+QW2Ee DDD DDD DDD	56	
+DDDDDDDDDDDDDD	56
+
+Caveman Tunic	
+AaaSd DDD DDD DDD	53	
+DDDDDDDDDDDDDD	56
+
+Cafe Shirt	
+QWWSL DDD DDD DDD	59	
+DDDDDDDDDDDDDD	56
+
+No. 23 Shirt	
+wWWEe DDD DDD DDD	58	
+DDDDDDDDDDDDDD	56
+
+No. 67 Shirt	
+CMNNo 666 666 666	57	
+66666666666666	56
+
+Beatnik Shirt (Nook)	
+&slx VVVVVVVVVV	49	
+VVVVVVVVVVVVVV	56
+
+Moldy Shirt	
+&@w3%s EEE EEE EE	52	
+DDDDDDDDDDDDDD	56
+
+Denim Shirt	
+bWWSS DDD DDD DDD	57	
+DDDDDDDDDDDDDD	56
+
+Concierge Shirt	
+QaaS DDD DDD DDD D	54	
+DDDDDDDDDDDDDD	56
+
+Fresh Shirt	
+QwuZC DDD DDD DDD	55	
+DDDDDDDDDDDDDD	56
+
+Trendy Top	
+XXuZZuu UUU UUU U	47	
+UUUUUUUUUUUUUU	56
+
+White Ring Shirt	
+wENoo 666 666 666	54	
+66666666666666	56
+
+Dreamy Shirt	
+QWWEc DDD DDD DDD	59	
+DDDDDDDDDDDDDD	56
+
+Plaid Parasol	
+KAbD4 DDD DDD DDD	55	
+DDDDDDDDDDDDDD	56
+
+Lacy Parasol	
+acrrf ggg ggg ggg	38	
+hhhhhhhhhhhhhh	56
+
+Paper Parasol	
+bQKQB DDD DDD DDD	55	
+DDDDDDDDDDDDDD	56
+
+Icy Umbrella	
+SbeDf ggg ggg ggg	40	
+hhhhhhhhhhhhhh	56
+
+55-53:
+
+Bug Zapper	
+322 444 444 444 44	56	
+4444444444444c	55
+
+Round Cactus	
+C444 555 555 555 5	56	
+5555555555555T	55
+
+Daffodil Table	
+2444 555 555 555 5	56	
+5555555555555T	55
+
+Iris Chair	
+ceR 555 555 555 55	52	
+5555555555555E	55
+
+
+Plaster Wall (Nook)	
+Q&SSdNNNNNNNNN	54	
+NNNNNNNNNNN nnn	53
+
+Green Wall (Nook)	
+1%W@dNNNNNNNNN	62	
+NNNNNNNNNNN nnn	53
+
+Modern Screen (Nook)	
+ERccd NNNNNNNNN	51	
+NNNNNNNNNNNN nn	54
+
+Old Brick Wall (Nook)	
+qcddR NNNNNNNNN	52	
+NNNNNNNNNNNNN n	55
+
+Fancy Carpet	
+KKSl UUU UUU UUU U	50	
+UUUUUUUUUUUUUZ	54
+
+Kitschy Tile	
+aKTT UUU UUU UUU U	52	
+UUUUUUUUUUUUUK	55
+
+Daisy Shirt	
+QBN4 666 666 666 6	56	
+6666666666666f	53
+
+Anju's Shirt	
+TKSu DDD DDD DDD D	52	
+DDDDDDDDDDDDDl	53
+
+Purple Tie-Die	
+SSSu DDD DDD DDD D	52	
+DDDDDDDDDDDDDB	55
+
+Green Tie-Die	
+5TE7 999 999 999 9	54	
+9999999999999c	55
+
+Ski Sweater	
+QTXu DDD DDD DDD D	54	
+DDDDDDDDDDDDDl	53
+
+U R Here Shirt	
+Qzuu DDD DDD DDD D	52	
+DDDDDDDDDDDDDf	53
+
+Yodel Shirt	
+ATuu DDD DDD DDD D	54	
+DDDDDDDDDDDDDl	53
+
+Dice Shirt	
+AgpD4 111 111 111	55	
+1111111111111i	53
+
+Painter's Smock	
+KTTu DDD DDD DDD D	52	
+DDDDDDDDDDDDDl	53
+
+Rainbow Shirt	
+Azuu DDD DDD DDD D	52	
+DDDDDDDDDDDDDl	53
+
+Loud Line Shirt	
+B237 999 999 999 9	55	
+9999999999999c	55
+
+Big Bro's Shirt	
+TTTu DDD DDD DDD D	52	
+DDDDDDDDDDDDDl	53
+
+Jagged Shirt	
+aKS2 DDD DDD DDD D	53	
+DDDDDDDDDDDDDl	53
+
+Striking Outfit	
+57U7 999 999 999 9	56	
+9999999999999o	55
+
+Wave Print	
+BRU7 999 999 999 9	54	
+9999999999999o	55
+
+
+47 (Nook Only):
+
+Gingham Parasol (Nook)	
+BXVABABMkaYYYY	49	
+GSHhGGHuyuoolA	47
+
+Two-Ball Shirt (Nook)	
+SluuV UUUUUUUUU	50	
+UUUUU uuuuuuuuu	47
+
+Snowcone Shirt (Nook)	
+SBSxx UUUUUUUUU	49	
+UUUUU uuuuuuuuu	47
+
+Plaza Tile (Nook)	
+KSSMDDDQRRotBR	48	
+tOqMNhgTBCuueX	47
+
+46-43:
+
+Classic Sofa	
+BRTT ooo ooo ooo o	42	
+oooooooooooooW	45
+
+Regal Lamp	
+cRnFF ddd ddd ddd	42	
+ddddddddddddDD	44
+
+Birdhouse	
+WW@T YYY YYY YYY Y	51	
+YYYYYYYYYYYYY6	43
+
+Mr. Flamingo	
+aCddf ddd ddd ddd	41	
+ddddddddddddDD	44
+
+Sandbag	
+aa#2 bbb bbb bbb b	45	
+bbbbbbbbbbbbb%	46
+
+Teacher's Chair	
+abAb BBB BBB BBB B	44	
+BBBBBBBBBBBBBQ	44
+
+Lunar Rover	
+cwBCC ddd ddd ddd	46	
+ddddddddddddDD	44
+
+Desert Cactus	
+3VNN FFF FFF FFF F	46	
+FFFFFFFFFFFFFN	43
+
+Retro TV	
+QQWF ooo ooo ooo o	49	
+oooooooooooooH	43
+
+Azalea Bonsai	
+A&@@M ddd ddd ddd	54	
+ddddddddddddDD	44
+
+Pansy Model 1	
+aWd nnn nnn nnn nn	45	
+nnnnnnnnnnnnnH	43
+
+Backyard Fence	
+qsWL nnn nnn nnn n	45	
+nnnnnnnnnnnnnN	43
+
+Imperial Wall	
+Ey74 ccc ccc ccc c	43	
+cccccccccccccQ	44
+
+Rose Wall	
+QsF nnn nnn nnn nn	43	
+nnnnnnnnnnnnnW	45
+
+Mosaic Wall (Nook)	
+VXcWYOXMRZPPPP	49	
+ovnYNgpQ66yyyp	43
+
+Playroom Rug	
+3E LLL LLL LLL LLL	43	
+LLLLLLLLLLLLLW	45
+
+Argyle Knit (Nook)	
+AUUeoTFEdhGMNN	52	
+nFOtydbMNGONdr	46
+
+Classic Top	
+ATaL ccc ccc ccc c	44	
+cccccccccccccQ	44
+
+Sharp Umbrella (Nook)	
+YBOxxXFFdPQjmB	43	
+qPGgNNRehFFFgu	46
+
+42:
+
+Blue Bench	
+AWWBcd BBB BBB BB	50	
+BBBBBBBBBBBBBB	42
+
+Blue Bookcase	
+Aw2L XXX XXX XXX X	47	
+XXXXXXXXXXXXXc	42
+
+Blue Bureau	
+2BSLd bbb bbb bbb	43	
+bbbbbbbbbbbbbb	42
+
+Blue Cabinet	
+aBSBl bbb bbb bbb	40	
+bbbbbbbbbbbbbb	42
+
+Cabana Screen	
+AAtXC LLL LLL LLL	45	
+LLLLLLLLLLLLLL	42
+
+Cabana Table	
+cC5t GGG GGG GGG G	52	
+gggggggggggggg	42
+
+Cabin Armchair	
+AW2Bcd BBB BBB BB	48	
+BBBBBBBBBBBBBB	42
+
+Cabin Couch	
+2WuxLs BBB BBB BB	44	
+BBBBBBBBBBBBBB	42
+
+Cabin Low Table	
+aWWlLK BBB BBB BB	46	
+BBBBBBBBBBBBBB	42
+
+Cabin Table	
+33co GGG GGG GGG G	54	
+gggggggggggggg	42
+
+Classic Bed	
+QbXcd ooo ooo ooo	44	
+oooooooooooooo	42
+
+Classic Table	
+awEVVU SSS SSS SS	47	
+SSSSSSSSSSSSSS	42
+
+Exotic Chest	
+WWWBWbb BBB BBB B	54	
+BBBBBBBBBBBBBB	42
+
+Exotic End Table	
+235E GGG GGG GGG G	55	
+gggggggggggggg	42
+
+Exotic Screen	
+QSSBfO BBB BBB BB	43	
+BBBBBBBBBBBBBB	42
+
+Green Bench	
+3CMll LLL LLL LLL	43	
+LLLLLLLLLLLLLL	42
+
+Green Chair	
+QTXv%% BBB BBB BB	51	
+BBBBBBBBBBBBBB	42
+
+Green Counter	
+QQWQ LLL LLL LLL L	51	
+LLLLLLLLLLLLLT	42
+
+Green Desk	
+qkttC LLL LLL LLL	39	
+LLLLLLLLLLLLLL	42
+
+Green Lamp	
+TTTzWbb BBB BBB B	43	
+BBBBBBBBBBBBBB	42
+
+Green Table	
+ATTzZK BBB BBB BB	41	
+BBBBBBBBBBBBBB	42
+
+Lovely Bed	
+qCFP FFF FFF FFF F	44	
+FFFFFFFFFFFFFF	42
+
+Lovely Chair	
+WbEBBss SSS SSS S	43	
+SSSSSSSSSSSSSS	42
+
+Lovely Lamp	
+224n ooo ooo ooo o	45	
+oooooooooooooE	42
+
+Lovely Table	
+AAwSdE RRR RRR RR	48	
+RRRRRRRRRRRRRR	42
+
+Lovely Vanity	
+WbEbBss SSS SSS S	43	
+SSSSSSSSSSSSSS	42
+
+Modern Chair	
+ll&ML uuu uuu uuu	42	
+uuuuuuuuuuuuuu	42
+
+Modern Desk	
+QWWBbd BBB BBB BB	50	
+BBBBBBBBBBBBBB	42
+
+Modern Dresser	
+aaKKaE YYY YYY YY	42	
+YYYYYYYYYYYYYY	42
+
+Modern Table	
+QWSlX BBB BBB BBB	45	
+BBBBBBBBBBBBBB	42
+
+Ranch Armchair	
+QLSBB RRR RRR RRR	44	
+RRRRRRRRRRRRRR	42
+
+Ranch Bed	
+4DT RRR RRR RRR RR	44	
+RRRRRRRRRRRRRR	42
+
+Ranch Couch	
+WLWC RRR RRR RRR R	49	
+RRRRRRRRRRRRRR	42
+
+Ranch Table	
+ADTRTd RRR RRR RR	45	
+RRRRRRRRRRRRRR	42
+
+Ranch Tea Table	
+bBLn ooo ooo ooo o	42	
+oooooooooooooE	42
+
+Regal Sofa	
+QqtXC LLL LLL LLL	44	
+LLLLLLLLLLLLLL	42
+
+Regal Vanity	
+c3cm GGG GGG GGG G	55	
+gggggggggggggg	42
+
+Bird Feeder	
+Bbbed LLL LLL LLL	41	
+LLLLLLLLLLLLLL	42
+
+Lawn Chair	
+2wBed LLL LLL LLL	44	
+LLLLLLLLLLLLLL	42
+
+Mrs. Flamingo	
+lllLWc ddd ddd dd	39	
+dddddddddddddd	42
+
+Neutral Corner	
+BBvD bbb bbb bbb b	42	
+bbbbbbbbbbbbbT	42
+
+Ringside Table	
+E45Eff FFF FFF FF	40	
+FFFFFFFFFFFFFF	42
+
+White Pawn	
+QbblF ooo ooo ooo	42	
+oooooooooooooo	42
+
+Detour Sign	
+3DMnn ooo ooo ooo	47	
+oooooooooooooo	42
+
+Flagman Sign	
+qKakZ uuu uuu uuu	41	
+uuuuuuuuuuuuuu	42
+
+Green Drum	
+2LBaae BBB BBB BB	42	
+BBBBBBBBBBBBBB	42
+
+Haz-mat Barrel	
+2LKQC LLL LLL LLL	46	
+LLLLLLLLLLLLLL	42
+
+Iron Frame	
+22L&&l nnn nnn nn	44	
+nnnnnnnnnnnnnn	42
+
+Jackhammer	
+qqKKWc ddd ddd dd	47	
+dddddddddddddd	42
+
+Manhole Cover	
+%%@ebc ddd ddd dd	52	
+dddddddddddddd	42
+
+Men at Work Sign	
+LLMnobb BBB BBB B	45	
+BBBBBBBBBBBBBB	42
+
+Merge Sign	
+&WWZl bbb bbb bbb	46	
+bbbbbbbbbbbbbb	42
+
+Oil Drum	
+mmmc2d TTT TTT TT	49	
+TTTTTTTTTTTTTT	42
+
+Saw Horse	
+kSKqK LLL LLL LLL	42	
+LLLLLLLLLLLLLL	42
+
+Speed Sign	
+cRFF XXX XXX XXX X	42	
+XXXXXXXXXXXXXT	42
+
+Traffic Cone	
+BBBaa@ BBB BBB BB	45	
+BBBBBBBBBBBBBB	42
+
+Low Lantern	
+BBTzX ttt ttt ttt	22	
+uuuuuuuuuuuuuu	42
+
+Pond Lantern	
+WcdEE YYY YYY YYY	45	
+YYYYYYYYYYYYYY	42
+
+Shrine Lantern	
+Qcbbc FFF FFF FFF	44	
+FFFFFFFFFFFFFF	42
+
+Tall Lantern	
+ACtTT FFF FFF FFF	43	
+FFFFFFFFFFFFFF	42
+
+Dark Stone	
+LLBCd@ BBB BBB BB	46	
+BBBBBBBBBBBBBB	42
+
+Leaning Stone	
+2B@@&c ddd ddd dd	50	
+dddddddddddddd	42
+
+Mossy Stone	
+22@eBc ddd ddd dd	46	
+dddddddddddddd	42
+
+Standing Stone	
+A&@cMc ddd ddd dd	51	
+dddddddddddddd	42
+
+Stone Couple	
+%%aQQ ooo ooo ooo	54	
+oooooooooooooo	42
+
+Chalk Board	
+qSSS FFF FFF FFF F	43	
+FFFFFFFFFFFFFF	42
+
+Cubby Hole
+2MLDcV YYY YYY YY	48	
+YYYYYYYYYYYYYY	42
+
+Flip-top Desk	
+qbWbW uuu uuu uuu	49	
+uuuuuuuuuuuuuu	42
+
+School Desk	
+QSLK AAA AAA AAA A	64	
+aaaaaaaaaaaaaa	42
+
+Folding Chair	
+qLemVss SSS SSS S	43	
+SSSSSSSSSSSSSS	42
+
+Letter Cubby	
+AccMf FFF FFF FFF	45	
+FFFFFFFFFFFFFF	42
+
+Science Table	
+QBcMW FFF FFF FFF	50	
+FFFFFFFFFFFFFF	42
+
+Teacher's Desk	
+QwBVd LLL LLL LLL	47	
+LLLLLLLLLLLLLL	42
+
+Vaulting Horse	
+AABe KKK KKK KKK K	45	
+KKKKKKKKKKKKKT	42
+
+Lunar Lander	
+2SSDoOO ooo ooo o	46	
+oooooooooooooo	42
+
+Rocket	
+kzcMsd SSS SSS SS	41	
+SSSSSSSSSSSSSS	42
+
+Satellite	
+WcMcc BBB BBB BBB	48	
+BBBBBBBBBBBBBB	42
+
+Space Shuttle	
+QeDXXUU uuu uuu u	46	
+uuuuuuuuuuuuuu	42
+
+Spaceman Sam	
+bbsKUUU uuu uuu u	44	
+uuuuuuuuuuuuuu	42
+
+Saddle Fence	
+qqKDcc ddd ddd dd	45	
+dddddddddddddd	42
+
+Storefront	
+aqKLcc ddd ddd dd	43	
+dddddddddddddd	42
+
+Tumbleweed	
+KLdDcc ddd ddd dd	43	
+dddddddddddddd	42
+
+Watering Trough	
+qaTkZ uuu uuu uuu	41	
+uuuuuuuuuuuuuu	42
+
+Apple TV	
+55hHH ooo ooo ooo	47	
+oooooooooooooo	42
+
+Mugho Bonsai	
+2WWBb% BBB BBB BB	53	
+BBBBBBBBBBBBBB	42
+
+Ponderosa Bonsai
+QlN OOO OOO OOO OO	54	
+oooooooooooooo	42
+
+Cactus	
+2SSxss BBB BBB BB	40	
+BBBBBBBBBBBBBB	42
+
+Tall Cactus	
+luBCR FFF FFF FFF	41	
+FFFFFFFFFFFFFF	42
+
+Lemon Table	
+QBcRn FFF FFF FFF	44	
+FFFFFFFFFFFFFF	42
+
+Lime Chair	
+qSSzZU BBB BBB BB	41	
+BBBBBBBBBBBBBB	42
+
+Iris Table	
+E455T FFF FFF FFF	45	
+FFFFFFFFFFFFFF	42
+
+Tulip Chair	
+ABbcc FFF FFF FFF	44	
+FFFFFFFFFFFFFF	42
+
+Tulip Table	
+qCtTT FFF FFF FFF	42	
+FFFFFFFFFFFFFF	42
+
+Conga Drum	
+awwBMs SSS SSS SS	48	
+SSSSSSSSSSSSSS	42
+
+Aiko Figurine	
+QSSS FFF FFF FFF F	44	
+FFFFFFFFFFFFFF	42
+
+Keiko Figurine	
+AKKKbll LLL LLL L	40	
+LLLLLLLLLLLLLL	42
+
+Maki Figurine	
+AAaB RRR RRR RRR R	46	
+RRRRRRRRRRRRRc	42
+
+Yoko Figurine	
+wwBllll LLL LLL L	38	
+LLLLLLLLLLLLLL	42
+
+Lily-pad Table	
+44rC fff fff fff f	24	
+FFFFFFFFFFFFFF	42
+
+Melon Chair	
+%AttLK SSS SSS SS	44	
+SSSSSSSSSSSSSS	42
+
+Watermelon Chair	
+23EEEc ddd ddd dd	44	
+dddddddddddddd	42
+
+Watermelon Table	
+AsLSAN nnn nnn nn	46	
+nnnnnnnnnnnnnn	42
+
+Office Chair	
+AnOOf FFF FFF FFF	44	
+FFFFFFFFFFFFFF	42
+
+Pine Chair	
+2rdEE YYY YYY YYY	42	
+YYYYYYYYYYYYYY	42
+
+Pine Table	
+BddEE YYY YYY YYY	42	
+YYYYYYYYYYYYYY	42
+
+Cello	
+2waMM ooo ooo ooo	51	
+oooooooooooooo	42
+
+Bear Pole	
+bbbllll LLL LLL L	34	
+LLLLLLLLLLLLLL	42
+
+Eagle Pole	
+BLLn ooo ooo ooo o	42	
+oooooooooooooE	42
+
+Blue Vase	
+AzXn ooo ooo ooo o	42	
+oooooooooooooo	42
+
+Red Vase	
+adRFo YYY YYY YYY	42	
+YYYYYYYYYYYYYY	42
+
+Candy Machine	
+2wqqK LLL LLL LLL	47	
+LLLLLLLLLLLLLL	42
+
+Coffee Machine	
+qqAl BBB BBB BBB B	44	
+BBBBBBBBBBBBBc	42
+
+Globe	
+cDNB ooo ooo ooo o	44	
+oooooooooooooT	42
+
+Writing Chair	
+qbeFFs SSS SSS SS	41	
+SSSSSSSSSSSSSS	42
+
+Birdcage	
+abbLLll LLL LLL L	38	
+LLLLLLLLLLLLLL	42
+
+Bus Stop	
+aCdrcc ddd ddd dd	42	
+dddddddddddddd	42
+
+Garbage Can	
+WWEcfo BBB BBB BB	46	
+BBBBBBBBBBBBBB	42
+
+Trash Bin	
+EEECbc ddd ddd dd	43	
+dddddddddddddd	42
+
+Tea Set	
+qlmXXUU uuu uuu u	45	
+uuuuuuuuuuuuuu	42
+
+Glass-top Table	
+luXXX ttt ttt ttt	22	
+uuuuuuuuuuuuuu	42
+
+Radiator	
+qWWSl uuu uuu uuu	47	
+uuuuuuuuuuuuuu	42
+
+Rocking Chair	
+weTt FFF FFF FFF F	41	
+FFFFFFFFFFFFFF	42
+
+Mochi Pestle	
+26y GGG GGG GGG GG	54	
+gggggggggggggg	42
+
+Taiko Drum	
+LLMVmss SSS SSS S	46	
+SSSSSSSSSSSSSS	42
+
+Table Tennis	
+qBxSdE RRR RRR RR	42	
+RRRRRRRRRRRRRR	42
+
+Executive Toy	
+aar5E ddd ddd ddd	42	
+dddddddddddddd	42
+
+Slot Machine	
+QTuzk% BBB BBB BB	45	
+BBBBBBBBBBBBBB	42
+
+Wobbelina	
+aWWBWbb BBB BBB B	51	
+BBBBBBBBBBBBBB	42
+
+Toilet	
+QKWWd ooo ooo ooo	50	
+oooooooooooooo	42
+
+Daffodil	
+cdYY GGG GGG GGG G	52	
+gggggggggggggg	42
+
+Gerbera	
+2WLK UUU uuu uuu u	49	
+uuuuuuuuuuuuuu	42
+
+Elephant Slide	
+2cdCCd YYY YYY YY	45	
+YYYYYYYYYYYYYY	42
+
+Train Set	
+TTTzZK BBB BBB BB	39	
+BBBBBBBBBBBBBB	42
+
+Festive Candle	
+B2WS uuu uuu uuu u	46	
+uuuuuuuuuuuuuT	42
+
+Festive Flag	
+aBlLLW ddd ddd dd	43	
+dddddddddddddd	42
+
+Harp	
+LLSSNOO ooo ooo o	45	
+oooooooooooooo	42
+
+Keg
+AddRRT YYY YYY YY	44	
+YYYYYYYYYYYYYY	42
+
+White Golf Bag	
+bXLn ooo ooo ooo o	42	
+oooooooooooooE	42
+
+Red Sofa	
+aaKLgE YYY YYY YY	42	
+YYYYYYYYYYYYYY	42
+
+Gold Econo-chair	
+abeeCs SSS SSS SS	40	
+SSSSSSSSSSSSSS	42
+
+Alarm Clock	
+2EE3E ddd ddd ddd	44	
+dddddddddddddd	42
+
+Antique Clock (Nook)	
+KGOOM LLLLLLLLL	48	
+LLLLLLLLLLLLLL	42
+
+Holly Bonsai	
+WW@cc BBB BBB BBB	51	
+BBBBBBBBBBBBBB	42
+
+Quince Bonsai	
+22smmNN nnn nnn n	49	
+nnnnnnnnnnnnnn	42
+
+Plum Bonsai	
+QSSB%% BBB BBB BB	52	
+BBBBBBBBBBBBBB	42
+
+Caladium	
+QTuzL& BBB BBB BB	43	
+BBBBBBBBBBBBBB	42
+
+Coconut Palm	
+QLllK XXX XXX XXX	40	
+XXXXXXXXXXXXXX	42
+
+Corn Plant	
+2W2BWbb BBB BBB B	50	
+BBBBBBBBBBBBBB	42
+
+Lady Palm	
+AWWlLK BBB BBB BB	48	
+BBBBBBBBBBBBBB	42
+
+Pachira	
+QSSkB% BBB BBB BB	47	
+BBBBBBBBBBBBBB	42
+
+Rubber Tree	
+qWSxss BBB BBB BB	43	
+BBBBBBBBBBBBBB	42
+
+Weeping Fig	
+WSSlX BBB BBB BBB	43	
+BBBBBBBBBBBBBB	42
+
+White Boom Box	
+MMnM FFF FFF FFF F	51	
+FFFFFFFFFFFFFE	42
+
+Phonograph	
+wLAA LLL LLL LLL L	48	
+LLLLLLLLLLLLLL	42
+
+Retro Stereo	
+2WuZWrr RRR RRR R	46	
+RRRRRRRRRRRRRR	42
+
+Gold Stereo	
+55eCCs SSS SSS SS	44	
+SSSSSSSSSSSSSS	42
+
+Track Model	
+qluuc FFF FFF FFF	41	
+FFFFFFFFFFFFFF	42
+
+Cosmos Model 1	
+TTTU FFF FFF FFF F	43	
+FFFFFFFFFFFFFF	42
+
+Pansy Model 2	
+CRNG FFF FFF FFF F	45	
+FFFFFFFFFFFFFo	42
+
+Tulip Model 1	
+JuhI ppp ppp ppp p	41	
+pppppppppppppo	42
+
+Station Model 5	
+qq333E nnn nnn nn	47	
+nnnnnnnnnnnnnn	42
+
+Station Model 8	
+lucD FFF FFF FFF F	41	
+FFFFFFFFFFFFFc	42
+
+Station Model 9	
+aCd FFF FFF FFF FF	43	
+FFFFFFFFFFFFFF	42
+
+Station Model 10	
+23ddm FFF FFF FFF	46	
+FFFFFFFFFFFFFF	42
+
+Station Model 11	
+CE333E nnn nnn nn	46	
+nnnnnnnnnnnnnn	42
+
+Station Model 14	
+CCBBc ooo ooo ooo	44	
+oooooooooooooo	42
+
+Blue Diary	
+2BCO PPP PPP PPP P	45	
+pppppppppppppp	42
+
+Calligraphy Pad (Nook)	
+QxSDu tttt TTTTT	36	
+TTTTTTTTTTTTTT	42
+
+Captain's Log	
+AbQA ddd ddd ddd d	48	
+dddddddddddddB	42
+
+Organizer	
+33ro PPP PPP PPP P	43	
+pppppppppppppp	42
+
+Pink Diary	
+EEddeE RRR RRR RR	41	
+RRRRRRRRRRRRRR	42
+
+Chic Wall	
+bbeBBs SSS SSS SS	40	
+SSSSSSSSSSSSSS	42
+
+Stone Wall	
+46g77u YYY YYY YY	46	
+YYYYYYYYYYYYYY	42
+
+Exotic Wall (Nook)	
+SkZVM LLLLLLLLL	44	
+LLLLLLLLLLLLLL	42
+
+Citrus Wall	
+bAwRf ppp ppp ppp	44	
+pppppppppppppp	42
+
+Ranch Wall	
+Kq#%T ppp ppp ppp	49	
+pppppppppppppp	42
+
+Cabana Wall	
+ZzUuss SSS SSS SS	38	
+SSSSSSSSSSSSSS	42
+
+Plaza Wall	
+RRQA LLL LLL LLL L	46	
+LLLLLLLLLLLLLL	42
+
+Ornate Wall	
+wcwDf ppp ppp ppp	45	
+pppppppppppppp	42
+
+Bamboo Wall	
+QCCCTi BBB BBB BB	45	
+BBBBBBBBBBBBBB	42
+
+Stately Wall	
+BBEyye YYY YYY YY	39	
+YYYYYYYYYYYYYY	42
+
+Ivy Wall	
+AwwcBs SSS SSS SS	47	
+SSSSSSSSSSSSSS	42
+
+Mod Wall	
+zTUCW ppp ppp ppp	45	
+pppppppppppppp	42
+
+Wood Paneling	
+sfGGg ppp ppp ppp	41	
+pppppppppppppp	42
+
+Concrete Wall	
+KMUCW ppp ppp ppp	50	
+pppppppppppppp	42
+
+Exquisite Wall (Nook)	
+WLuul UUUUUUUUU	52	
+uuuuuuuuuuuuuu	42
+
+Floral Wall	
+QwCmss SSS SSS SS	47	
+SSSSSSSSSSSSSS	42
+
+Kitschy Wall	
+BLVBBN YYY YYY YY	44	
+YYYYYYYYYYYYYY	42
+
+Classic Carpet	
+344cSUU uuu uuu u	47	
+uuuuuuuuuuuuuu	42
+
+Red Tile	
+E%%qTUU uuu uuu u	53	
+uuuuuuuuuuuuuu	42
+
+Birch Flooring	(should already have)
+EBBB@3 nnn nnn nn	46	
+nnnnnnnnnnnnnn	42
+
+Exotic Rug	
+aLVXXt SSS SSS SS	41	
+SSSSSSSSSSSSSS	42
+
+8 Mat Tatami (Nook)	
+&XLLu tttttt TTT	31	
+TTTTTTTTTTTTTT	42
+
+Blue Flooring	
+wAABL uuu uuu uuu	48	
+uuuuuuuuuuuuuu	42
+
+Ranch Flooring	
+KA@cR5 RRR RRR RR	48	
+RRRRRRRRRRRRRR	42
+
+Modern Tile	
+aKwwXt SSS SSS SS	44	
+SSSSSSSSSSSSSS	42
+
+Cabana Flooring	
+3BBB43 nnn nnn nn	45	
+nnnnnnnnnnnnnn	42
+
+Kitchen Tile	
+aKwKLd SSS SSS SS	44	
+SSSSSSSSSSSSSS	42
+
+Tatami Floor (Nook)	
+kkuu UUUUUU uuuu	46	
+uuuuuuuuuuuuuu	42
+
+Charcoal Tile	(should already have)
+ALAtK uuu uuu uuu	44	
+uuuuuuuuuuuuuu	42
+
+Opulent Rug	
+BxZKKtt TTT TTT T	36	
+TTTTTTTTTTTTTT	42
+
+Cowhide Rug	
+AqqAK TTT TTT TTT	48	
+TTTTTTTTTTTTTT	42
+
+Tartan Rug	
+SdVVDe SSS SSS SS	44	
+SSSSSSSSSSSSSS	42
+
+Diner Tile	
+ABLtK uuu uuu uuu	42	
+uuuuuuuuuuuuuu	42
+
+Bold Check Shirt (Nook)	
+%aatxf FFFFFFFF	41	
+FFFFFFFFFFFFFF	42
+
+Mint Gingham	
+UUUTT ttt ttt ttt	27	
+uuuuuuuuuuuuuu	42
+
+Bad Plaid Shirt	
+KLLMNOO ooo ooo o	48	
+oooooooooooooo	42
+
+Speedway Shirt	
+H6ff ppp ppp ppp p	40	
+pppppppppppppo	42
+
+Rugby Shirt	
+3DGGG ttt ttt ttt	29	
+uuuuuuuuuuuuuu	42
+
+Yellow Tartan	
+2Cmd PPP PPP PPP P	46	
+pppppppppppppp	42
+
+Lovely Shirt	
+2LNG ppp ppp ppp p	45	
+pppppppppppppo	42
+
+Blossom Shirt (Nook)	
+qKaAB AAAAAAAA a	61	
+aaaaaaaaaaaaaa	42
+
+Icy Shirt	
+CCRT PPP PPP PPP P	44	
+pppppppppppppp	42
+
+Crewel Shirt	
+kTTzAK ddd ddd dd	41	
+dddddddddddddd	42
+
+Tropical Shirt	
+rrTDf LLL LLL LLL	39	
+LLLLLLLLLLLLLL	42
+
+Botanical Shirt (Nook)	
+QxNv pppppppppp	43	
+pppppppppppppp	42
+
+Three-Ball Shirt	
+TLff ppp ppp ppp p	38	
+pppppppppppppo	42
+
+Seven-Ball Shirt	
+Qw32BN ddd ddd dd	49	
+dddddddddddddd	42
+
+Nine-Ball Shirt	
+WLffN ppp ppp ppp	42	
+pppppppppppppp	42
+
+Rally Shirt	
+2CRT PPP PPP PPP P	44	
+pppppppppppppp	42
+
+Fish Bone Shirt	
+aaarCQ ddd ddd dd	44	
+dddddddddddddd	42
+
+Spiderweb Shirt	
+443EEe BBB BBB BB	44	
+BBBBBBBBBBBBBB	42
+
+Bubble Shirt (Nook)	
+MDlx tttt TTTTTT	35	
+TTTTTTTTTTTTTT	42
+
+Neo-Classic Knit	
+TCuWX ppp ppp ppp	46	
+pppppppppppppp	42
+
+Mod Top	
+TLNG ppp ppp ppp p	44	
+pppppppppppppo	42
+
+Diner Uniform (Nook)	
+Qk%Bs uuuuuuuuu	46	
+uuuuuuuuuuuuuu	42
+
+Noodle Shirt	
+UUUXT ttt ttt ttt	27	
+uuuuuuuuuuuuuu	42
+
+Moody Blue Shirt (Nook)	
+qKaBB AAAAAAAA a	59	
+aaaaaaaaaaaaaa	42
+
+Cloudy Shirt	
+3Cmo PPP PPP PPP P	46	
+pppppppppppppp	42
+
+Fortune Shirt (Nook)	
+sSZTx ttt TTTTTT	33	
+TTTTTTTTTTTTTT	42
+
+Floral Knit	
+QWWWLDD ddd ddd d	55	
+dddddddddddddd	42
+
+Rose Shirt	
+WCoo PPP PPP PPP P	46	
+pppppppppppppp	42
+
+Spring Shirt	
+B@oQ PPP PPP PPP P	47	
+pppppppppppppp	42
+
+Pop Bloom Shirt	
+bCmn PPP PPP PPP P	45	
+pppppppppppppp	42
+
+Peachy Shirt	
+TCWQJ ppp ppp ppp	47	
+pppppppppppppp	42
+
+Blue Stripe Knit	
+i9iJ ppp ppp ppp p	38	
+pppppppppppppo	42
+
+Spunky Knit	
+26Nf ppp ppp ppp p	43	
+pppppppppppppo	42
+
+Green Bar Shirt	
+MFFdW LLL LLL LLL	48	
+LLLLLLLLLLLLLL	42
+
+Ancient Knit	
+BCmn PPP PPP PPP P	45	
+pppppppppppppp	42
+
+Fish Knit	
+aaambc ddd ddd dd	44	
+dddddddddddddd	42
+
+Misty Shirt (Nook)	
+#aal ffffffff FF	26	
+FFFFFFFFFFFFFF	42
+
+Stormy Shirt	
+ATXmbc ddd ddd dd	46	
+dddddddddddddd	42
+
+Yellow Pinstripe	
+&wUTT ttt ttt ttt	28	
+uuuuuuuuuuuuuu	42
+
+Club Shirt	
+BCRT PPP PPP PPP P	43	
+pppppppppppppp	42
+
+Li'l Bro's Shirt	
+2LNGN ppp ppp ppp	46	
+pppppppppppppp	42
+
+Tiki Shirt	
+ACRt PPP PPP PPP P	43	
+pppppppppppppp	42
+
+No. 3 Shirt	
+aaWaBl ddd ddd dd	43	
+dddddddddddddd	42
+
+No. 5 Shirt	
+WUUuT ttt ttt ttt	29	
+uuuuuuuuuuuuuu	42
+
+Houndstooth Tee	
+qLLLf ooo ooo ooo	41	
+oooooooooooooo	42
+
+Twinkle Shirt	
+WCmN PPP PPP PPP P	49	
+pppppppppppppp	42
+
+Cherry Shirt	
+wCRT PPP PPP PPP P	45	
+pppppppppppppp	42
+
+Far-Out Shirt	
+qbErRN ddd ddd dd	43	
+dddddddddddddd	42
+
+Dawn Shirt	
+2Coo PPP PPP PPP P	44	
+pppppppppppppp	42
+
+Dragon Suit	
+B@md PPP PPP PPP P	47	
+pppppppppppppp	42
+
+Pink Tartan	
+ASE3EE BBB BBB BB	45	
+BBBBBBBBBBBBBB	42
+
+Gray Tartan	
+QKSDE LLL LLL LLL	45	
+LLLLLLLLLLLLLL	42
+
+Chichi Print	
+ATTaAl ddd ddd dd	44	
+dddddddddddddd	42
+
+Exotic Shirt (Nook)
+%eWBB AAAAAAAA a	64	
+aaaaaaaaaaaaaa	42
+
+Dapper Shirt	
+qBLLf ooo ooo ooo	41	
+oooooooooooooo	42
+
+Fetching Outfit	
+WUUvx ttt ttt ttt	27	
+uuuuuuuuuuuuuu	42
+
+Gelato Umbrella	
+QCrX PPP PPP PPP P	44	
+pppppppppppppp	42
+
+Petal Parasol (Nook)	
+ABcBB AAAAAA aaa	56	
+aaaaaaaaaaaaaa	42
+
+Ribbon Parasol (Nook)	
+BcccDT RRRRRRRR	43	
+RRRRRRRRRRRRRR	42
+
+Sunny Parasol	
+wwb2wT RRR RRR RR	49	
+RRRRRRRRRRRRRR	42
+
+Batbrella	
+4T6d@@ BBB BBB BB	50	
+BBBBBBBBBBBBBB	42
+
+Yellow Umbrella	
+2lllDi BBB BBB BB	36	
+BBBBBBBBBBBBBB	42
+
+Twig Parasol	
+33CCEE BBB BBB BB	46	
+BBBBBBBBBBBBBB	42
+
+41/40:
+
+Cabana Lamp	
+KXTC nnn nnn nnn n	43	
+nnnnnnnnnnnnnf	40
+
+Kiddie Table	
+2Cdd FFF FFF FFF F	44	
+FFFFFFFFFFFFFf	40
+
+Orange Chair	
+BsmN ooo ooo ooo o	44	
+oooooooooooooZ	41
+
+Odd Clock	
+aedd FFF FFF FFF F	41	
+FFFFFFFFFFFFFf	40
+
+Blue-Trim Wall
+aGPB ccc ccc ccc c	43	
+cccccccccccccZ	41
+
+Cabin Rug (Nook)	
+AKMr EEEEEEEEEE	46	
+EEEEEEEEEEEE ee	40
+
+Oft-Seen Print	
+wEEE ppp ppp ppp p	44	
+pppppppppppppf	40
+
+Checkered Shirt	
+wEEG ppp ppp ppp p	45	
+pppppppppppppf	40
+
+Berry Umbrella (Nook)	
+aaWsS EEEEEEEEE	44	
+EEEEEEEEEEEE ee	40
+
+Polka Parasol (Nook)	
+22wRF EEEEEEEEE	46	
+EEEEEEEEEEEEE e	41
+
+Flame Umbrella (Nook)	
+222sS EEEEEEEEE	44	
+EEEEEEEEEEEE ee	40
+
+39-33 (Nook Only):
+
+French Notebook (Nook)	
+3EEEe RRRRRRRRR	42	
+RRRRRRR rrrrrrr	35
+
+Lovely Wall (Nook)	
+1aAw rrrrrrrrrr	37	
+rrrrrr RRRRRRRR	36
+
+Kiddie Wall (Nook)	
+QcKddbN SSSS bbb	45	
+bvmoQzNRlRDtrl	38
+
+Shanty Wall (Nook)	
+BButtt ssssssss	28	
+ssss SSSSSSSSSS	38
+
+Paw Shirt (Nook)	
+a&uXX EEEEEEEEE	43	
+EEEEEEEEEEE eee	39
+
+32-29:
+
+Potbelly Stove	
+MCMM sss sss sss s	42	
+sssssssssssssT	29
+
+Blue Polka Pad	
+MCCD eee eee eee e	38	
+eeeeeeeeeeeeeo	29
+
+Ceramic Tile (Nook)	
+A&L XXXXXXXXXXX	45	
+XX xxxxxxxxxxxx	30
+
+Gelato Shirt	
+QLub sss sss sss s	34	
+sssssssssssssW	32
+
+Yellow Bolero	
+QLSu sss sss sss s	34	
+sssssssssssssW	32
+
+Straw Shirt
+QLSW sss sss sss s	37	
+sssssssssssssQ	31
+
+Desert Shirt	
+QkLB eeeeeeeeee	33	
+eeeeeeeeeeeee E	29
+
+Blue Check Print	
+Quuu sss sss sss s	34	
+sssssssssssssW	32
+
+Loud Bloom Shirt (Nook)	
+Q@@d EEEEEEEEEE	50	
+E eeeeeeeeeeeee	29
+
+New Spring Shirt	
+QCWw sss sss sss s	40	
+sssssssssssssB	29
+
+Static Shirt	
+QLSm sss sss sss s	36	
+sssssssssssssW	32
+
+Blue Pinestripe	
+MCWW sss sss sss s	42	
+sssssssssssssB	29
+
+BB Shirt	
+QuTk sss sss sss s	33	
+sssssssssssssT	29
+
+Waffle Shirt	
+QLFC sss sss sss s	35	
+sssssssssssssT	29
+
+Subdued Print	
+QLub sss sss sss s	34	
+sssssssssssssT	29
+
+Leather Jerkin (Nook)	
+KKl VVVVVVVVVVV	51	
+V vvvvvvvvvvvvv	30
+
+Daffodil Parasol	
+Ab@dt fff fff fff	27	
+fffffFFFFFFFFF	32
+
+Dainty Parasol	
+DDVU vvv vvv vvv v	36	
+vvvvvvvvvvvvvc	29
+
+Hypno Parasol	
+Qalb rrr rrr rrr r	32	
+rrrrrrrrrrrrrT	29
+
+28/27:
+
+Cabana Vanity	
+AabcDE yyy yyy yy	37	
+yyyyyyyyyyyyyy	28
+
+Cabin Bed	
+bblLW rrr rrr rrr	34	
+rrrrrrrrrrrrrr	28
+
+Cabin Clock	
+wEEll xxx xxx xxx	31	
+xxxxxxxxxxxxxx	28
+
+Classic Chair	
+QwLFQ JJJ JJJ JJJ	39	
+JJJJJJJJJJJJJJ	28
+
+Classic Clock	
+QQwScXX xxx xxx x	41	
+xxxxxxxxxxxxxx	28
+
+Exotic Chair	
+SLmg EEE EEE EEE E	44	
+eeeeeeeeeeeeee	28
+
+Green Bed	
+qCCBB xxx xxx xxx	36	
+xxxxxxxxxxxxxx	28
+
+Lovely Dresser	
+bbDDTT rrr rrr rr	36	
+rrrrrrrrrrrrrr	28
+
+Ranch Wardrobe	
+AAwMLd kkk kkk kk	43	
+kkkkkkkkkkkkkk	28
+
+Regal Table	
+eB2 SSS SSS SSS SS	42	
+ssssssssssssss	28
+
+Speed Bag	
+akZA25 rrr rrr rr	36	
+rrrrrrrrrrrrrr	28
+
+Orange Cone	
+aeer yyy yyy yyy y	29	
+yyyyyyyyyyyyyf	27
+
+Garden Stone	
+%&@@EEE eee eee e	46	
+eeeeeeeeeeeeee	28
+
+Flying Saucer	
+aaEDEEE eee eee e	36	
+eeeeeeeeeeeeee	28
+
+Wagon Wheel	
+rrnnFn kkk kkk kk	32	
+kkkkkkkkkkkkkk	28
+
+Pine Bonsai	
+KKlSW rrr rrr rrr	34	
+rrrrrrrrrrrrrr	28
+
+Grapefruit Table	
+KKLg EEE EEE EEE E	42	
+eeeeeeeeeeeeee	28
+
+Violin	
+q2EE EEE eee eee e	37	
+eeeeeeeeeeeeee	28
+
+Soda Machine
+a234T yyy yyy yyy	36	
+yyyyyyyyyyyyyy	28
+
+Barber's Pole	
+KKKaW rrr rrr rrr	36	
+rrrrrrrrrrrrrr	28
+
+Water Bird	
+qeeBB xxx xxx xxx	32	
+xxxxxxxxxxxxxx	28
+
+Vibraphone	
+sNNNo III III III	35	
+IIIIIIIIIIIIII	28
+
+Jasmine Bonsai	
+qwEHN yyy yyy yyy	38	
+yyyyyyyyyyyyyy	28
+
+Bromeliaceae	
+224n EEE EEEE EEE	45	
+eeeeeeeeeeeeee	28
+
+Fan Palm	
+CMmEE rrr rrr rrr	39	
+rrrrrrrrrrrrrr	28
+
+Cosmos Model 3	
+zxTDfo qqq qqq qq	46	
+rrrrrrrrrrrrrr	28
+
+Pansy Model 3	
+aWyTT5 rrr rrr rr	37	
+rrrrrrrrrrrrrr	28
+
+Tulip Model 3	
+4rcdFn kkk kkk kk	34	
+kkkkkkkkkkkkkk	28
+
+Dirt Model	
+eDMkZ vvv vvv vvv	34	
+vvvvvvvvvvvvvv	28
+
+Station Model 7	
+KMngGd kkk kkk kk	38	
+kkkkkkkkkkkkkk	28
+
+Diary	
+aerrtf qqq qqq qq	43	
+rrrrrrrrrrrrrr	28
+
+Green Plaid Pad (Nook)	
+KLSUvYY yyyyyyy	35	
+yyyyyyyyyyyyyy	28
+
+Cabin Wall (Nook)	
+QWLUc XXXXXXXXX	48	
+xxxxxxxxxxxxxx	28
+
+Regal Wall (Nook)	
+@TTeRR rrrrrrrr	36	
+rrrrrrrrrrrrrr	28
+
+Manor Wall (Nook)	
+WCc&l XXXXXX xxx	42	
+xxxxxxxxxxxxxx	28
+
+Bamboo Flooring (Nook)	
+wsuUlS ssssssss	34	
+ssssssssssssss	28
+
+Exquisite Rug (Nook)	
+AKZUUS ssssssss	37	
+ssssssssssssss	28
+
+Kiddie Carpet	
+wAbEEYY yyy yyy y	39	
+yyyyyyyyyyyyyy	28
+
+Optical Shirt	
+kksCW vvv vvv vvv	34	
+vvvvvvvvvvvvvv	28
+
+Dark Polka Shirt	
+sxSLLb qqq qqq qq	48	
+rrrrrrrrrrrrrr	28
+
+Lite Polka Shirt	
+QwSBNO qqq qqq qq	56	
+rrrrrrrrrrrrrr	28
+
+Chevron Shirt	
+wweoKii III III I	34	
+IIIIIIIIIIIIII	28
+
+Blue Grid Shirt	
+AwSDEE kkk kkk kk	39	
+kkkkkkkkkkkkkk	28
+
+Orange Tie-Die	
+sxSddP qqq qqq qq	48	
+rrrrrrrrrrrrrr	28
+
+Blue Tie-Die	
+abWDDd kkk kkk kk	39	
+kkkkkkkkkkkkkk	28
+
+Red Tie-Die	
+WBSBW sss sss sss	39	
+ssssssssssssss	28
+
+Four-Ball Shirt	
+WssuT vvv vvv vvv	34	
+vvvvvvvvvvvvvv	28
+
+Five-Ball Shirt	
+3QQQ KKK KKK KKK K	49	
+kkkkkkkkkkkkkk	28
+
+Arctic Camo	
+GxhGX qqq qqq qqq	53	
+rrrrrrrrrrrrrr	28
+
+Desert Camo	
+sxSD@ qqq qqq qqq	53	
+rrrrrrrrrrrrrr	28
+
+Racer Shirt	
+sMN99 qqq qqq qqq	56	
+rrrrrrrrrrrrrr	28
+
+Racer 6 Shirt	
+bDeyUii III III I	31	
+IIIIIIIIIIIIII	28
+
+Circus Shirt	
+QbuDEE kkk kkk kk	37	
+kkkkkkkkkkkkkk	28
+
+Patchwork Top	
+ZSSDDE kkk kkk kk	35	
+kkkkkkkkkkkkkk	28
+
+Hippie Shirt	
+QwSOXY qqq qqq qq	55	
+rrrrrrrrrrrrrr	28
+
+Star Shirt	
+QW3WXVV vvv vvv v	46	
+vvvvvvvvvvvvvv	28
+
+Kiddie Shirt	
+Bc4eFi vvv vvv vv	32	
+vvvvvvvvvvvvvv	28
+
+Aurora Knit (Nook)	
+taKKZX xxxxxxxx	31	
+xxxxxxxxxxxxxx	28
+
+Jade Check Print	
+QwSmNe qqq qqq qq	56	
+rrrrrrrrrrrrrr	28
+
+Flicker Shirt	
+awXDDd kkk kkk kk	38	
+kkkkkkkkkkkkkk	28
+
+Deep Blue Tee	
+33333VV vvv vvv v	42	
+vvvvvvvvvvvvvv	28
+
+Ugly Shirt	
+wRNNoG qqq qqq qq	55	
+rrrrrrrrrrrrrr	28
+
+Sharp Outfit	
+ttAZ KKK KKK KKK K	39	
+kkkkkkkkkkkkkk	28
+
+Red Bar Shirt (Nook)	
+%E35yxxxxxxxxx	38	
+xxxxxxxxxxxxxx	28
+
+Deer Shirt (Nook)	
+2dcc XXXXXXXX xx	41	
+xxxxxxxxxxxxxx	28
+
+Blue Check Shirt	
+QCWW sss sss sss s	41	
+sssssssssssssl	27
+
+Light Line Shirt	
+sxSALB qqq qqq qq	50	
+rrrrrrrrrrrrrr	28
+
+Diamond Shirt	
+GxhgX qqq qqq qqq	52	
+rrrrrrrrrrrrrr	28
+
+Vertigo Shirt	
+RtRRfVV vvv vvv v	33	
+vvvvvvvvvvvvvv	28
+
+A Shirt	
+EQk KKK KKK KKK KK	43	
+kkkkkkkkkkkkkk	28
+
+No. 1 Shirt (Nook)	
+wCCms XXXX xxxxx	42	
+xxxxxxxxxxxxxx	28
+
+Big Star Shirt	
+QwSDDE kkk kkk kk	40	
+kkkkkkkkkkkkkk	28
+
+Funky Dot Shirt	
+azTtAd kkk kkk kk	32	
+kkkkkkkkkkkkkk	28
+
+Gumdrop Shirt (Nook)	
+qLmmVRRR rrrrrr	42	
+rrrrrrrrrrrrrr	28
+
+Barber Shirt	
+2m@FUii III III I	38	
+IIIIIIIIIIIIII	28
+
+Red Check Shirt	
+&W334VV vvv vvv v	44	
+vvvvvvvvvvvvvv	28
+
+Green Ring Shirt	
+qtL KKK KKK KKK KK	41	
+kkkkkkkkkkkkkk	28
+
+Checkerboard Tee	
+bDeoKii III III I	31	
+IIIIIIIIIIIIII	28
+
+Airy Shirt	
+QSSmm rrr rrr rrr	39	
+ssssssssssssss	28
+
+Big Dot Shirt	
+wCSLLb qqq qqq qq	53	
+rrrrrrrrrrrrrr	28
+
+Houndstooth Knit	
+%%smf vvv vvv vvv	40	
+vvvvvvvvvvvvvv	28
+
+Uncommon Shirt	
+BWsxc vvv vvv vvv	34	
+vvvvvvvvvvvvvv	28
+
+Cozy Sweater	
+QRCCf vvv vvv vvv	35	
+vvvvvvvvvvvvvv	28
+
+Vogue Top	
+BWsmf vvv vvv vvv	35	
+vvvvvvvvvvvvvv	28
+
+Whirly Shirt	
+aaemf vvv vvv vvv	32	
+vvvvvvvvvvvvvv	28
+
+Mosaic Shirt	
+KSXtAd kkk kkk kk	34	
+kkkkkkkkkkkkkk	28
+
+Mod Umbrella	
+bDrUf5 vvv vvv vv	34	
+vvvvvvvvvvvvvv	28
+
+Bumbershoot (Nook)	
+Awtou rrrrrrrrr	35	
+rrrrrrrrrrrrrr	28
+
+19-15:
+
+Asteroid	
+aBuus fff fff fff	23	
+ffffffffffffFF	18
+
+Naomi Figurine	
+KSnGG fff fff fff	26	
+ffffffffffffFF	18
+
+Biwa Lute	
+KSbD fff fff fff f	23	
+ffffffffffffFF	18
+
+Cosmos Model 2	
+OSLI lll lll lll l	22	
+lllllllllllllo	16
+
+Blue Wall (Nook)	
+Atlk ZZZZZZZZZZ	29	
+ZZZZ zzzzzzzzzz	18
+
+Steel Flooring	(should already have)
+4yUU jjj jjj jjj j	24	
+jjjjjjjjjjjjJJ	16
+
+Noble Shirt	
+quSd lll lll lll l	23	
+lllllllllllllW	19
+
+Rickrack Shirt	
+ABSS lll lll lll l	24	
+lllllllllllllH	17
+
+Skull Shirt	
+ABS lll lll lll ll	22	
+lllllllllllllK	16
+
+Citrus Gingham (Nook)	
+QqwlU TTTTTTTTT	46	
+TT tttttttttttt	18
+
+14:
+
+Cabin Wardrobe	
+WlMffFF fff fff f	28	
+ffffffffffffff	14
+
+Regal Armoire	
+2&@Dc fff fff fff	30	
+ffffffffffffff	14
+
+Wet Roadway Sign	
+qQ233d lll lll ll	32	
+llllllllllllll	14
+
+Froggy Chair	
+WsMEEd fff fff ff	31	
+ffffffffffffff	14
+
+Pear Wardrobe	
+QKUK%% ttt ttt tt	37	
+tttttttttttttt	14
+
+Tea Vase	
+2brRTFF fff fff f	28	
+ffffffffffffff	14
+
+Refrigerator	
+%&wB%% ttt ttt tt	41	
+tttttttttttttt	14
+
+Blue Golf Bag	
+45556i fff fff ff	29	
+ffffffffffffff	14
+
+Cream Sofa (Nook)	
+Azxx ZZZZZZ zzzz	26	
+zzzzzzzzzzzzzz	14
+
+Owl Clock	
+Leebss lll lll ll	22	
+llllllllllllll	14
+
+Maple Bonsai	
+awwQlFF fff fff f	32	
+ffffffffffffff	14
+
+Red Boom Box	
+ACrYFi lll lll ll	26	
+llllllllllllll	14
+
+Pink Plaid Pad	
+QeECR5 fff fff ff	29	
+ffffffffffffff	14
+
+Red Polka Pad	
+&@rDRi fff fff ff	28	
+ffffffffffffff	14
+
+Gold Screen Wall (Nook)	
+WBa&k ZZZZ zzzzz	31	
+zzzzzzzzzzzzzz	14
+
+Groovy Wall (Nook)	
+qBTtt ZZZZZZ zzz	27	
+zzzzzzzzzzzzzz	14
+
+18 Mat Tatami (Nook)	
+Q&&SMF ffffffff	33	
+ffffffffffffff	14
+
+Turnip Top (Nook)	
+%qWCX TTTTTT ttt	45	
+tttttttttttttt	14
+
+G Logo Shirt	
+KKlM jjj jjj jjj j	23	
+jjjjjjjjjjjjji	14
+
+Toad Print	
+AiJI lll lll lll l	20	
+llllllllllllli	14
+
+Nintendo Parasol (Nook)	
+A&&LU TTTTT tttt	39	
+tttttttttttttt	14
+
+Checked Umbrella	
+QTTAAZZ zzz zzz z	32	
+zzzzzzzzzzzzzz	14
+
+Leaf Umbrella	
+4RNHHTT ttt ttt t	32	
+tttttttttttttt	14
+
+Noodle Parasol	
+%#aAAZZ zzz zzz z	36	
+zzzzzzzzzzzzzz	14
+
+Pastel Parasol (Nook)	
+QQaZt ZZZZZ zzzz	30	
+zzzzzzzzzzzzzz	14
+
+Retro Umbrella (Nook)	
+AqAATu tttttttt	33	
+tttttttttttttt	14
+
+Blue Umbrella	
+4Rf4dTT ttt ttt t	28	
+tttttttttttttt	14
+
+this took so long to make omfg
