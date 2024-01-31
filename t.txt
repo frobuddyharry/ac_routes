@@ -1,0 +1,44 @@
+during chores, better to plant flowers behind nooks for money bag space
+
+
+
+
+124 - Buy 10 + 4 codes = 1400 - 11,100 left over post turnips - 11 turnips cuz code at begin
+
+Drop 6 turnips outside > Sell (hra) > drop 16 bags outside > 5 sell > debt, drop all outside post 
+> turnip codes & sell > drop nooks > s&q (how much left)
+
+
+396,800 - 390,000 (13 bags) = 6800 + wallet (86,100) = 92,900 (3 bags dropable) > debt > drop bags (334,900)
+
+if drop 2 from wallet > = 26100 left = can sell 5 turnips 2nd sell!
+
+sell 5 @ spike = 496000
+
+max no wallet is 450000
+
+max wallet/inventory is 549999 on first
+
+game favors filling wallet so for 496000, 46k is in wallet + left over 11,100 = 56,100
+
+because favor, game will fill wallet meaning space for 1 money bag, 14 money bags total 
+
+-------------------------------------------------------------------------------------------
+
+available space = 549,999 OR second sell max
+
+turnip amount equation // (asking price * 1000)
+
+post turnip buying equation // 135,100 - (asking price * 1000)
+
+max sell equation // available space/(asking price * 1000) = number in tenths place --- .5 > 5 (round normally??? just guess and check honestly using hundreds amounts (500) * asking price and see if it goes over the available space)
+
+sell amount // ((max sell number * 100) * (asking price)) * 8
+
+money left in wallet // (sell amount) - 450000
+
+bags in inv // assume 450000+ sell // 15 - ((99999 - money in wallet) / 30000) (ALWAYS ROUND DOWN) 
+
+money left // (bags in inv * 30000) + money in wallet
+
+second sell max // 549999 - (money left)
