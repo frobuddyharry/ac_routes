@@ -298,6 +298,10 @@ Mini Dinkoid
 2BuCM fff fff fff	29	
 ffffffffffffFF	18
 
+Harmonoid	
+wwsX lll lll lll l	25	
+lllllllllllllo	16
+
 Tall Harmonoid	
 QBLK ttt ttt ttt t	24	
 tttttttttttttK	16
