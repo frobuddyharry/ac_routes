@@ -1,11 +1,16 @@
-100% route!
-notes and thoughts at the bottom
+EDITING ON GIT FOR NOW REMEMBER TO DELETE THIS AND PUT THIS BACK ON PASTEBIN WHEN ITS BACK< AND DOWNLOAD AND BACKUP EVERYTHING TO GIT
+Animal Crossing (GC) 100% Route
+routing thoughts at the bottom
 
 LISTS MADE SO FAR:
 Required Nook Codes List: 4H6vYZRB
 Main Codes List: 4KyHvEG5
 Paintings/Fossils/Gyroids: CnfLHCsr
 All Other Codes List: ypWs2aW9
+
+Tips!
+- Put left-over paper in train station acre for easy access
+- Keep Fortune Paper & New Year's Cards for villager codes
 
 - Pre-mark
 
@@ -83,9 +88,7 @@ Snowman Wardrobe:
 % % % % % % % % % % % % % %
 
 - Setup Duping (check and write down town day)
-	Dupe 15 and drop all bags post-selling
-- Code while selling, start catching bugs
-- Buy 1 pack of paper
+	Dupe 15 > Sell (Move Bag 1 Down) + Net Code & 1 Paper Pack > Drop Bags & Catch Bugs 
 
 Net:
 U V K i A Q V j u A o 2 % n
@@ -184,7 +187,7 @@ Giant Snakehead
 
 July 3rd 2030 @ 7am
 
-- depending on the bugs/fish situation, if you have no bugs/fish after donating everything here, do goods power, move dupe, and dupe 15 now
+- depending on the bugs/fish situation, if you have no bugs/fish after donating everything here, do goods power and move dupe (left side entrance)
 
 Evening Cicada
 Dynastid Beetle
@@ -204,10 +207,11 @@ Arapaima
 June 3rd 2030 @ 9pm
 
 - Fish until full inv > donations
-- Letters (dont move them yet!)
+- Letters (NO PRESENTS YET)
 - Move Dupe > Goods Power with 10 Medals
-- Dupe 15 & Sell, Drop all Dupe 15 sell and Catalog (sell presents)
+- Dupe 15 & Sell > Drop All > Dupe 15 & Sell + Paper
 - 4th Debt + Villager Codes (from here you have to adjust your bell route depending on how much money you've spent)
+- Catalog / Presents & Codes
 
 Firefly
 Mosquito
@@ -220,8 +224,8 @@ Eel
 
 March 20th 2030 @ 3:58pm
 
-Ladybug
-Spotted Ladybug
+Ladybug (High Odds Before 4pm)
+Spotted Ladybug (High Odds Before 4pm)
 
 Loach
 Cherry Salmon
@@ -232,12 +236,12 @@ Koi (can be caught later)
 - Spring Medal (put in mail and sell later)
 - Donations
 - Dupe 15 and Sell
-- 5th Debt + Letters (money still owed after first trip / 14,000 to find remaining medal count)
-(during last dupe, dupe extra for spending money)
+- 5th Debt (money still owed after first trip / 14,000 to find remaining medal count)
+(during last dupe, dupe extra for spending money / other player 1st debts)
 
-- Drop 3 30k Bell Bags and Shovel/Axe
+- Drop 3 30k Bell Bags and Shovel/Axe IN NOOKS ACRE! ITEMS WILL BE SENT TO POLICE STATION IF PUT IN TRAIN STATION!
 
-December 23rd 2029 @ 4:59pm
+December 23rd 2029 @ 4:xx PM
 
 - Other 3 Chores/First Debts (make player 4 female)
 
@@ -250,20 +254,21 @@ q
 - Pay off first debt with extra bell bags
 - Get Toy on P4/Perfect Town
 
-Back 1 month > P1 Reset > Forward 1 month > P1 Reset
+Back 1 month > P2 Reset > Forward 1 month > P2 Reset > Enter
 
 - Codes/Catalog/Villager Codes on P1
-- Get Toy, Golden Axe, and Bee
+- Get Toy, Golden Axe, and Bee (wait to donate) (needs more testing, might not show up in trees with christmas lights)
 
 Well Model [DISABLES MUSIC]
 M b R 4 a I u l 9 m L Y k U
 h w y t z v 8 K R j F s e H
 
-December 24th 2029 @ 4:59pm
+December 25th 2029 @ 4:59pm
 
 - Dupe 15 and Sell (drop all in station)
+- Catalog / Codes / Villager Codes
 
-Bagworm
+Bagworm (ONLY SPAWNS IN TREES WITHOUT LIGHTS)
 Mole Cricket
 Pill Bug
 
@@ -278,57 +283,55 @@ Stringfish
 
 - Donations
 
-December 26th 2029 @ 4:59pm
+December 27th 2029 @ 4:59pm
 
 - Nookway
-- Catalog
-	Leave one item behind after cataloging
-	Leave 10k bag outside nooks for 2nd town
-- Golden Shovel
-- Duping
-
-15 Medals each Dupe
+- Duping (15 Medals each Dupe)
 
 1 - grab all bags & deposit
 2 - drop all bags in station
 3 - grab all bags & deposit
 4 - drop all bags in station
 5 - grab all bags & deposit
-6 - deposit/villager codes
+6 - deposit/villager codes (Catalog/Codes)
+
+(ENTIRE TRAIN DUPE SECTION IS EXPERIMENTAL AND YET TO BE TESTED)
+
+- For going back in after resetting from save, always do top option
+- Never drop wallet money, it's slow and not worth
+- Grab mail after withdrawing/depositing everything
 
 - Second Memory Card In > Travel and reset after save
 
-Eject Card 2 & Load (Sure > Gyroid Face)
+Eject Card 2 / December 22nd 2029 @ 4:59ppm
 
-- Codes
-- Withdraw Everything and Drop Bags
+- Catalog / Codes / Letters
+- Withdraw Everything and Drop Bags (grab mail after) (dont drop wallet money)
 
-Reload w/ Card 2 in (I don't mind)
+Reload w/ Card 2 in / December 1st 2029 @ 4:59pm
 
-- Codes
-- Grab and Deposit Everything (put 5 bags in wallet)
-- Second Memory Card In > Travel and reset after save
+- Catalog / Codes / Letters
+- Grab and Deposit Everything > Snowman from Tortimer
+- Second Memory Card In > Travel and reset after save 
 
-Eject Card 2 & Load (Sure > Gyroid Face)
+Eject Card 2 & Load / November 11th 2029 @ 4:59pm
 
-October 29th 2029 @ 4:59pm (NEEDS TO BE TESTED)
+- Mail > Catalog / Codes / Letters
+- Withdraw Everything and Drop Bags > Police Model from Tortimer > Mail Again
 
-- Codes
-- Withdraw Everything and Drop Bags
+Reload w/ Card 2 in / October 29th 2029 @ 4:59pm 
 
-Reload w/ Card 2 in (I don't mind)
-
-- Withdraw and drop bags until there is 900,000 or less bells left in the bank
-- Take one 3 30,000 bell bags near center
+- Catalog / Codes / Letters
+- Withdraw and drop bags until there is 900,000 or less bells left in the bank (this is different depending on wallet stuff, needs to be re-evaluated)
 
 Put Card 2 in Slot 1 (card 1 should be in 0 slots)
 
 - CHANGE DATE TO September 2nd 2030 ON TRAIN!
-- Same Intros/Chores as beginning minus big dot shirt
+- Same Intros/Chores as beginning WITH police station
 - Codes, Shop Model > save and continue
 - Travel to Town 1
 
-- Drop items > buy candy and drop outside > reset after save (not sure if candy works)
+- Drop items > buy candy + other item and drop outside > reset after save
 
 Eject Both Cards, Card 1 in Slot 1
 
@@ -336,7 +339,9 @@ October 31st 2029 @ 8pm
 
 - Police Station (get a shirt first > other stuff, then switch big dot shirt)
 - Catch Ant
-- Tissue from Letters?
+- 2 Tissues from Letters (use for halloween items)
+
+While trying for items, go to new villagers that have moved in and use this as an introduction time aswell.
 
 Patched Shirt (wear pattern shirt for this)
 Jack-o'-lantern (use code item)
@@ -351,10 +356,20 @@ All Player Statues:
 
 CODES HELL/All Player Statues
 
-(look into how mail works and stuff
-ok i havent done extensive testing but it seems to work on a 2 day basis so you would need to load the game two separate times OR you can do 1 day (does it matter?) at 4:59pm, but would this mean that july to demcember 7pm just doeswnt work need to test)
-
 - IF town day is somehow before 4th, do it after first 4th visit, otherwise do town day first thing
+- When you have all fans, pinwheels, and balloons, replace July visits with April 2nd-4th, 4:59pm (do april 1st and 5th-7th aswell! hardcoded dates so do them whenever)
+- During July, keep an eye out for Tortimer to get the bottle rocket, he can be in a random acre. (dont go looking for him tho)
+
+EXTRA NO MUSIC CODES IF NEEDED!
+
+Weed Model (no music)
+M b R 4 a I b A g m A z k U 
+s w y t z g 8 K R j F s e H
+
+Tree Model (no music)
+M o 7 4 K P 5 Q n I s Y c C 
+W e y e y W @ g D o F 7 r P
+
 Town Day, 2028 4:59pm (start aps)
 
 Tent Model [DISABLES MUSIC]
@@ -363,10 +378,10 @@ s w y t 4 W 8 a 7 j F % e H
 
 - Station Models while doing APS
 July 4th, 2029 7:00pm (if you find tortimer randomly, get bottle rocket)
-February 2nd, 2028 9:00am
+February 2nd, 2029 9:00am
 - Flower Models while doing APS
 December 25th, 2028 4:59pm
-- Final Debts
+- Final Debts + Extra Paper for Sale Day
 November 24th, 2028 4:59pm
 
 - Sale Bags (take last few bags on way to market model, drop stuff afterward)
@@ -455,16 +470,23 @@ January 28th, 2001
 January 26th, 2001
 January 24th, 2001
 
-January 25th, 2001
+1 day forward after 15...
 - find tortimer near river, ask for extra bridge
 - focus efforts on wrapping up catalog with nook codes, and doing gyroids on villager codes
 
-Go down 1 day at 4:59pm until FULL CATALOG!
-(you will probably go back to 31st while going down but this is okay, when u get to the 1st, is katrina good...?)
+Go up 1 day at 4:59pm until FULL CATALOG!
 
-Saturday @ 8pm...
+Saturday @ 8pm... (Reset after save to avoid softlock!)
 
 Two Days Ago
+
+
+
+
+
+
+
+
 
 NOTES AND THOUGHTS:
 
@@ -561,4 +583,5 @@ Delay Other Player Chores (not doing) --
 - current idea is to do october 29th instead of december 28th > do labor day (sep 2nd 2030?) on file 2 > get shop model and travel to main town > buy candy as item (IF POSSIBLE! dont know if this will trigger the upgrade and need to test!) and drop it outside along with everything else from earlier > catch ant :> then pickup and sell all the items...? you go forward to october 31st so this wont quite work, will have to sell the next day BUT this guarantees no rain (for ant) AND a potential jack item!? probably not even worth it but ig if u run into him somehow pray its not a dupe if u have spooky items
 - candy doesnt work for the upgrade, still can buy and drop candy just have to buy another item
 
-route is currently undergoing some major changes for now
+Money Bag/Cataloging during 2nd Town Chores
+- do a money code to catalog, 2 other codes, then can also use this money to fund nookway visit.
