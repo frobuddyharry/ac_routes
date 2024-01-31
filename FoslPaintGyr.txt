@@ -5,157 +5,157 @@ Tricera Tail (Nook)
 ffffffffffffff
 
 Dinosaur Track	
-AakAb@%%%%%%%%	80	
+AakAb@ %%% %%% %%	80	
 %%%%%%%%%%%%%%	98
 
 T-rex Torso
-qaxsB@@@@@@@@@	68	
+qaxsB @@@ @@@ @@@	68	
 @@@@@@@@@@@@@@	84
 
 Tricera Torso
-eedLwwwwwwwwww	60	
+eedL www www www w	60	
 wwwwwwwwwwwwwW	71
 
 Amber
-2bWW@@wwwwwwww	71	
+2bWW@@ www www ww	71	
 wwwwwwwwwwwwww	70
 
 Ptera Right Wing
-AbXC@@wwwwwwww	67	
+AbXC@@ www www ww	67	
 wwwwwwwwwwwwww	70
 
 Stego Skull	
-bbssqAAAAAAAAA	59	
+bbssq AAA AAA AAA	59	
 AAAAAAAAAAAAAA	70
 
 T-rex Skull
-bWeBWlllllllll	29	
+bWeBW lll lll lll	29	
 mmmmmmmmmmmmmm	70
 
 Dinosaur Egg
-qLwwCqqqqqqqqq	57	
+qLwwC qqq qqq qqq	57	
 qqqqqqqqqqqqqq	56
 
 Stego Torso
-QwXvmDDDDDDDDD	56	
+QwXvm DDD DDD DDD	56	
 DDDDDDDDDDDDDD	56
 
 Plesio Skull
-qbWemDDDDDDDDD	56	
+qbWem DDD DDD DDD	56	
 DDDDDDDDDDDDDD	56
 
 Mammoth Skull	
-qwSvmDDDDDDDDD	55	
+qwSvm DDD DDD DDD	55	
 DDDDDDDDDDDDDD	56
 
 Mammoth Torso
-55TTTDDDDDDDDD	53	
+55TTT DDD DDD DDD	53	
 DDDDDDDDDDDDDD	56
 
 Plesio Torso
-FFFFDDDDDDDDDD	52	
+FFFF DDD DDD DDD D	52	
 DDDDDDDDDDDDDD	56
 
 Ptera Skull
-bSSeEDDDDDDDDD	50	
+bSSeE DDD DDD DDD	50	
 DDDDDDDDDDDDDD	56
 
 Apato Skull
-KLLGNOOooooooo	46	
+KLLGNOO ooo ooo o	46	
 oooooooooooooo	42
 
 Plesio Neck	
-kQQbbERRRRRRRR	45	
+kQQbbE RRR RRR RR	45	
 RRRRRRRRRRRRRR	42
 
 T-rex Tail
-rNgggtYYYYYYYY	40	
+rNgggt YYY YYY YY	40	
 YYYYYYYYYYYYYY	42
 
 Tricera Skull
-BBmsLLLLLLLLLL	43	
+BBms LLL LLL LLL L	43	
 LLLLLLLLLLLLLZ	41
 
 Stego Tail
-Ab2bcccccccccc	45	
+Ab2b ccc ccc ccc c	45	
 cccccccccccccl	40
 
 Ammonite	
-eb2bcccccccccc	42	
+eb2b ccc ccc ccc c	42	
 cccccccccccccl	40
 
 Ptera Left Wing
-LL2bssssssssss	33	
+LL2b sss sss sss s	33	
 sssssssssssssB	29
 
 Trilobite
-LLSussssssssss	32	
+LLSu sss sss sss s	32	
 sssssssssssssW	32
 
 Apato Torso	
-WEMMLVVvvvvvvv	46	
+WEMMLVV vvv vvv v	46	
 vvvvvvvvvvvvvv	28
 
 Apato Tail
-ccRGfvvvvvvvvv	32	
+ccRGf vvv vvv vvv	32	
 vvvvvvvvvvvvvv	28
 
 Paintings:
 
 Perfect Painting (odd one out in terms of char length)
-qqLSSmmMMMMMMM	69	
+qqLSSmm MMM MMM M	69	
 MMMMMMMMMMMMMM	84
 
 Moving Painting
-WEEEEddddddddd	45	
+WEEEE ddd ddd ddd	45	
 ddddddddddddDD	44
 
 Worthy Painting
-2&@3Eddddddddd	48	
+2&@3E ddd ddd ddd	48	
 dddddddddddddd	42
 
 Basic Painting	
-aWCddERRRRRRRR	46	
+aWCddE RRR RRR RR	46	
 RRRRRRRRRRRRRR	42
 
 Common Painting	
-A&dEEYYYYYYYYY	45	
+A&dEE YYY YYY YYY	45	
 YYYYYYYYYYYYYY	42
 
 Quaint Painting	
-445EEFFFFFFFFF	45	
+445EE FFF FFF FFF	45	
 FFFFFFFFFFFFFF	42
 
 Famous Painting
-QcccEFFFFFFFFF	44	
+QcccE FFF FFF FFF	44	
 FFFFFFFFFFFFFF	42
 
 Rare Painting
-ABbEEFFFFFFFFF	44	
+ABbEE FFF FFF FFF	44	
 FFFFFFFFFFFFFF	42
 
 Classic Painting
-QSXccooooooooo	44	
+QSXcc ooo ooo ooo	44	
 oooooooooooooo	42
 
 Fine Painting
-AccccFFFFFFFFF	44	
+Acccc FFF FFF FFF	44	
 FFFFFFFFFFFFFF	42
 
 Dainty Painting	
-qeBCRFFFFFFFFF	43	
+qeBCR FFF FFF FFF	43	
 FFFFFFFFFFFFFF	42
 
 Scary Painting	
-aBCfOERRRRRRRR	42	
+aBCfOE RRR RRR RR	42	
 RRRRRRRRRRRRRR	42
 
 Flowery Painting
-LLBccEEEEEEEEE	42	
+LLBcc EEE EEE EEE	42	
 EEEEEEEEEEEEEE	42
 
 Amazing Painting
-qetOOFFFFFFFFF	42	
+qetOO FFF FFF FFF	42	
 FFFFFFFFFFFFFF	42
 
 Gyroids:
