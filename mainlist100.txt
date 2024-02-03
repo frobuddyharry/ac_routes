@@ -24,6 +24,10 @@ Super Mushroom
 uumC&@@@@@@@@@	73	
 @@@@@@@@@@@@@@	84
 
+Piggy Bank	
+A&CEB@@@@@@@@@	73	
+@@@@@@@@@@@@@@	84
+
 K.K. Swing	
 w2334TMMMMMMMM	72	
 MMMMMMMMMMMMMM	84
@@ -324,10 +328,6 @@ Manor Model
 AAc44544444444	57	
 44444444444444	56
 
-Police Model	
-QWWWli99999999	57	
-99999999999999	56
-
 Saharah's Desert	
 Q&wwLnVVVVVVVV	57	
 VVVVVVVVVVVVVV	56
@@ -453,7 +453,7 @@ qwCBBccCCCCCCC	53
 CCCCCCCCCCCCCC	56
 
 Lady Liberty	
-UxVVdVVVVVVVV	53	
+UUxVVdVVVVVVVV	53	
 VVVVVVVVVVVVVV	56
 
 Jingle Wardrobe	
@@ -657,6 +657,10 @@ Regal Bed
 K%&Mduuuuuuuuu	50	
 uuuuuuuuuuuuuu	42
 
+Spooky Table	
+aWNNOOOooooooo	50	
+oooooooooooooo	42
+
 Crab Stew	
 QQW2bbbbbbbbbb	50	
 bbbbbbbbbbbbbc	42
@@ -725,11 +729,6 @@ Beach Table
 wWaabbbbbbbbbb	47	
 bbbbbbbbbbbbbb	42
 
-Snowman	
-Qc333Ennnnnnnn	47	
-nnnnnnnnnnnnnn	42
-
-Cabana Bed	
 awCCCsSSSSSSSS	46	
 SSSSSSSSSSSSSS	42
 
@@ -748,6 +747,10 @@ LLLLLLLLLLLLLL	42
 Snowman Table	
 TuuMNppppppppp	46	
 pppppppppppppp	42
+
+Spooky Chair	
+bSSDOOOooooooo	46	
+oooooooooooooo	42
 
 Tropical Vista	
 bvUCWppppppppp	46	
@@ -857,6 +860,10 @@ Backyard Pool
 AKZVdLLLLLLLLL	44	
 LLLLLLLLLLLLLL	42
 
+Spooky Bookcase	
+QEEEbcdddddddd	44	
+dddddddddddddd	42
+
 Garden Gnome	
 aKAbBBBBBBBBBB	44	
 BBBBBBBBBBBBBc	42
@@ -888,6 +895,10 @@ cccccccccccccB	42
 Mailbox	
 3TTFFuuuuuuuuu	43	
 uuuuuuuuuuuuuu	42
+
+New Year's Card (4)	
+weRrCdTTTTTTTT	43	
+TTTTTTTTTTTTTT	42
 
 K.K. March	
 2RRFooYYYYYYYY	43	
@@ -1065,7 +1076,7 @@ Snowman Sofa
 Q&&&eeeeeeeeee	37	
 eeeeeeeeeeeeeE	29
 
-Jingle Shirt	(?)
+Jingle Shirt
 QC2bssssssssss	36	
 sssssssssssssB	29
 
@@ -1257,7 +1268,11 @@ Jingle Clock
 BCrtFillllllll	22	
 llllllllllllll	14
 
-(idk where else to put this but do this at some point)
+(idk where else to put these but do these at some point)
 Turntable	
-QQbDjjjjjjjjjj	27	
+QQbD jjj jjj jjj j	27	
 jjjjjjjjjjjjjQ	18
+
+Baseball	
+ALLlW@ %%% %%% %%	80	
+%%%%%%%%%%%%%%	98
