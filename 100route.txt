@@ -327,7 +327,8 @@ Put Card 2 in Slot 1 (card 1 should be in 0 slots)
 
 - CHANGE DATE TO September 2nd 2030 ON TRAIN!
 - Same Intros/Chores as beginning WITH police station
-- Codes, Shop Model > save and continue
+- 30,000 Bell Code / Other 2 Codes > Catalog
+- Shop Model
 - Travel to Town 1
 
 - Drop items > buy candy + other item and drop outside > reset after save
@@ -582,5 +583,5 @@ Delay Other Player Chores (not doing) --
 - current idea is to do october 29th instead of december 28th > do labor day (sep 2nd 2030?) on file 2 > get shop model and travel to main town > buy candy as item (IF POSSIBLE! dont know if this will trigger the upgrade and need to test!) and drop it outside along with everything else from earlier > catch ant :> then pickup and sell all the items...? you go forward to october 31st so this wont quite work, will have to sell the next day BUT this guarantees no rain (for ant) AND a potential jack item!? probably not even worth it but ig if u run into him somehow pray its not a dupe if u have spooky items
 - candy doesnt work for the upgrade, still can buy and drop candy just have to buy another item
 
-Money Bag/Cataloging during 2nd Town Chores
+Money Bag/Cataloging during 2nd Town Chores --
 - do a money code to catalog, 2 other codes, then can also use this money to fund nookway visit.
