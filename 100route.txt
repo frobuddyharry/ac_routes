@@ -295,34 +295,33 @@ December 27th 2029 @ 4:59pm
 5 - grab all bags & deposit
 6 - deposit/villager codes (Catalog/Codes)
 
-(ENTIRE TRAIN DUPE SECTION IS EXPERIMENTAL AND YET TO BE TESTED)
-
 - For going back in after resetting from save, always do top option
 - Never drop wallet money, it's slow and not worth
-- Grab mail after withdrawing/depositing everything
+- On gyroid face days, any item you get will NOT be added to the catalog, so you MUST drop everything you get and pick it up on a normal day (you can keep the tickets)
 
 - Second Memory Card In > Travel and reset after save
 
 Eject Card 2 / December 22nd 2029 @ 4:59ppm
 
-- Catalog / Codes / Letters
-- Withdraw Everything and Drop Bags (grab mail after) (dont drop wallet money)
+Letters - Withdraw Everything and Drop Bags
+Catalog > Codes > Drop All Items!!! (no mail)
 
 Reload w/ Card 2 in / December 1st 2029 @ 4:59pm
 
-- Catalog / Codes / Letters
-- Grab and Deposit Everything > Snowman from Tortimer
+- Letters - Grab and Deposit Everything
+- Mail > Snowman from Tortimer > Items from last day
+- Sell > Catalog / Codes
 - Second Memory Card In > Travel and reset after save 
 
 Eject Card 2 & Load / November 11th 2029 @ 4:59pm
 
-- Mail > Catalog / Codes / Letters
-- Withdraw Everything and Drop Bags > Police Model from Tortimer > Mail Again
+Letters - Withdraw Everything and Drop Bags
+Police Model from Tortimer > Catalog > Codes > Drop All Items!!! (no mail)
 
 Reload w/ Card 2 in / October 29th 2029 @ 4:59pm 
 
-- Catalog / Codes / Letters
-- Withdraw and drop bags until there is 900,000 or less bells left in the bank (this is different depending on wallet stuff, needs to be re-evaluated)
+- Withdraw and Drop Max 3 times > Withdraw 300,000 or more
+- Mail > Items from last day > Catalog / Codes / Letters
 
 Put Card 2 in Slot 1 (card 1 should be in 0 slots)
 
