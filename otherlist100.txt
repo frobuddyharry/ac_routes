@@ -655,7 +655,7 @@ aawCV CCC CCC CCC	55
 CCCCCCCCCCCCCC	56
 
 Station Model 6	
-QWSKKT qqqq qqq q	55	
+QWSKKT qqq qqq qq	55	
 qqqqqqqqqqqqqq	56
 
 School Pad	
@@ -2362,7 +2362,7 @@ qwEHN yyy yyy yyy	38
 yyyyyyyyyyyyyy	28
 
 Bromeliaceae	
-224n EEE EEEE EEE	45	
+224n EEE EEE EEE E  45	
 eeeeeeeeeeeeee	28
 
 Fan Palm	
