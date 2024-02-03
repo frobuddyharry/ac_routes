@@ -2349,6 +2349,10 @@ Barber's Pole
 KKKaW rrr rrr rrr	36	
 rrrrrrrrrrrrrr	28
 
+Fan (Nook)	
+AKlbEEEEEEEEEE	42	
+eeeeeeeeeeeeee	28
+
 Water Bird	
 qeeBB xxx xxx xxx	32	
 xxxxxxxxxxxxxx	28
