@@ -27,6 +27,8 @@ because favor, game will fill wallet meaning space for 1 money bag, 14 money bag
 
 available space = 549,999 OR second sell max
 
+available space = 549,999 - leftovers then divide by 30,000 for max money
+
 turnip amount equation // (asking price * XX00) (XX is how many turnips you are buying so if 11 > 1100)
 
 post turnip buying equation // 135,100 - (asking price * XX00)
