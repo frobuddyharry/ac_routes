@@ -1,0 +1,86 @@
+ACCF Completed Museum - route and thoughts
+
+map - you want post office close to gate, house close-ish to gate, nooks close to house, and museum close-ish to house/gate
+
+flea market - basically just be checking inside houses a lot! if you see something you like go backwards to the nearest flea market date and buy it (talk to the villager twice then go to the item). if they aren't selling it, you could try going to a different flea market date instead, or potentially go backwards then forwards a day (untested). 
+if theres anything you see in the beginning of the run that you want before they put it away, go to flea market in june (listed in route). you will probably need to go to a different time if the villager is outside.
+
+feng shui - you want to near max out your feng shui in your house for better redd paintings with specfic items. you can also find these items easily within some villagers house aswell so use flea market to your advantage! 
+Yellow (West) Wall
+- max out with lemon or daffodil tables with yellow flowers on top (Blaire has lemon in her house)
+- prioritize yellow over green in the bottom-left corner
+
+Green (South) Wall
+- catalog ables whenever you can to find a green hat
+Green Caps, Green Knit Hats, Wizard's Caps, Li'l Bro's Hats, Tyrolean Hats, Melon Hats, Green Feathers, Frog Caps, Kappa Caps, Hero's Caps, Retro Helmets, Green Glasses, Eye Masks, and Cucumber Packs
+- the one table you can potentially find is a green table, watermelon table has secondary color green which might help (Merry, Moe, Rowan, and Sydney have this)
+- prioritize green over red in the bottom-right corner
+
+Red (East) Wall
+- max out with tulip tables (Bella, Chrissy, Freckles, Monique, Pompom, and Victoria have this) and red flowers
+
+for a better visualization check my pb
+be on the look out for wisp!!!!!!!!! you pretty much need wisp at some point
+
+FOR NOOK PAINTINGS: these are spotlight items only, meaning you dont need nookingtons in this run
+to check for them effeciently, go to the bulletin board and check to see if its there or not (check a run to see what the spotlight annoucement looks like)
+
+2011/12/24 @ 8pm
+- intros + chores
+- 4 jingle presents > sell & buy tools > first debt (talk to nook)
+- check ables > get fossils > go to city and knock on redds door
+
+2011/12/31 @ 8pm
+- go to inside villagers house and talk to them, when they start repeating either leave and reenter or try someone else
+- once they ask, accept their request > keep talking to them with the bottom option once u start talking
+- repeat until you see イチリ具家 in green > bottom option then top option > get fossils afterwards + check ables
+
+2012/01/04 @ 8pm
+- check nook n go > GET MAIL (open redd letter) > get fossils + check ables > go to redds and get painting (so you can get rid of letter afterwards later)
+
+from here its basically just the normal net route with a few key differences
+- start in the year 2010!! 
+- you can go to flea market 2010/06/27 for anything you might need
+- fossils everyday and check ables if needed and if possible (drop near museum)
+- check furniture each day for anything good for feng shui
+- look out for lamp each day (and get wisp and save lamp for later!)
+- shovel up all stumps while deforestating
+- when you start going forwards into september, you can ignore fossils for now
+- DURING JULY RAIN > catch a bunch of coconut beetles and sell them (need around 250k if buying max feng shui)
+- deposit 140k and buy feng shui items from catalog (28 yellow, 20 red, 20 green)
+- try and keep red/yellow flowers leftover for bugs in house for later
+- you can drop net on p1 and start a new player > talk to pelly and select house then get ez petaltail with no mosquitos to donate, BUT you must delete the player afterwards (4 > 2 > 2 for menuing??)
+
+after you donate all bugs...
+wii menu date changes > 2023 > 2030 > 2035 (go in and check nooks each time)
+- pay off debts each day (nook > post > nook), pay off 3rd debt then go forward a day
+- setup feng shui (for flowers, just buy red/yellow each time and go forward around a week everytime?)
+
+for fishing, do whatever route you prefer but with some key differences
+- find a year where the first of the month is a tuesday (火), go in and catch all fish you need/want + check nooks
+- use wisp on this day if you have a lamp to use, go to attic and hit top option
+- go forward to wednesday (水) > get fossils > check board > check redds (pick all grass on map if you just did wisp)
+- while getting fossils, pick any weeds or grass that grows
+- repeat going forwards to wednesdays until you hit the last one, then go DOWN to the next date
+
+- IF you get a new redd painting, you can skip checking the board and just check inside for the item, then attempt to sell the redd painting 
+- if he sells for 490, DO NOT SELL, it is real and should be donated. otherwise if he says a bunch of extra text and trys to sell for 10 bells, it is fake and should be sold.
+- for cleanup split, you can skip painting and fossil checks if you want to focus on finishing fishing
+
+FOSSILS/PAINTINGS
+
+- continue go fowards on wednesdays UNTIL you get to around ~160 fossils
+- once you have that amount, start doing fossils
+- starting out id recommend going for 6-4 dupeless, then based on that shift the amount of dupes you can sacrafice (its kinda hard to say without just doing it and trying it out)
+- ideally for final fossil you want to have one full inventory you can reset for at the very least
+
+- SAVING: you can save at the gate by clicking middle then top option for copper, easier for save scumming
+- try for resetti skip... theres one resetti that fake resets your game BUT if you do resetti skip it actually skips that fake reset and save a considerable amount of time
+- if you get to the resetti where you need to input characters, do so then immediately save again so you can go to the next one (i think it loops to different ones but not so sure...)
+
+- for paintings, just continue doing the same thing as before, wednesdays > boards > redds until you find every redd paintings
+- if it does come down to final boss nook painting, go forward a day and check the board for the bird
+- if the bird is there, check the board for the painting, otherwise save and go forward
+- if the announcement is a spotlight item, but not the painting, go forward 2 days (not sure if this actually helps at all)
+
+after donating everything (gg), clear out mail and get the museum model
