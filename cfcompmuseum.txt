@@ -75,7 +75,7 @@ FOSSILS/PAINTINGS
 - ideally for final fossil you want to have one full inventory you can reset for at the very least
 
 - SAVING: you can save at the gate by clicking middle then top option for copper, easier for save scumming
-- try for resetti skip... theres one resetti that fake resets your game BUT if you do resetti skip it actually skips that fake reset and save a considerable amount of time
+- try for resetti skip... theres one resetti that fake resets your game BUT if you do resetti skip it actually skips that fake reset and saves a considerable amount of time
 - if you get to the resetti where you need to input characters, do so then immediately save again so you can go to the next one (i think it loops to different ones but not so sure...)
 
 - for paintings, just continue doing the same thing as before, wednesdays > boards > redds until you find every redd paintings
