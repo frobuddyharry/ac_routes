@@ -14,11 +14,12 @@ Yellow (West) Wall
 Green (South) Wall
 - catalog ables whenever you can to find a green hat
 Green Caps, Green Knit Hats, Wizard's Caps, Li'l Bro's Hats, Tyrolean Hats, Melon Hats, Green Feathers, Frog Caps, Kappa Caps, Hero's Caps, Retro Helmets, Green Glasses, Eye Masks, and Cucumber Packs
-- the one table you can potentially find is a green table, watermelon table has secondary color green which might help (Merry, Moe, Rowan, and Sydney have this)
+- the one table you can potentially find is a green table (Merry, Moe, Rowan, and Sydney have this), watermelon table and jingle table have secondary color green which might help 
 - prioritize green over red in the bottom-right corner
 
 Red (East) Wall
 - max out with tulip tables (Bella, Chrissy, Freckles, Monique, Pompom, and Victoria have this) and red flowers
+- jingle table and watermelon table are good alternatives
 
 for a better visualization check my pb
 be on the look out for wisp!!!!!!!!! you pretty much need wisp at some point
@@ -47,7 +48,7 @@ from here its basically just the normal net route with a few key differences
 - look out for lamp each day (and get wisp and save lamp for later!)
 - shovel up all stumps while deforestating
 - when you start going forwards into september, you can ignore fossils for now
-- DURING JULY RAIN > catch a bunch of coconut beetles and sell them (need around 250k if buying max feng shui)
+- DURING JULY RAIN > catch a bunch of coconut beetles and sell them (need around 250k total if buying max feng shui)
 - deposit 140k and buy feng shui items from catalog (28 yellow, 20 red, 20 green)
 - try and keep red/yellow flowers leftover for bugs in house for later
 - you can drop net on p1 and start a new player > talk to pelly and select house then get ez petaltail with no mosquitos to donate, BUT you must delete the player afterwards (4 > 2 > 2 for menuing??)
@@ -70,7 +71,7 @@ for fishing, do whatever route you prefer but with some key differences
 
 FOSSILS/PAINTINGS
 
-- continue go fowards on wednesdays UNTIL you get to around ~160 fossils
+- continue to go fowards on wednesdays UNTIL you get to around ~160 fossils
 - once you have that amount, start doing fossils
 - starting out id recommend going for 6-4 dupeless, then based on that shift the amount of dupes you can sacrafice (its kinda hard to say without just doing it and trying it out)
 - ideally for final fossil you want to have one full inventory you can reset for at the very least
@@ -79,7 +80,7 @@ FOSSILS/PAINTINGS
 - try for resetti skip... theres one resetti that fake resets your game BUT if you do resetti skip it actually skips that fake reset and saves a considerable amount of time
 - if you get to the resetti where you need to input characters, do so then immediately save again so you can go to the next one (i think it loops to different ones but not so sure...)
 
-- for paintings, just continue doing the same thing as before, wednesdays > boards > redds until you find every redd paintings
+- for paintings, just continue doing the same thing as before, wednesdays > boards > redds until you find all redd paintings
 - if it does come down to final boss nook painting, go forward a day and check the board for the bird
 - if the bird is there, check the board for the painting, otherwise save and go forward
 - if the announcement is a spotlight item, but not the painting, go forward 2 days (not sure if this actually helps at all)
